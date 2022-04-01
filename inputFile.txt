@@ -1,0 +1,3000 @@
+8526 TpPp viZzsPZpYqjSFxOD Algeria 84 Ebola YES 16-06-2006
+6697 RfBqlAoLmBXFBaq yXvAOxxdEBOfop India 100 Dengue YES 03-02-2007
+7830 qzcjRNsEOyeJBNvv HbEyPphJXnkSUIzx Andorra 33 H1N1 NO
+8629 SoCnkhiJeOaRv EpNSBZD Belarus 11 Sars-CoV2 NO
+2577 EYsGKycDITtTre pHTEFJMZ Eritrea 68 Smallpox YES 15-03-1975
+6357 lXdQgfmVuFM Gobe Belgium 106 Smallpox YES 15-07-1991
+5831 rRQpVIrrDmVEOikk ZUVZNQzXJFMU Estonia 42 Dengue YES 14-08-1961
+0475 NpckAiVSJ AEmXdCRnM Algeria 102 Sars-CoV YES 07-03-1970
+5389 xpDpAcGQuEMgN fvTNIjDpvs Andorra 80 Sars-CoV2 YES 19-09-2018
+0097 ATAKzSgpDEjNs NiAbDNTmdaLx Andorra 60 H1N1 YES 10-11-2010
+8491 NPdzqsdNQluq GCZxeRxgbZtcSvU Eritrea 104 Marburg YES 15-12-1998
+9849 USyNi tEFUjg Estonia 83 Ebola YES 08-06-2003
+4408 iAeTTIAg HICBbFjGyTaCcKns Eritrea 106 Marburg YES 20-07-1995
+1678 QdvttdqQn Pyelx Estonia 55 Sars-CoV2 YES 14-01-2003
+8719 sFBNovNU rGhJbmajU Albania 84 H1N1 NO
+3478 iukblPojL cuzjJsHONGjRSf Azerbaijan 117 Marburg NO
+8270 GPMyRfQkl SZiJHLuFN Albania 88 Ebola YES 25-06-1969
+3095 VgKgAo LSOBkj Belgium 8 Sars-CoV2 NO
+1459 EJYOkeKbdliJqnJ klhlkplKArspo Estonia 74 Ebola YES 05-10-1978
+0097 ATAKzSgpDEjNs NiAbDNTmdaLx Andorra 60 Sars-CoV2 NO
+6029 DJdcDohpzv yRbtEXRrAGilng Algeria 48 Ebola YES 26-05-2007
+8296 BHhVKJi VUQjlBsgPUKK Estonia 28 Sars-CoV NO
+0517 KKAbMT MCp Estonia 83 Marburg NO
+1834 zbvfug ESkleTNBQm Bhutan 8 Sars-CoV YES 29-01-1984
+7034 FPEa BkykJIHzOo Canada 11 Sars-CoV YES 11-09-2017
+1060 TUpvHrpvgL rYv Algeria 35 Sars-CoV YES 22-04-2001
+3669 hVxlRCH ORfnk Chad 27 Sars-CoV2 NO
+8721 baJtl nbiuppnIm Belgium 20 Smallpox NO
+0975 seAOYL uvi Albania 68 Dengue NO
+7328 xNFz gVxLPb Azerbaijan 64 H1N1 YES 30-09-1988
+0746 GksLL jleeBI Azerbaijan 108 Dengue YES 20-11-2011
+4035 OHf DBocqJpNedlEU Azerbaijan 17 Sars-CoV2 YES 12-04-2021
+8467 XZdRglNS qdzFYReBKxxjhvo Belgium 83 H1N1 YES 26-05-1996
+8812 vLYVhVrPYjMn PpS Azerbaijan 77 Dengue YES 17-11-2016
+6351 ZRMqDLzEGPanoMbX KHvfcHt Algeria 102 Dengue YES 21-11-1989
+3234 lDEEOGD mFSTz India 4 Sars-CoV2 YES 14-06-2017
+4777 SrOXcomdVjtXbDX sjYKXN India 75 Ebola NO
+4723 BuEYfFZksKPOIA VUqBfNPQZl Azerbaijan 5 Marburg YES 12-07-2020
+8333 fRHrCtZarnSoPD UOSPqNZnQchepVmt Bulgaria 115 Sars-CoV2 NO
+7034 FPEa BkykJIHzOo Canada 11 Sars-CoV NO
+7035 EEm gzGuDqPPteXAm Gambia 91 Ebola NO
+2322 PCXyNLIKAhuI HeaLnJsXF Andorra 119 Smallpox NO
+4116 bmcYKdqD dMErmLlM Azerbaijan 45 Marburg NO
+3197 oDjtLnAZRIp sFatn Bhutan 49 H1N1 YES 12-06-1963
+1775 TQKrtUeC vCMAiTRfiLMB Chad 25 Sars-CoV2 YES 11-04-1992
+0552 iknnOLyqaI XpuszJLQLr India 7 Marburg NO
+8540 FXbbPXHvfdjxpN IDyI Greece 2 Dengue YES 14-11-2018
+2231 NdjoomLKoxeAmN GjFayKVnoDiYhINS Greece 91 Dengue YES 15-09-1973
+1816 PLbJtiHmTCrkUiDG UBFGXEIgMjdk Bhutan 72 Smallpox YES 28-08-2000
+4385 qgkTkNvyvJRC HjnJueqYqdj Bulgaria 111 Smallpox YES 28-08-2021
+3542 NzZoyfrmrSUXcF TDDMMMEvSHQ Azerbaijan 49 Sars-CoV2 YES 15-06-1974
+8496 VPixGtJmgsauM zAvDKXTYvQ Chad 91 H1N1 NO
+8832 eoCTDHSDXLvpjMmV HEYaZeIqBPt Eritrea 43 Sars-CoV YES 16-11-2005
+1459 Lpda SlMPJmEPl Estonia 74 Sars-CoV NO
+9445 uzyMmgPMdUX VabhMV Estonia 53 H1N1 NO
+7264 xNtNtdkNd xteLaVzfvFIeEY Albania 38 Ebola NO
+3808 pQjfCK nxklFslkMD Eritrea 51 Sars-CoV YES 30-08-1994
+5887 PIzMgyJDgf yMTMlMVpcGvESeta Belarus 31 Marburg YES 26-05-1989
+6363 hfaZlyHIKfNES ufxGPDsT Eritrea 87 Ebola YES 13-06-1989
+8526 TpPp viZzsPZpYqjSFxOD Algeria 84 Smallpox YES 05-02-1974
+6054 DbmgDgTN xCluhZSJpCVS Eritrea 2 Marburg YES 09-12-2016
+9250 srNToucaVzUjXx ELLdefitU Azerbaijan 63 H1N1 YES 25-01-1982
+0268 liLQAVAe ZLLLMio Gambia 87 Ebola YES 28-05-2003
+1785 ZUyeMfd ntzqGbkYnsqSQGf Belgium 98 Dengue YES 22-07-1987
+2893 tIimF ITFQqrSffY Belarus 1 Dengue YES 01-12-1988
+0893 zHVGystKtvEGRDGZ HLbFlRaQfjGKR Azerbaijan 48 H1N1 NO
+9677 pXYotRSM TRJkyHYbq Albania 32 Dengue YES 05-02-1991
+0935 XfAqXPYcvsY nzISTqfgpzV Albania 108 Sars-CoV YES 01-03-2007
+1520 rspyPx NbiscmliaAdPB Bulgaria 75 H1N1 NO
+2587 OOKBUrU mSH Gambia 53 H1N1 NO
+2325 lyNri XrBLghmlDPXnKN Greece 68 Sars-CoV2 YES 22-11-1988
+3590 eORtrvUEC sjZDOIX Andorra 25 Smallpox YES 10-10-1963
+5976 iiUXdrRtXHvPxJif hXlEVXTg Belarus 40 Dengue NO
+5883 khYXlsCCq ixGhMSJgXxSISn Azerbaijan 27 Sars-CoV NO
+8266 lvNAg HRKHGz Gambia 15 Ebola NO
+8592 uFoOaNuzRnFoTnEI aSxyMHkSJZj Eritrea 93 Sars-CoV NO
+3327 lSf JAHlDtQmCPoIvmh Bhutan 85 H1N1 YES 28-10-2013
+8757 rBNErLNM ffPglrDdoxHN Azerbaijan 29 H1N1 YES 14-07-2012
+4219 dFXCdzf OqBEAkJkQHNM Andorra 15 Sars-CoV NO
+4035 OHf DBocqJpNedlEU Azerbaijan 17 Marburg YES 11-10-1988
+1106 LEPp pQFrMsgRzNkXi Azerbaijan 70 Smallpox YES 24-05-1990
+0046 VSCGMo HduOBONVGvA Albania 95 Dengue YES 26-01-2010
+3087 XznvDbu lcuqfJnJL Estonia 13 Dengue YES 12-11-2012
+7475 HdVsK OFzdhuiVPPTvZVmH India 93 Ebola NO
+9979 FnBEEvXGknitf FUxfG Azerbaijan 15 Marburg YES 08-09-1997
+6302 bDAhNlsSRHRv VnrXdRylpyFnXZg Canada 54 H1N1 NO
+0361 erJk jmpFgiDo Azerbaijan 18 Sars-CoV YES 07-09-1994
+1936 YEpeej QccGLHkiSugEQR Azerbaijan 37 Marburg NO
+7083 qqGmtJHFfVnPXilE iIOGkQ Estonia 47 Smallpox NO
+0386 YuLSfSsNM DaRpiBrzZXxYzd Belarus 28 Dengue YES 16-05-1998
+1575 vPrdatERrg pFjNdL Bulgaria 6 H1N1 YES 05-09-2014
+4677 aqGRzc cGqohTaTVASNIDJu Algeria 82 H1N1 NO
+8787 ACbQ UXnZMTFYzhytq Algeria 98 Smallpox YES 26-08-2021
+6319 OoUSudHhKGjUB hpLGeH Albania 69 Ebola YES 06-02-1994
+7778 pHvOLVg nsUOuiOEI Andorra 46 Sars-CoV2 NO
+0282 TAu tXZsRiq Albania 91 Dengue NO
+9508 GtjGuctkoQVkY omsToHSLxmL Andorra 61 Marburg YES 13-08-1981
+5712 KehyYklL HtzV Greece 104 Sars-CoV2 YES 12-02-1967
+8259 hgTPFMHKBpGgYl bmpuEQob Bulgaria 40 Ebola YES 26-01-1979
+0361 erJk jmpFgiDo Azerbaijan 18 Smallpox NO
+4512 aULhgqRGQOJc KfDxHoStzjnjz Albania 12 Ebola YES 21-02-2018
+9934 diIOiDHfBFYeOm MVXMXtsvzaj Andorra 66 Smallpox YES 18-04-2003
+4512 fJkf aFxMbq Estonia 12 Marburg NO
+4645 GNxlVrNcIVV gPZs India 103 Smallpox YES 13-10-1983
+7089 saDqD yusKFX Eritrea 56 Ebola YES 09-12-1994
+8730 lbkmuQh iMU Greece 80 Smallpox YES 14-03-2021
+2185 vqY bvrTIHNcuFLF Albania 100 Smallpox YES 25-11-2002
+7140 TJRRvsGhNZpl AseiCgsmadtlvbht Albania 119 H1N1 YES 26-11-2000
+0122 JQMHuqXgL RPNLsiFL Azerbaijan 93 Smallpox YES 09-06-1969
+1735 ERcTehG pOrnTdXeAyOC India 116 Sars-CoV2 NO
+0726 UKTOaQSMjCEM GLKmzqf Andorra 59 Ebola NO
+5394 hTaiKucaa COgnAvHReItRlEF Chad 79 Marburg YES 07-05-1974
+0991 ShFvjrffBMbVNG tzxDUqQdTZDRuL Belgium 5 Smallpox NO
+5603 QRKACHTKJyag aIXMq Belarus 21 Marburg NO
+1729 MlPJq ZLtHPh Belgium 76 Ebola NO
+2090 jQjCvgejSmhFeEQ pyiqvyHvzMB Canada 82 Dengue NO
+9896 eVrfleD fNAVMrUZ Canada 93 Ebola NO
+4054 iNFnsHjXbzetE yBOyLdzIoSIjx Bhutan 95 Smallpox YES 19-07-2005
+1848 MtOQvYMTuYK KjBFKIvAIRSh Chad 67 Marburg NO
+4777 SrOXcomdVjtXbDX sjYKXN India 75 H1N1 NO
+6357 ItV AzvgCgOg Belgium 64 Smallpox NO
+2159 GYippxpREnGU mMhZGxuSszMpztfj India 47 H1N1 NO
+5830 BiYIIutpeZnnui odAPrteRVO Andorra 75 Marburg YES 26-12-1980
+5014 HaxuF EFhRPCHBDTjIc Greece 89 Sars-CoV YES 05-06-1969
+1419 zXooTNe PEONctBFb Bulgaria 61 Sars-CoV NO
+1782 ueTTcZAeNXxUYJCN gcRkdlPdxh Azerbaijan 42 H1N1 NO
+0324 PSHZlDPolSrARO pTQBYnkLiupmxsAi Canada 20 Dengue YES 19-12-1963
+5957 QIoGDOC GZRdayAEoEmnB Algeria 34 Marburg YES 11-12-1984
+5703 kyFcY PJJGXiiGcJFIr Algeria 19 Dengue YES 24-11-2020
+6936 XrcQtxE kTGomSZrKCdTxJ Gambia 56 H1N1 YES 19-01-1985
+1293 CzZpPBsoTIlrFS iUpQb Andorra 119 Sars-CoV YES 02-01-1991
+8515 UzKuZKnThpGZgsHT vMcnPxCrRCtHM Belarus 90 Sars-CoV NO
+0821 dLCLRkdCsfb FEMko Greece 15 Ebola YES 15-04-1990
+1765 ukLfJdauYpL jZK India 18 H1N1 YES 26-09-2021
+0204 vEDpNmIYsKY qfYLN Azerbaijan 12 H1N1 YES 16-09-2012
+3729 CRhDrgzcgnPHv sKgDRRROvqIUb Andorra 79 Dengue YES 30-02-1984
+1986 VpIQYOyE XbUsAsDbnJBLgM Greece 50 H1N1 YES 08-08-1977
+1903 PzkLPbRqUXKJRMLB XBlil Gambia 82 H1N1 YES 16-09-1967
+6072 OMC RVFKyKrURXiYRnv Albania 42 Marburg NO
+0935 XfAqXPYcvsY nzISTqfgpzV Albania 108 Sars-CoV2 YES 15-07-1969
+5696 EHPSol nLmRO Albania 35 Ebola YES 16-07-1992
+9436 oExQDEZdaYj BrIHnpMpnhVrzJ Belarus 90 Sars-CoV NO
+6059 tbyN XJIPYAi Bhutan 48 Marburg YES 15-11-1992
+2444 ygpGEmjSiHDoi SVX Belgium 117 Sars-CoV2 YES 29-11-1969
+3972 zIakvNkN YchnxQUujmieQUC Greece 31 Dengue NO
+6009 lymBVItfEGoxQH tQPZIpVV Bulgaria 29 Ebola YES 01-04-1969
+0009 SdCbgeULmBgtoNIa XopTD Belarus 3 Marburg NO
+4977 LuvnUellxSXvQMmI PAKdJJPYHBpNz India 35 Marburg NO
+4011 QvlqJbNOXMAlqzCr RBfuCN Algeria 95 H1N1 YES 03-12-2009
+4418 LPnDVR pNQ Belarus 94 Sars-CoV YES 26-01-2019
+5207 xiuyQtYtkePrCq zQYqbkSYuO Canada 40 Ebola NO
+9167 xXp DodUKqbDBpUOK Algeria 91 Marburg NO
+9641 toAURZ gjBEtcHSCh Chad 52 H1N1 NO
+1352 GreCDgJssKRrvUFP yqEVUADQ Chad 106 Dengue YES 29-09-1964
+2946 XkyGmZlve sPgUyiozVrpc India 80 Marburg YES 12-05-1963
+6547 GtiNhMSnee JyMRMlrYenjKY Estonia 59 Marburg NO
+1685 KbiozRnoXCBfsMy UCdgQF Chad 74 Dengue NO
+3850 dReqCvblCf gIl Andorra 116 Marburg NO
+4365 ZBsfQrpvKfJqXRL cnZIG Eritrea 80 Smallpox NO
+7264 xNtNtdkNd xteLaVzfvFIeEY Albania 38 Sars-CoV YES 22-02-1968
+0547 olFAfJHzvyGJvvHx XxgL Algeria 93 Marburg NO
+3422 fzhUOd OlkqLqdPAFfactZJ Belgium 44 Marburg YES 05-07-2010
+5445 eNSbdiy tBhkLYtrn Bulgaria 72 Ebola NO
+1296 OUfg OGGJXNapqPF Eritrea 43 Sars-CoV YES 15-05-2011
+6978 mjQYt egVHqC Bhutan 10 H1N1 NO
+1051 rHUC SGz Eritrea 2 Smallpox NO
+0356 nhlvzhtTHCCeeQ JxrYB Bulgaria 77 Dengue NO
+3757 roHIgxSpp XxlkZmY Azerbaijan 21 Sars-CoV NO
+1967 HIOZoXBdNEGgIak lvLPA India 2 Ebola NO
+2208 euZXn QdVmbc Canada 107 H1N1 YES 07-03-1964
+9053 CdgEJXys UFeEZPjdsis Greece 116 H1N1 YES 16-01-2007
+2722 aeAmp NZBAjjXO Gambia 28 Smallpox NO
+1216 mGqriFyBQGCzolJJ uGtLme Gambia 36 Dengue NO
+4807 XjKbvGmf PUhNmqvRcFbIs Eritrea 55 Smallpox YES 14-09-2001
+9236 CeRKtTUdflrIptj DJD Canada 72 Ebola YES 01-05-2006
+8980 QsFClX bTSOysLknokZ Chad 86 Sars-CoV NO
+1511 Zaoa UjzQePmPnuaU Bhutan 11 H1N1 NO
+1946 lRPfkCa IVTJGQxxfIDpFr Estonia 100 Sars-CoV2 YES 21-07-1988
+0419 nkSLgNem QrzmpXfl Belarus 35 H1N1 NO
+1816 PLbJtiHmTCrkUiDG UBFGXEIgMjdk Bhutan 72 Ebola YES 17-02-1963
+1328 ffLZb clmGjEorafnIiO Belarus 13 Marburg NO
+8586 BjRqqkj ADFD Gambia 91 Marburg NO
+1739 occjkqSkIEmjBty Hkl Greece 85 Sars-CoV NO
+0397 kNnGKXMH bUtvrPvxXeeZL Eritrea 94 Sars-CoV2 NO
+6195 XzsOJrUA iTGmUlTIuCUA Eritrea 35 Dengue NO
+9181 nyAaoojhMRHbPFX bqAzfpHl Gambia 8 Ebola YES 22-10-1982
+4555 hzezGCsnH oXQQDkYbFELyKzIi Gambia 87 Sars-CoV2 NO
+3261 TMtXlrRAIgJt FiAAzYuohVEmPbJm Estonia 118 Smallpox YES 22-08-2017
+8561 fXit apyhOD Estonia 60 Sars-CoV2 NO
+5413 sdSr VqNpaJbtEb Estonia 47 Smallpox NO
+8450 GbZv NNekGuqxYKexoKX Canada 112 Smallpox NO
+7290 zAsAMfylARAZEfLU mqMIMShQARxgg Estonia 109 Marburg NO
+9180 ffrvNmScaMpV bFOXGyAEbThXy Belgium 43 Ebola YES 10-04-2009
+7170 xOcY FYQxpVX Andorra 71 H1N1 YES 25-04-2018
+8685 QotKh lMvCInGNGohtiF Belgium 23 Sars-CoV2 YES 24-04-1996
+3590 YoT ZNLNfAEu Algeria 1 Ebola YES 22-03-1965
+2556 QIEv PbtLEyt Belgium 55 Marburg YES 06-09-1963
+1148 rhcefLdQcrADU SMyvCytSaq Azerbaijan 72 Smallpox YES 12-09-1977
+0700 xtInKkJrzFlUFYi MJHRbrQSGPQzUNAA Estonia 66 Ebola NO
+6363 hfaZlyHIKfNES ufxGPDsT Eritrea 87 Ebola NO
+1148 rhcefLdQcrADU SMyvCytSaq Azerbaijan 72 Dengue YES 23-09-2015
+9255 BYRAARLfPMKcsJ IVSgiKlTngnCu Eritrea 11 Ebola NO
+2637 pbAL DZBjJsgzZgCIJOmm Eritrea 88 Ebola NO
+0013 ygNhQ NXxnYuXV Belarus 78 Smallpox NO
+4762 huGYYCdqXYb uZPCeTcDRZu Greece 41 Sars-CoV YES 04-05-1988
+9509 sOdBl TkbKGHYYo Azerbaijan 27 Dengue YES 16-12-2015
+4272 vMCkLEHBhomiDKd ylYg Andorra 110 Smallpox NO
+7532 idNvvXtNatBZoHEq xxHDCdexMPo Andorra 4 Sars-CoV YES 19-09-2010
+2022 aVnVYNEboft uvStFM Bulgaria 24 Sars-CoV2 NO
+1497 srCSoSbqnD uzSAHIGxPsky Albania 94 H1N1 YES 08-10-1967
+5760 oSyeJfQI StL Belarus 94 Sars-CoV2 YES 03-05-1986
+6817 ZmsdixzjoTY amv Gambia 5 Smallpox YES 02-10-2011
+8176 Ncyi VXvvJRxevUB Bhutan 100 Ebola YES 03-04-2005
+0976 YXt xgTaAJy Gambia 53 Ebola YES 11-04-1989
+2337 XGkQftjcLNPiIKt FPbyZMgymNgPGloK Bulgaria 17 H1N1 NO
+2000 YSDhsmBDjO bisjpkVJp Albania 52 Sars-CoV NO
+7863 lQultUTKbIuJVlz ULmqohDytmqy Estonia 75 Sars-CoV2 NO
+4882 Kvj TJmqj Eritrea 118 Smallpox NO
+9054 bvEPvR UzMdnQAKDEUQVVbi Estonia 65 Sars-CoV2 NO
+9508 GtjGuctkoQVkY omsToHSLxmL Andorra 61 H1N1 YES 04-05-2016
+8728 idbjU ymLXBrb Algeria 68 Sars-CoV YES 22-07-2005
+4447 jFfBshOtXjzs RoNuhTqDIpYA Albania 1 H1N1 NO
+4776 mUTXcUipmsOvCuEM IyNSlDQnmQHXa Gambia 61 Ebola YES 23-05-1992
+6135 YJhU hXADToKBqEqr Bhutan 101 Dengue NO
+2171 JHIjN Ulhdt India 52 Marburg NO
+5122 cIQfTJNb YdtFylGOZsyG Estonia 29 Sars-CoV YES 24-12-1995
+6435 UaOpEIShHtouepa BfaezKGRdRTDIxsR Albania 113 Marburg YES 16-12-2016
+2353 jKJnLF SztECieyG Canada 35 H1N1 NO
+3776 XxxAKqjGAvrP vGl Gambia 11 Dengue NO
+1265 ouzjtHRpsHYX IGcyLXX Greece 86 Dengue NO
+2340 pCNvXTvtEguJc eiOabLtdsSuQB Chad 30 Marburg NO
+4109 IXElf MsA Gambia 76 H1N1 NO
+9426 HUrSpgMNt TPebZjvpIdCS India 54 H1N1 NO
+8985 xnE tgnXpneJIvEDasY Greece 49 Sars-CoV NO
+8520 TRUqxPkUDBKU HqrSP Eritrea 18 Marburg YES 13-09-2001
+2045 rIBatq KOqLXZyvOsB Greece 21 H1N1 YES 15-02-2008
+7512 xzRbxZIH vTZvkkoiD India 42 Sars-CoV YES 15-11-1963
+1463 CJzAucZBOSstr znxPunfHphzmD Canada 62 Smallpox YES 02-09-2008
+0096 KNRMrvXDp ReY Bulgaria 113 Dengue NO
+0397 kNnGKXMH bUtvrPvxXeeZL Eritrea 94 Smallpox YES 16-03-1974
+7076 GGeCYfIKGXkgGq tQjHjiZOZjq Belgium 3 Sars-CoV YES 30-10-2015
+5725 oHOrnYcn aUf Belarus 80 Marburg NO
+5601 Tgvbq dgBfBohkUJbFOs Andorra 112 Smallpox YES 14-07-1980
+1085 ZmZPogHnYVYaGlGR RmkbPTeNCXolYOF Azerbaijan 10 Marburg YES 29-11-1992
+5241 DntYEFpLt LzXr Albania 88 Sars-CoV2 NO
+7604 vLBGjOSMEO XhKm India 7 Dengue NO
+3809 ATniszvjckVehpQ BqsFfAtfNk Gambia 1 Sars-CoV2 YES 25-05-2019
+9098 rGPanBHHYgcl JyHoB Andorra 95 Sars-CoV NO
+3743 lLDeRPqpTCV bYirkaknHSIseAD Belarus 66 Sars-CoV2 YES 08-05-1987
+9361 xZrGOMMeO BTZVozbd Belgium 22 Sars-CoV2 NO
+3529 znCYSIrtx iSNAmpGELKh Bulgaria 4 Dengue NO
+3253 eZH NxgNPRvBqQiQ Eritrea 17 Smallpox NO
+1108 mZBatUTddpEoh RYbxTZxUQi Greece 71 H1N1 YES 05-09-1995
+1847 fdGJHC hLNRoEgqyQftOL Belarus 60 H1N1 YES 15-03-1966
+9845 IiNLoLLZhsVIQ IkAEJvLHSaPHY Albania 36 H1N1 YES 17-08-1967
+0698 ozJhBTEoSBxK eFMohTfHhqlFGEq India 87 Ebola YES 10-10-2010
+4185 NHN KkVkL Azerbaijan 25 Sars-CoV2 YES 23-08-2008
+0311 fUc SvMjz Albania 112 H1N1 YES 20-09-2017
+2029 issLZCcdDcma iPodTUYAruuxR Azerbaijan 45 Sars-CoV2 YES 24-03-1995
+7290 zAsAMfylARAZEfLU mqMIMShQARxgg Estonia 109 H1N1 NO
+1658 ECJr TlGYSScGOTGefYLb Andorra 44 H1N1 YES 21-07-1992
+6004 GrTfDITquFdjK ZeOKBiLtZsbBLZ Greece 82 Ebola NO
+8805 xFtEiuKqF EIhszbQjGnKsQ Bulgaria 25 Dengue YES 08-04-2001
+3579 YNAyDBEfJldj xSdPkhyFQFhi Algeria 77 Sars-CoV YES 22-05-1997
+6017 huklqIYyVBeD sCDCUDaq India 97 H1N1 YES 30-04-2008
+7276 dKe GPetLSq Azerbaijan 27 Sars-CoV2 NO
+3592 DuUIOVzC fkxPacZJN Gambia 56 Smallpox YES 12-02-1968
+9436 gRr fdHfY Andorra 118 Marburg YES 30-12-1965
+8105 dkDTQyuT SUpcFNScfGcqx Belarus 50 Smallpox YES 25-07-1987
+0801 ctXvq NKKZOc Belgium 70 Sars-CoV YES 02-02-1979
+7537 ehBt iQxGCEHI Estonia 116 Ebola YES 20-11-1987
+1102 aETaksXjmVgcqTty QPNrz Belgium 58 Dengue NO
+1361 blxNUESSnhdv nCOaXyo India 94 H1N1 NO
+1963 GQAYVqABCmBG vnhubmRRCHcgEBed Andorra 118 H1N1 NO
+7311 eCUse nSMfzBldZxnps Albania 114 Ebola YES 26-02-1988
+5228 GrQkrmGvJYh lgvOYoTGi Belgium 22 Sars-CoV2 YES 23-08-1986
+4006 tfsjOKvJeKPq ClFi India 109 Sars-CoV2 YES 17-06-1965
+6446 BgXaeg OkyRJ Belgium 56 Marburg YES 11-06-2011
+7734 NZpNqi vDkxsBqDkj Eritrea 87 Sars-CoV2 NO
+0097 ATAKzSgpDEjNs NiAbDNTmdaLx Andorra 60 Sars-CoV YES 17-09-1969
+2606 CjBRLTneXukMlBK avzOrDgUQhKjM Bulgaria 108 Dengue NO
+2875 smUQ sOepQEJVdHRJ Canada 87 Sars-CoV2 YES 25-11-1971
+0056 vLFLHz CAdPfe Bhutan 26 Sars-CoV NO
+1820 XPjqRDa EeLOEPCQh Bhutan 103 Smallpox YES 05-04-2011
+0443 xIM BKZXCbGsg Albania 14 H1N1 YES 11-07-1973
+4977 HMNB cYR Greece 50 Smallpox YES 12-07-1963
+1539 pdjLkX kATbxLodhOzQhQqZ Bulgaria 79 Ebola NO
+2410 yTrLfHVGK dvseSVo Albania 78 Marburg YES 28-07-1971
+5806 kaMrjfLtVfenoN iGuYNjBStCfy Algeria 84 Dengue NO
+4234 MzzKUMq ktgm India 111 Sars-CoV2 NO
+6391 RhValfAoLFrpLJl hDZYVvUSBvAQNPCG Bulgaria 30 Dengue YES 02-12-2019
+8329 LklPEBzKKVTI TioL Estonia 94 Sars-CoV YES 03-02-2001
+3247 BQlCXuZcZDfDm NfxoANdmiY Eritrea 19 Dengue YES 21-06-2008
+6527 ZtBgdGtjONZhEdE JHLJIZKr Chad 7 Sars-CoV YES 25-09-1973
+9011 NLXbXpfZRaZCcrgt NMKgrLRtFYIrt Gambia 11 Sars-CoV2 NO
+9254 hjZNeFHpRGM CHCAjiLjGikiRH Bulgaria 45 Marburg NO
+0927 FHZUbjbdsstt SJvmtjtDD Bhutan 43 Ebola YES 11-04-2000
+0298 AfaQVmQhGSKL fKkboKUDzKdbPvc Eritrea 92 H1N1 NO
+1505 xymCjExc QIharTxb Belgium 46 Dengue NO
+3743 lLDeRPqpTCV bYirkaknHSIseAD Belarus 66 Ebola YES 19-10-1967
+0796 QuIKkrFN Svqrj Bhutan 70 Marburg YES 03-01-2004
+5652 xbdCQXE IHdTqyxGXM Chad 66 Smallpox NO
+0214 YOHmUm QZcZmqEebVzC Bulgaria 23 Sars-CoV NO
+7389 NIroyPVVmqBD iSYDzvGxjUbpJgd Belgium 106 Sars-CoV2 NO
+7812 gVTvbABzzQrBDCVC LlzCxAzEaLONzI Greece 25 Marburg YES 18-11-2009
+5523 gzkHtrCUDE XftLdMmgfavCN Andorra 61 Sars-CoV2 YES 06-06-2013
+2778 JZmJgqyvRxme SeGeJtM Gambia 10 Ebola NO
+0825 CbOaFVAJmPtvrJq fNdgYXgj Algeria 86 H1N1 YES 06-11-1961
+3690 hfNdXfo Rdy Bulgaria 13 Marburg YES 13-03-1994
+7095 DLEHivtC aDidRnt Belarus 13 Ebola YES 27-02-1983
+9145 bCObhdDYZCE qyGSHRYoX Canada 33 Sars-CoV YES 30-01-1992
+4679 ANkRrlTdF zTMmnJxePJx Belgium 45 Dengue NO
+5352 SzZn FTmyfdYMi Bulgaria 23 H1N1 NO
+4404 IfgTmLNs FRQQ Eritrea 6 Smallpox NO
+4153 YryYhOS PgYb Belarus 58 H1N1 NO
+0126 RczeSr YEmtOnl Azerbaijan 30 Sars-CoV2 YES 04-02-1963
+3148 UJX cANJfzuTgbaV Greece 22 Smallpox NO
+2456 YEyJzPmMdZLM AChOrn Eritrea 110 Ebola NO
+6528 ybyt EfaGYyRDAk Andorra 28 Dengue YES 02-09-1969
+2000 YSDhsmBDjO bisjpkVJp Albania 52 Marburg NO
+1371 YYvNsiQr exT Albania 70 H1N1 NO
+2887 itcgePlU DbzhkcIbP Algeria 15 Marburg YES 07-11-1982
+9574 YDOEUveeM nYSDOGIlukK Chad 61 Smallpox YES 18-07-2010
+2706 qLDSUVObSHYcFrsT ivSMBvJgkERjvZQ Canada 91 Dengue NO
+5783 pXxBXjMic bSrdoH Estonia 20 H1N1 NO
+5564 oZKuOMUhBSxPmR gHseKHKsZk Greece 47 Marburg NO
+8888 kpGRCAoPomJBv CLVjpzOQRc Andorra 82 Smallpox YES 30-01-1970
+8388 iytRCoexGKpb pvodFZFjsiiClyz Belarus 114 Ebola YES 20-03-1995
+7293 ZadMNeNidOmhl yls Algeria 87 Ebola NO
+6908 OuQEIpj xELieoirMaDz Algeria 5 Smallpox NO
+0913 BvVhyDsubPS JizYE Andorra 20 Ebola NO
+2317 fZr fCkztMbsSPoroHb Canada 17 H1N1 YES 29-11-1989
+1313 edKDXAHCbovvzO nBqACP Gambia 29 Dengue NO
+6928 hcJiyUIGDuiLFf dHzg Belgium 62 Dengue NO
+1004 BQLnHgKO cMOULgMgOe Bulgaria 12 Sars-CoV2 NO
+3445 AddRMC mJpqsMnSMqnNx India 62 Sars-CoV2 YES 29-01-2020
+9536 zEZ XnkJSYcUP Eritrea 87 H1N1 YES 13-06-1963
+3092 Irz Xhva Albania 39 Dengue NO
+9084 EAtkki pElUMMjDpEq Andorra 25 H1N1 YES 26-02-1988
+0386 YuLSfSsNM DaRpiBrzZXxYzd Belarus 28 Ebola NO
+1610 NuSAjixGXUMSP SDsF Bulgaria 50 Sars-CoV2 YES 26-08-1973
+5586 ogBaTAQkXba dFctvMUooRRhh Belarus 87 H1N1 NO
+2796 zDrxZ ZeEfEGQ Bulgaria 100 Sars-CoV2 NO
+3207 VUP EpRmxkXgJTjgps Albania 96 Marburg YES 12-02-2013
+7757 gfrf tJiuceEqmimreeUk Belarus 16 Sars-CoV2 YES 18-09-1968
+0424 edjF yzgUBnIfoOdHK Gambia 53 Sars-CoV2 NO
+5963 zOxZO ToxPpBqxvu Bhutan 91 Sars-CoV NO
+4281 jFxXqDPlqvPkQKsB NOGQ Andorra 16 Ebola YES 07-04-2018
+2775 TCHdrGXJ PQlybdKXnmGgtFY Estonia 42 Sars-CoV YES 18-11-1970
+2377 JZl eejyRS Eritrea 118 H1N1 NO
+4431 MEqFuILiXCNjYb beKxPkFTC Chad 10 Sars-CoV2 NO
+3169 sbzjyjHNUKZ HgTfjNjSnAtB Bulgaria 113 Marburg YES 19-09-1978
+8599 CZHDOCUBv aMTvqoQFUPnYEyCB Bulgaria 109 Marburg NO
+1354 ExQqSJEIGhvF xXruMtvcGxlOg Canada 92 Sars-CoV YES 18-05-2007
+5931 OJh FgR Estonia 100 Sars-CoV NO
+7172 knvmDyMkVp rYFsnzoAV Chad 23 Dengue YES 13-01-1992
+5310 vCoT asKL Bulgaria 51 Ebola NO
+9998 aEiHZntaJm mha India 76 Sars-CoV2 NO
+4835 pSCErogkPJtY chFY Gambia 79 H1N1 YES 06-08-1989
+1685 KbiozRnoXCBfsMy UCdgQF Chad 74 Sars-CoV NO
+3119 JxEBZ fRqGol Bulgaria 28 Ebola YES 07-07-1965
+8256 aoxskViB tkTC India 72 Smallpox YES 26-04-1984
+6126 zahLBrNTOdx kVNQs Gambia 52 H1N1 NO
+9183 JNmajFUsjVYvF bbYyidLXRVHcVdcz Algeria 87 Ebola NO
+8946 OzMiACnas cbIarscDP Bhutan 36 Sars-CoV2 NO
+1572 QXvrPQp PrOCrqpjY Bulgaria 97 Sars-CoV YES 23-02-1973
+4425 NzFFxftCqiBvDo aeoOJHSivxb Eritrea 113 Marburg YES 24-06-1984
+3496 egUlTFAu CMiRFQ Canada 31 Smallpox NO
+6040 NpandphaHgo LHzIJ Greece 83 Sars-CoV NO
+5213 NTaaPnPjaTf Czuxyhc Albania 29 Ebola NO
+9371 EoTjjvMVOxmtjC cStyYu Albania 11 Smallpox NO
+7977 gaApaNd ZNHj Chad 37 Smallpox NO
+8319 mQQthI pDoknlsV India 79 Sars-CoV NO
+3884 bhtCz yzXn Estonia 52 Dengue NO
+2669 PYLcvDfbInE xtykRCg Greece 91 Sars-CoV YES 30-10-1985
+7615 ivQoKgU xVHAluIHVAZuvJ India 45 Smallpox NO
+5292 RvRC Btd Azerbaijan 93 H1N1 YES 20-08-2009
+2246 ignsgFvL nKtSJtlGEEaU Belarus 32 Marburg YES 17-04-1989
+0693 hZPeUcgDvqENsdDH gnl Canada 41 Marburg NO
+1816 PLbJtiHmTCrkUiDG UBFGXEIgMjdk Bhutan 72 Smallpox NO
+2077 zFQraqqdqHDVhP lnOjFIUeHIaRsL Andorra 39 Marburg YES 24-12-2015
+2351 FtgsLHUDj nHSybo Gambia 10 Sars-CoV YES 08-04-1993
+5661 uMBiy cosyMSRpyc Gambia 41 Dengue YES 14-02-2004
+1651 BdcOQobp ulfAo Belgium 7 Dengue NO
+6905 Mpe sVDkfs Algeria 73 Smallpox NO
+3268 bxSp PDCPCJ Gambia 26 Marburg YES 04-11-1968
+0146 eeQlLkDHbRP ViIuojkchkHSX Gambia 117 H1N1 NO
+2872 YQpfctUnuqMeAtE gedYRnAOENOMI Algeria 116 H1N1 NO
+0421 VfbczyErhpJ vMYxsXxtLAKyJmP Gambia 53 Dengue YES 23-08-2019
+9414 RrHopPO apdolD Algeria 51 H1N1 YES 14-07-1981
+5151 RyTtJatRnJNffBkq xtBs Gambia 55 H1N1 YES 23-12-2006
+1579 yXYMts gDUkHQJsoyTQM Belgium 96 H1N1 YES 13-12-1969
+1225 lYEXxqAFueE XYoLEHo Belarus 107 Smallpox YES 12-09-1969
+8318 bJVflHyPjNlfg AIOrlThAfsXVlb Belarus 24 Dengue YES 26-04-1962
+0871 cSomKJRRPFNq rQHihZacNu Bhutan 113 Ebola NO
+8194 mUmlJQqrcT AVPkVsyjYGspLbY Greece 65 Dengue NO
+8340 yVcaMLquZgbEdvJ jYoSlLeodAKJbs Bhutan 42 Dengue YES 06-11-1973
+5295 qbXaZqgPXhnpxC XPGNurTuarfGnJnq Greece 36 H1N1 NO
+1575 Izj GPRkdxskRNeDVuCJ Albania 49 H1N1 NO
+8728 idbjU ymLXBrb Algeria 68 Smallpox NO
+9686 MDKYkiIbdKi zBXkbVg Belarus 15 Ebola YES 03-04-2007
+3159 NPGbSlXKxi iFNCqVFhybtfbG Bulgaria 23 Sars-CoV2 YES 21-11-1984
+2543 ngtLZVf nGqbSCdVcYp Estonia 10 Ebola NO
+2200 kBr vLVtaDXIfA Algeria 94 Ebola YES 11-08-1974
+2795 YMqYhdFAgvUIhXFf Pnm India 72 Dengue YES 17-02-2002
+1365 jUYybteyEJniNpV JNoqCavlOIb Canada 89 Smallpox NO
+8921 TjAhngBPTIfed ScHOafP Albania 42 Marburg NO
+8283 rfRbYjRK hjNkTyAurjSFZN Azerbaijan 94 Ebola NO
+3397 jHKUPhEb eCoQGuQEMYIzyXXF Belgium 91 Sars-CoV YES 15-08-1967
+1927 EvJThj fqnIPolF Chad 3 Sars-CoV NO
+0249 GCRHrZcpsq EinxhKNn Belgium 7 Dengue YES 22-01-2010
+2761 rahHPuqdP zqizSDl Gambia 102 Smallpox NO
+6587 EOppdUiKduBxuq dhFRRhpOGKvjJBS Bulgaria 73 Dengue YES 25-08-2021
+3335 tbs lzmDu Eritrea 18 Dengue NO
+1142 bPbiAOPovfN UAvHxG India 20 Ebola NO
+3846 hgO ndoAIO Belgium 58 Sars-CoV2 NO
+0612 NbpqrLjzsi QXCvAycmjjeuJLTp Azerbaijan 17 Sars-CoV2 YES 21-03-2007
+4308 FVnAfHUbOSzF BYLLtrcFQCnqpuqb Andorra 44 H1N1 NO
+1670 DJGAIBlItlRZidrx laymeUt Algeria 97 H1N1 YES 08-11-2012
+2587 OOKBUrU mSH Gambia 53 Smallpox YES 20-10-2020
+4293 IZdhENa XAABKOZe Bhutan 14 Smallpox YES 02-11-1989
+5339 YBdUkoToQqDiUIM EQCCqpU Chad 42 H1N1 NO
+3245 IHOqr IXPAXsyyo Canada 33 Sars-CoV YES 11-02-2010
+0128 BgbaguFfTUqPVsf YZaDVZYHhBtvLv India 89 Sars-CoV YES 19-02-2002
+3601 CkBmAihRnHFn yahIogrRdCfND India 87 Sars-CoV NO
+0366 BHCN BheZro Chad 94 Dengue NO
+0658 DHlhfElKHd yuTPNeL Bhutan 80 Marburg NO
+6856 ZYTYnlHlkuIRX zVrkIcnykl Andorra 31 H1N1 YES 11-07-1983
+0371 CAqykuVVnBx XZMJEj Chad 117 Sars-CoV2 YES 01-10-1980
+7366 MXCnrmyABJYkajj fqfq Gambia 40 Marburg YES 28-12-1998
+4129 FRLHkljBCs AqqpXfoYyCZTZcaQ Estonia 41 Marburg NO
+8728 kcQL mLYTl India 91 H1N1 NO
+5461 uqtfeXpBY pBZJhr Andorra 102 Ebola NO
+8692 HFdqyEN GQBeZQx Greece 30 Sars-CoV2 NO
+8852 pHTYjn DBkZv Greece 105 H1N1 YES 26-02-1971
+5773 UxXJXAVZDGxQ Hdf Bulgaria 103 Sars-CoV2 NO
+6320 HIVEbGKAM URas Estonia 88 Smallpox YES 28-06-1980
+0707 ztFsnsAHpNRTX yYEnHjMxrcCLBDI Greece 55 H1N1 YES 30-01-1990
+3562 jYtDTsA dmlGMijoBqrZVlK Bhutan 8 Smallpox YES 23-11-2003
+1106 LEPp pQFrMsgRzNkXi Azerbaijan 70 Dengue YES 27-11-1963
+6010 TNHiSboRfSkZgZr cdstkuaChyeYYr Belgium 98 H1N1 YES 15-10-2020
+1151 ufXKABB vpfZJRKmc Estonia 3 Marburg NO
+2425 eYJpomlTKbhNz PiGiOihbvm Greece 97 Ebola YES 25-08-1964
+4670 sIrnPr GafGTFev Estonia 79 H1N1 YES 10-01-1961
+8300 JpdrSBSLYaZf eIuTrmxHQsPZDOHl Belgium 9 Sars-CoV2 YES 25-01-1988
+4152 XrSHgmpXlbjZssX yPhqPjqcTC Algeria 20 Sars-CoV2 YES 20-09-2013
+4126 CKORlV PBYQy Canada 15 Sars-CoV YES 24-01-1981
+0191 LzTzMmqCGXO jCx Gambia 76 Dengue YES 13-11-1979
+0004 VRrhCfNaVbgyUODK oeaR India 89 Sars-CoV2 NO
+5711 lASnDXDSlHZ hFlSgGdNhUk Azerbaijan 6 Sars-CoV YES 28-07-1970
+1793 YKttRozkEflkEiPg yLFaIZpe Canada 95 Ebola NO
+3727 dnxUgughOXFnpc osoiTbrsIUZ India 54 Dengue YES 02-08-1999
+5323 bzctufVxhIXJYNo UJJiMpkLClGNzZP Bhutan 15 H1N1 NO
+2949 ZUbHZPinvY IbDJqyTbSJeY Bulgaria 116 Smallpox YES 09-04-1985
+8844 mmB JUSPRHTNZUh Belarus 57 Ebola YES 04-08-2004
+5847 PuvXUnVVA ljyLbLdtRJoemUt Andorra 110 Dengue YES 17-07-1976
+6727 soPCFzcO aBOEZRjhYYL Belgium 110 H1N1 NO
+1704 tzalc hLP Azerbaijan 19 Marburg YES 12-08-2002
+0033 YDGtHZmebVjTqR UClirxF Canada 79 Smallpox NO
+4418 LPnDVR pNQ Belarus 94 Sars-CoV NO
+3085 lNADNufYZAx uyvKrUERYIiNecdu Albania 10 Dengue NO
+8670 ZbFzVYdiicj MaTSRqXRGjIdsxJt Albania 10 Ebola YES 12-12-1998
+0271 Nnk MHsnxuOhvStR Azerbaijan 9 Sars-CoV2 NO
+4119 qgRXsof ttbehpJ Belarus 45 Smallpox NO
+2239 drQCHQICMsZRmPl MkDp Albania 81 Sars-CoV2 NO
+6454 mncLabCsnkoIS cTVsyPftUt Belarus 33 Dengue YES 05-09-2000
+5936 LDoVQdKypZz ueVqTxFH Albania 47 Sars-CoV2 YES 18-12-1992
+7397 yejYijtgVRNqs FGY Albania 3 Dengue NO
+2057 XBqfkdgrL LGskErZiaVES Canada 29 Marburg NO
+0945 EdhCFyRhQyx RGNfCaiFyvPY Eritrea 118 Marburg NO
+0599 hJAXGS kvTTJ Estonia 86 Ebola NO
+1830 VSgmfIKLZ aEsBvjvaXTVX Chad 48 Sars-CoV2 NO
+1884 zlFsHzhs dySvivRAitNsPVi Bhutan 23 Marburg YES 11-02-1979
+0062 tCJ iieccQNvPsE Andorra 56 Dengue NO
+0331 LmHFjBtfa KrBaf Greece 116 Sars-CoV NO
+2557 xonfojYEQbua BfEyFfDfZ Greece 98 H1N1 NO
+9555 jTddzNonmPzXgdnL dOzdGhKGhEFI Azerbaijan 74 Ebola YES 23-09-1987
+6629 lzHoetdIcLTiUFO VJezcVvOo Gambia 111 Smallpox YES 18-01-2002
+6629 gXHIMIqPIcG maDphzRZnybIHuo Canada 112 Sars-CoV2 NO
+1085 ZmZPogHnYVYaGlGR RmkbPTeNCXolYOF Azerbaijan 10 Marburg YES 17-04-1999
+7761 RSZLMeLOMPtqyQZa KyHGTrTdQSHVAKQ Azerbaijan 61 Dengue NO
+9273 OLS ORAy Greece 88 Dengue NO
+8208 cukaCln myjybEmLlx Greece 32 Dengue YES 01-09-1971
+3585 MPtcPD FNGYCcDHHSns Greece 8 Smallpox YES 13-08-2011
+3019 dfKtjeEVeFok YlUZbDcH Albania 12 Sars-CoV YES 25-09-1994
+3643 SIEtra qfLCJQEbpdFq Andorra 37 Sars-CoV2 NO
+3651 OsPx GEkl Azerbaijan 116 Sars-CoV2 NO
+8706 IvMJDHBa eARagi Chad 91 Sars-CoV2 NO
+3869 bHaZgsaBi hjvRhKlDL Bulgaria 24 Dengue YES 02-06-1987
+1475 SOYyYg yNlEZGxN Belarus 107 Sars-CoV YES 19-03-1983
+9207 NFYDt mbNpjsVxGDShvrMx Andorra 62 H1N1 NO
+6165 iaDeDlDmbrZZqRO BpABDCVKboABmTK Greece 20 Dengue NO
+5018 LTGIHrVlVYv slfdAX India 103 Ebola NO
+9071 RMjceqlxNbDyplZQ xHLfmYbvj Andorra 45 Smallpox NO
+2121 fmEe PknIQxYLb Chad 115 Marburg NO
+4733 adGJEYLIXVszTa EpNutNREEee Chad 16 Sars-CoV YES 10-08-2015
+0207 XqzUVikkUtGxMlo aQOipHYMQyUcTqK Albania 75 Sars-CoV2 NO
+3489 eOIPFjzyoHL Yntk Greece 115 H1N1 NO
+1724 cvmXCcyoqoOyyLbL KcpTJ Estonia 31 Marburg YES 25-05-1972
+0698 ozJhBTEoSBxK eFMohTfHhqlFGEq India 87 Smallpox NO
+4506 TBBC qrSMMLhYrSo Belarus 30 Ebola NO
+1804 slFqHXvumckiMf SLfK Eritrea 57 Sars-CoV NO
+3539 ClZ gnddiYo Estonia 114 Dengue NO
+5298 vKT yBFDZNEEAHGcc Azerbaijan 1 Smallpox NO
+9889 lgkeaoX LCPbc Chad 29 Smallpox YES 03-03-1980
+0396 nOHBQ gRAEQUxkcerP Greece 3 H1N1 YES 18-03-2000
+4708 ApoPnCIRMTqHszR sRCG Canada 103 Marburg YES 02-09-1974
+1259 BMpt BIVUCIpT Estonia 90 Sars-CoV YES 07-09-1964
+6023 isutgtUToIT KqFlimEpUqCebDfx Azerbaijan 22 Ebola YES 30-10-1998
+2310 HfxnSl EafEZ Chad 40 Marburg NO
+6773 XfImvXlLSzqzYpnU fLteB Bulgaria 48 Ebola YES 28-04-2016
+2287 UiIuMaAnfv FgxSFp Belgium 111 Sars-CoV2 NO
+1361 VVo CIzDz Gambia 20 Sars-CoV YES 17-03-1988
+6418 eKcsMqx YlQqc India 36 Sars-CoV2 NO
+2235 CeSLGkuFQysVIimS dkrtPEJgJNUsu Chad 33 H1N1 NO
+8896 VEbHGinNcxpHg MXNcopckaIvVMMYt Belarus 46 Smallpox YES 24-12-2021
+8344 tdY DLFAcUBCOi Albania 37 Smallpox NO
+2567 flLLsUPff Ckvlv Algeria 106 Smallpox YES 30-05-2003
+2336 fdZIRiILQOzbVuLv iKQpLEOSXzMRYgbv Eritrea 67 Sars-CoV YES 19-08-2010
+2000 YSDhsmBDjO bisjpkVJp Albania 52 Sars-CoV YES 10-06-1980
+4149 SJMDkDczoqqmTfo zQcucqXrKxamsvcA India 44 Sars-CoV2 YES 28-04-1981
+4477 yuKrPBKdlVkn kJNzrddBoAKQdOy Canada 66 Dengue NO
+5841 TEYSDkdLsdo tlgse Albania 59 Sars-CoV2 YES 20-10-1990
+1945 GtFpmseXXI qmusLRgSj Greece 46 Marburg YES 07-05-1974
+4209 bTPCubfY tKFTpxFcVeqp Bulgaria 95 H1N1 YES 30-02-1999
+8222 BgVbjh VovgoeBrm Greece 9 H1N1 YES 22-05-2016
+1331 PvLq hcPkYdl Estonia 98 Sars-CoV YES 24-04-1965
+9217 ePtzLjkNojCyhBf nKMrpMKgfgXidrK Chad 14 Ebola YES 13-05-2017
+3350 GADvtV ASTYRestXUKXLz Greece 47 H1N1 NO
+6923 uExdPFihTyqfxaXF vdIsdnYdgpez Gambia 14 Marburg NO
+4234 cITr xQiGDmjQv Bhutan 118 Ebola YES 15-12-2017
+0490 ksuuiPFrDxu pkrxNiGgKhtsX Andorra 40 Ebola YES 29-06-1963
+4949 nFaJfUepoNkOJve KRYQBLHXjaE Greece 92 Sars-CoV2 YES 26-10-1967
+9338 Fiie ZzVNhROHUz Belgium 41 Sars-CoV NO
+1378 ZyRMnYsXCTYZIhiq KdfbMmCZPOS Eritrea 108 Sars-CoV YES 26-02-2006
+7322 KmLpgyKhipD edXpDeB Eritrea 119 Ebola YES 06-07-1974
+9631 iQeZyx MvsdGzxSImcu Azerbaijan 66 Smallpox YES 03-10-1962
+9404 dqZoqbBugbh IEPrkUfjPk Algeria 17 Ebola NO
+7684 ikuYS qjKdYSPlQ Bhutan 58 Marburg NO
+3846 hgO ndoAIO Belgium 58 Smallpox NO
+4502 GbUAP vPuxarBjL Eritrea 61 Smallpox YES 22-10-1962
+7586 LReoZOS KHZVEgT Estonia 76 Ebola NO
+4141 GyCm vsLkYKXIRRBc Andorra 103 Sars-CoV2 NO
+3497 YfVSR MhGifPCEuznaE Estonia 100 Dengue NO
+1184 ttDKB RXeM Eritrea 53 Dengue NO
+6346 edXElbxFrDRdFniz XJYROKUqNVzKy India 90 Ebola YES 16-10-1986
+2353 FxdVeg KmsXeUpv Canada 93 Dengue NO
+9243 jHprZLz ezlmrfQkJB Estonia 73 H1N1 NO
+7107 rrVxIPZzRGzKvkx vxjPbJRLykBgo Chad 47 Sars-CoV2 NO
+8101 ahsnRLUlTCya dlsvQdNA Bhutan 98 Sars-CoV2 NO
+3769 qPURYQQHc CkRIzKtpEVPBePPd Eritrea 118 Marburg YES 10-02-2001
+2020 nVE YJRZLrtXYYvi Bulgaria 21 Sars-CoV2 NO
+6069 DYoxSrxDQnT bpRzjrOLeApGRm Gambia 65 Dengue YES 02-12-1964
+1754 VflPrsorxhDb ovjnYuZFJBdeiE Belgium 88 Smallpox NO
+9842 bFBiQICHBPk VGrlAXEYFTVjk Bulgaria 102 Sars-CoV2 NO
+1552 FyFigsTtkp uDvFNUJNHDnXCczD Bulgaria 14 Marburg NO
+7241 IybBOyRVrps ETkAPLeApxtMaRL Greece 73 Dengue NO
+3914 rdReM xjkscOg Chad 119 Smallpox NO
+8906 XtLYUpKNV oQcQgCVq Gambia 37 H1N1 NO
+8256 aoxskViB tkTC India 72 Dengue NO
+5063 pGngtO CvZdbizKstv Eritrea 44 Dengue NO
+3884 ZSjJ EZrDLXYAHbR Greece 66 Dengue YES 18-07-1988
+0925 xjxSghE JLFUPfLjEYeia Andorra 27 H1N1 YES 06-11-1973
+0075 ByIecxk NFCf Canada 108 H1N1 YES 05-07-2014
+7766 uPDbZNpTMlOOs aJJcNLIyONVCsCeU Algeria 55 Ebola YES 08-12-1986
+2253 moY yjDfBv Albania 16 H1N1 NO
+0310 hbpku ysxDNgxZiXCVzPAX India 37 Marburg NO
+2133 iaoIlzckbkerU kDfaC Belarus 78 H1N1 NO
+6676 ZuZvjxkikkaY NUDAPbjavavdRKef Albania 45 H1N1 NO
+6204 qZHyCiUketEVnz QbTRsAevH India 54 Sars-CoV2 YES 16-01-1961
+2118 VFRkngcd hNDMdOt Bhutan 15 Smallpox YES 14-05-2020
+0429 CacKz DtzGKUpzuheSJOD Bulgaria 32 Sars-CoV2 NO
+1967 JGXXS DfZUzM Belgium 105 Smallpox NO
+6532 FZpGDIYOpRT MGeMJZMaC Eritrea 52 Dengue NO
+8831 KXojjJGuVfpPkcxh TycJkOaR Belarus 76 Sars-CoV2 NO
+3097 gAuVFFqBdJYoDuP lyPrfkoaDLxcCtI Belarus 17 H1N1 YES 04-05-1964
+4127 parlHFFrpIqcD TQucTgUns Albania 108 Sars-CoV YES 18-07-1988
+4508 bmMMMBMb jPbEdbyAsySECl Bulgaria 60 Marburg NO
+5838 kxyiGd ugJL Bhutan 10 Sars-CoV2 YES 18-07-1984
+0097 ATAKzSgpDEjNs NiAbDNTmdaLx Andorra 60 H1N1 YES 30-03-1965
+0365 plyJZT ktsFlBfOK Bulgaria 76 Smallpox YES 22-09-1968
+6917 rKPFoiyrJ dTjadPgzjDCgSD Canada 104 Sars-CoV YES 08-09-1971
+9283 yaKEsKHQdqAVgLh NliPdmG Bulgaria 89 Ebola YES 01-06-1991
+9887 dANdUn brKKrvEqmUxhYluD Estonia 14 Marburg NO
+0545 cEVXPrX ltMmXo Chad 75 Dengue NO
+0697 TRTJ koGUXorsL Gambia 38 Marburg YES 16-07-1971
+0203 blCnIhKHTToxnlra IaiBAog Bulgaria 105 H1N1 NO
+8414 SUrZqXCKhNmbNR triECZqpclz Andorra 8 Dengue NO
+7383 fJyrmIpppqgdB GEy Bhutan 94 Marburg NO
+1198 rTD skjs Azerbaijan 9 H1N1 YES 18-10-1981
+3389 RgBGReaUoTR CrBFJidYiYbg Andorra 71 Dengue YES 20-02-2001
+1048 oqVSXQen EpQgQKOsXKDdl Chad 110 Smallpox NO
+6911 aVDpirnrq xkBknbCLctxIFZ Belarus 84 Marburg NO
+1454 syOxsPCeiKkxq EePO Algeria 106 Ebola NO
+3829 TsbqG eSXur Belgium 71 Dengue NO
+5227 ysJVESYXNrnUx eRHRDm Estonia 106 Dengue NO
+0345 rup xKVdmYyMSnRgb Gambia 74 Dengue NO
+0996 QUXZHMztJIqVji LCGHygKckNFp Belgium 93 Smallpox NO
+1593 FScNT DYaqCXyv Algeria 17 Sars-CoV2 YES 26-09-1966
+3914 rdReM xjkscOg Chad 119 Smallpox YES 10-12-1979
+5196 tsUYUujUiGhDHk MiokUxKKxBA Estonia 93 Marburg YES 21-07-1971
+9842 JgQi PvZfRznmOQVl Gambia 63 Ebola NO
+3946 vhHbdfOrZE pBMPnxttlG Eritrea 107 Sars-CoV2 YES 24-08-1990
+8799 uXkt MJO Bulgaria 37 Smallpox NO
+9556 fkPlpsYDDOL saCodslxjPCTcu Bhutan 109 Smallpox YES 25-09-1969
+4719 DJgd qLnMTtJkXOtFv Algeria 44 Ebola YES 05-11-1965
+0612 NbpqrLjzsi QXCvAycmjjeuJLTp Azerbaijan 17 Sars-CoV YES 03-07-1966
+3304 EPF ToPsJOOdIntF Canada 4 Marburg YES 12-11-2018
+7954 Gml qbDYCRpdVbuXbaeI Azerbaijan 68 Marburg NO
+4266 UaciafEfEUIUCapR UqK Belgium 8 Sars-CoV NO
+9388 kSMKoNUCGp JlDfgkQgklLcxcI Andorra 27 Smallpox NO
+9357 IZOmuCkoBQJP IZXzLOUVuYF Belgium 92 Sars-CoV2 YES 28-09-2021
+8575 bdxZxfuPLHJuYAX xxA Estonia 52 Sars-CoV2 YES 08-08-1979
+9930 NJNcYx TlpIoNtP India 36 Smallpox NO
+5061 efEMaeTEakSzUBvP rllAKN Albania 62 Dengue NO
+6775 mzZOesrMjzjSa dkfJKyc Chad 5 H1N1 NO
+3425 aEamzCDISCnanKrH UjvDQTkrdhs Albania 109 Dengue NO
+1813 KsVQUFqZ JrhEo Chad 16 Ebola YES 09-02-2012
+6772 TYilU UTzNOAsSPHiR Albania 66 Sars-CoV2 NO
+1102 aETaksXjmVgcqTty QPNrz Belgium 58 Marburg NO
+9639 bHTIGFME fBipzbZYQuggX Estonia 58 H1N1 YES 03-02-2014
+9334 cMAtdAoOzROast XnKUcGP Algeria 99 Sars-CoV YES 30-07-2001
+4034 cGvAVYUqFcjTADGL hUvbSZYNaDisP Andorra 39 Marburg NO
+9443 mHjMAcqeTEbF vTJvFayErtcQKDbs Bhutan 35 Dengue YES 25-04-2016
+9457 YZFdJJBDxhcoOR yyYFu Andorra 107 Dengue NO
+3064 mgoduFmvKBlL ZVpEqAFLvZSvs Belarus 13 Smallpox YES 28-05-2020
+1321 ArT pnpazBfAlyfK Canada 15 Ebola NO
+3586 idQ JROigdlnznLi Estonia 52 Ebola NO
+8269 uuqgrJuIhsDETT DKjHIYRoEG Estonia 70 Sars-CoV2 YES 25-09-2003
+2613 nCPGbnrKsRrCMedA AyqFtY Belarus 36 Smallpox YES 06-01-2013
+9113 FBovLygqLp iktdMi Estonia 58 Sars-CoV NO
+5633 JxaSmQAqFpXSzDH UEyvacSrRGnHEXn Andorra 62 Smallpox NO
+4910 qVNFvjNnaV UhDUHRCYG Gambia 48 H1N1 NO
+4027 VaqZsJhCVrprOr VVytasGrHn Chad 1 Smallpox YES 20-10-1990
+6219 PEVEuaZT tpS Estonia 67 Ebola NO
+6213 lccRxMqHFcOBhj cUmzrVrax Chad 102 Ebola YES 27-06-1997
+3750 lkLqeV mSUaBMggmisPGDm Albania 25 Dengue YES 20-12-2006
+2056 nHTDDmtZfekTqrg sbpgiKgIzKDHiFfn Algeria 11 H1N1 NO
+5945 QVtHpFZu uxsLzSgTubBSlQpo Belgium 29 H1N1 NO
+2022 aVnVYNEboft uvStFM Bulgaria 24 Smallpox YES 17-10-1980
+1195 yGQpzB HCbzulm Greece 22 Sars-CoV YES 27-07-1964
+3111 GZjCBLCJTP FcanUvRm Albania 114 Smallpox YES 13-12-2011
+0736 ZgZzRaVZuMUoZ VTUlnuOZIioJKZ Belgium 114 Sars-CoV YES 08-04-1999
+6301 vizkkCTsc bfckMnmMlCxipUf Algeria 72 Marburg YES 05-08-1988
+5260 cjCXjfOcjlZx BQldgEVCM Canada 109 Smallpox NO
+2959 MzBYK VnpYrbKNMX Albania 97 Smallpox NO
+6133 FcCzVAZhL VpvMkcLhTYGfh Algeria 116 Dengue NO
+3680 EVFEgntkhJpL fBbDQ Belgium 71 Marburg YES 07-05-1975
+8410 ado rthodfcycgPqiQ India 5 Dengue NO
+8301 SAueduIDeii uZZdtAHmFS Gambia 18 Smallpox NO
+0219 xtNCXFAnPxLvZI PAHgOCrgCckKVDCO Chad 84 Ebola YES 12-01-1979
+3645 CksmThtnx dvNUBiTCc India 12 Sars-CoV2 YES 13-04-1966
+2192 iGKXufduQtLpJG nZVP Bhutan 12 Sars-CoV2 NO
+4858 HRvxXmArVuJjib pehl Estonia 33 Dengue YES 29-11-1979
+0631 RJDcPvD JbkDsODdANUJ Bhutan 57 H1N1 YES 26-02-1969
+1633 AavoxHvUs zdigAkz Chad 105 Smallpox YES 20-01-1964
+8353 bfjsiktL bmYmapLoza Estonia 25 Dengue YES 07-10-1991
+2727 EYHBlo KBezdVCJEj Bhutan 101 Ebola YES 13-07-1987
+1187 zLXOXeiQiNqfxLP aLhRjXjUNs Azerbaijan 1 Sars-CoV YES 04-07-1983
+0935 XfAqXPYcvsY nzISTqfgpzV Albania 108 Marburg NO
+0589 lpzCKdFUHetmF IkHAoBo Albania 65 Dengue YES 05-02-1974
+5212 eDmyVmLcDJybQVp skkbkKeVvIKx Eritrea 3 Smallpox YES 06-08-1982
+8932 CuRYsixvCa QaqjXC Belgium 101 Marburg YES 05-07-1993
+2529 Ony onUgHk Algeria 48 H1N1 NO
+7065 fAAlmZvyM CvxC Belgium 116 Sars-CoV2 YES 14-09-1974
+0579 fPxbXOLbDc LBToxQOGPovp Chad 18 Sars-CoV2 NO
+9288 IMANbQfjIhz eQQri Gambia 9 Smallpox YES 16-01-1969
+2630 BsvjDHBkHdxT qeSGZrHZNsT Albania 89 Smallpox YES 05-10-1971
+1641 dKQCv zlUbGO Canada 119 Sars-CoV2 YES 16-06-2019
+5850 eqU nyBVs Canada 65 Smallpox YES 28-04-2014
+4796 ICZkBHmXOzBBNxVj baBJTIxURzs Estonia 96 Smallpox YES 24-06-2014
+3962 ondGZLtORRx mOmkC Estonia 76 Ebola NO
+1294 MZmJoNxFTgM JPfYH Bulgaria 34 Sars-CoV NO
+3763 ffhyiYDK jLHLXTSEeInOc Azerbaijan 31 Smallpox NO
+0278 dyudij IlMADXghKYZ Greece 7 Sars-CoV2 YES 14-11-1979
+9789 cuxazlEcLdu IqgZXY Gambia 51 Dengue YES 27-05-1989
+3629 DoMqU vfVNe Bulgaria 93 Ebola YES 04-05-1963
+0992 FIXjuHcvlOg ZPmijBd Andorra 56 Marburg NO
+0485 PSgerTbuMHa urbvTO Albania 95 Sars-CoV NO
+6346 edXElbxFrDRdFniz XJYROKUqNVzKy India 90 Smallpox NO
+6513 FqE fqFV Bhutan 115 Dengue NO
+9118 nHz xHFKqhnZzGlXb Eritrea 43 Sars-CoV NO
+7647 GLryN GlMGFrGGvqxLfuJ Estonia 72 Dengue YES 07-11-1961
+2298 dxRXnZtAHm MKi Albania 119 Sars-CoV YES 06-11-1977
+2028 vsYvfvEbcViqr KQiVRiU Bulgaria 65 Marburg YES 14-12-1968
+2752 nZxf iAJQTu Greece 17 Smallpox NO
+1268 rYzaSJp KrnFrnz Azerbaijan 10 Sars-CoV2 YES 09-05-1981
+1323 Oyekl xoiqJi Belarus 53 Dengue NO
+4958 oqsAhDX Nztitjt Greece 14 Dengue NO
+9462 NAFjrnMZxNgfL axxyISGtrUcIgh Bulgaria 117 Smallpox YES 11-04-1998
+3201 HDFyxrRQmgAYJhr DdlmFrjlAYl Andorra 97 Marburg YES 30-04-1961
+9028 yZUjKFvmopyds JZvlpAz Andorra 109 H1N1 YES 14-06-1965
+9522 eUkT yZMkNCBvSnvJu Albania 77 H1N1 NO
+3564 leNuId XTIocxfncOb Greece 45 Ebola YES 04-12-2018
+0039 IPOxmnz QHVXGBqKJ Andorra 5 Sars-CoV YES 09-07-1969
+6422 NGPA PaPv Bhutan 65 H1N1 YES 04-11-1969
+2592 fodaVzKiS aFhoJFBkDqAOmD Andorra 90 Dengue YES 17-01-2005
+6054 fUD svEzlkc Estonia 79 Dengue YES 29-05-2011
+6928 TraZpLPOEzXTCQU ZFadUrP Eritrea 103 Sars-CoV NO
+8526 TpPp viZzsPZpYqjSFxOD Algeria 84 Sars-CoV2 NO
+3128 USUKXpkINTVkmJU npgYnCSz Andorra 48 Smallpox NO
+7325 HqothGMu AhRvlHZfnLYxYK Albania 119 Sars-CoV YES 15-01-2021
+5002 gbccctTktAs YXbkscBjSRvlt Bhutan 97 Smallpox YES 11-08-1992
+4658 taqcP rRmqe Chad 89 Sars-CoV NO
+7929 HgSrv leorojCJoTYekV Bhutan 107 Ebola YES 20-09-2017
+9498 szRUJjDgttg lZlkDsDpDx Estonia 66 Marburg YES 07-01-1961
+7331 chqmtkqtyYj cCH Belarus 86 Sars-CoV2 YES 09-06-1980
+6574 FQdPeQiexaF zmXbrBCBnCxbzRjf Canada 71 Ebola YES 03-04-2018
+3957 PcNGpQKYApl KqizoErQpL Albania 81 Marburg YES 11-04-1983
+8061 CdOsIermsJay INqJqCfxtfb Estonia 49 Marburg YES 10-09-1970
+6737 lgbz EnhMKcobNPRbqA Gambia 86 Sars-CoV2 NO
+9161 nthBDJ mmgzzNeYgNhegHi Azerbaijan 44 Ebola NO
+3587 ijAxmeCOo npJnRKJ Bhutan 84 Marburg NO
+1998 qUSHUUIyJvyZeZZr OYzofyzxQrLOXh Greece 40 H1N1 NO
+0549 UUuEmozgyDLetBs FNaiaTbv Chad 119 Dengue NO
+0953 MCzmxENVuG Rqjtr Azerbaijan 71 Ebola YES 24-02-1995
+0625 uOnBPVTEkpQlUeM lQGOJarhOEcJDfG Andorra 110 Ebola YES 08-11-1966
+3738 oYRViblOdQmId hExxmrKaRoDGGy Greece 103 Dengue YES 24-08-1962
+3151 EglHySXp sgJXfmUjoUgoqZ Greece 37 Dengue NO
+6928 TraZpLPOEzXTCQU ZFadUrP Eritrea 103 Marburg YES 01-10-1989
+3060 pHAaXe vDclOYZNabLeprrm Bhutan 39 Smallpox YES 26-07-2011
+3080 cQrFf VDl Andorra 103 Dengue NO
+4776 mUTXcUipmsOvCuEM IyNSlDQnmQHXa Gambia 61 H1N1 NO
+2132 bbJofkxMRdA qsfyNnLQ Andorra 90 Dengue NO
+0974 ThcVyrblRLrXZgEH MNOBSrelExvqDhev Belarus 70 Marburg YES 07-11-2000
+1184 ttDKB RXeM Eritrea 53 Sars-CoV2 NO
+1509 qdBAXFdxPaCi TneShkfg Chad 16 Ebola YES 26-11-1976
+0032 cuyZaj OGXckADXrbRMO Belgium 45 H1N1 YES 30-11-1969
+5673 ayO yggAjiv Algeria 25 Dengue YES 23-09-1978
+4501 SlhiK gUc Gambia 77 H1N1 YES 25-05-2018
+3702 PvrxpkQeTa cZZoaOnPE Estonia 23 Sars-CoV2 YES 15-07-1989
+8430 McAqKYST tGxUaoljCQkmoqDC Andorra 81 Smallpox NO
+6687 BEURzJOPInr rbQx Canada 8 Sars-CoV YES 12-01-1970
+7210 IKsOTxbfr UDAYDI Gambia 11 Dengue NO
+5324 AbyzSBaTEH MIJyZnpK Belgium 40 Sars-CoV2 NO
+1068 hsGPbOJfGyPhrCLf mYrugNT Albania 20 Sars-CoV YES 22-09-1982
+7883 HKYBk RfqbmktAEfkNO Andorra 24 Smallpox NO
+1786 iIIbhSrLKzjdlu adSlLLCMelIQf Belgium 58 Ebola YES 08-11-1972
+5947 zFhhGtvr Vle Eritrea 88 Dengue NO
+8932 CuRYsixvCa QaqjXC Belgium 101 H1N1 YES 03-07-1975
+1177 QoQFDlXQMXrkvFKk YuNIzMebRvIpTQ Estonia 87 Marburg YES 28-04-1970
+7734 nrfs yljezcr Eritrea 87 Ebola NO
+3355 SaApavQX regsiDlxz Belgium 37 Sars-CoV YES 19-05-1963
+3867 YvNnTVK KbaqZzXAJbPblU Belgium 79 Dengue NO
+5392 AHeIiXpa agCBQ Andorra 91 Sars-CoV2 YES 15-10-1961
+5109 jAboP tfndstxGPDoHR Eritrea 84 Sars-CoV2 YES 30-08-1978
+3288 RKeERB mAeEn Bulgaria 104 H1N1 NO
+6616 DpoZnYsMlG yGTj Canada 80 Sars-CoV2 YES 05-05-1993
+7772 qUf vUNU Belarus 118 Marburg YES 09-08-1998
+2162 zcFZmTheQX Vlbgq Andorra 74 Smallpox YES 13-08-1997
+8359 gdgtoVPUTOdBX ajZ Belarus 38 Ebola NO
+1819 YpedxFO SxKrQtqvXr Azerbaijan 40 Dengue YES 18-12-1974
+2081 UlJKTyimCfNtq YRj Albania 20 Ebola NO
+8575 bdxZxfuPLHJuYAX xxA Estonia 52 Marburg NO
+2647 JqmtxFvzysOlMxoO jVTeJ Greece 38 Sars-CoV2 YES 12-12-1979
+5738 YSLZhVUyFlYI BoB Greece 89 Sars-CoV YES 10-10-1999
+8753 vHtVxRYaOLQiAovL hiblErtXbIXaml Azerbaijan 20 Ebola YES 12-03-2003
+0066 oYOakz IqNB Gambia 86 Smallpox YES 22-08-2021
+9375 cgyz dXbIcvfSBtyaJnyG Gambia 20 Dengue YES 30-08-1992
+4777 SrOXcomdVjtXbDX sjYKXN India 75 Sars-CoV NO
+5905 jODhlBZBFQ ScTlsi Belgium 60 Sars-CoV NO
+1175 fYoqDZVceqemY uhnEbAXtCCvQMhjq Bulgaria 55 Sars-CoV2 YES 10-01-1997
+6457 TSZOxztD Xhirami Chad 91 Smallpox NO
+4165 fRuRmMbhig yfTSrZI Estonia 115 H1N1 NO
+2890 UGNFoIRIRuYxCLO ERiayqlrdsmHkZcR Belgium 86 H1N1 NO
+2607 AIJoPAfUfkf iqAAcGaoCTlftIuf Belarus 104 Sars-CoV2 YES 17-02-1995
+3432 xEGfeLxKUmjf hcs Belarus 28 Dengue YES 11-08-1999
+7024 dNRQa NiQXmTxyt Gambia 98 H1N1 NO
+5318 vSlsRbxtFMNByfYH rpbt Belarus 81 H1N1 NO
+0322 scMKEtTMTc XeVCtatZqBTZdzS Bhutan 17 Ebola YES 30-02-1994
+7938 kmFQKAOfQh MvVEJfJXao Gambia 52 Dengue NO
+1435 qDzMjyUDoOzI mJGnJUQk Estonia 118 Sars-CoV2 YES 26-04-1991
+0618 jEQGJEAdzROjLNmK hkHYoaBAnEPUYeD Bhutan 46 Dengue YES 26-06-1999
+1211 KfuOTof qEy Andorra 10 Sars-CoV2 YES 24-11-2008
+4460 UPtOVeRbZtTpzNIu KjpGORKBTVoF Estonia 34 Sars-CoV YES 23-08-1994
+3026 pzha vGxsqcUDDNFavrOt Chad 109 Dengue YES 14-12-2011
+8767 FFkkQkAu IFdeTlybjA Bulgaria 29 Smallpox YES 16-04-1974
+3258 BToGvinZX MqbMvSbgDCSbTiP Chad 109 Dengue NO
+1262 LGMNufuimc QhsIiuhVbI Estonia 90 Ebola YES 28-07-2001
+1198 rTD skjs Azerbaijan 9 Sars-CoV2 NO
+8098 bikLtrQubCOc pUjF India 76 Dengue YES 06-07-2002
+8903 uTFMnJbr AzYsOYBzSDLtUGR Estonia 42 Sars-CoV2 YES 12-12-1973
+1115 TFdvdCzM TVSAGq Bulgaria 83 Sars-CoV YES 06-03-1976
+5189 VUhsy acr Eritrea 8 H1N1 NO
+7288 IRlTK fSxZyaELOoZtX Albania 35 Smallpox YES 11-09-2006
+9642 epdrpYDrKR dRKpaNNnRezfd Chad 10 Dengue YES 09-06-1995
+6420 riveSHbpZdmOI DKaeeN Albania 5 Dengue YES 03-02-1997
+4524 njzbMQV FOlCY Gambia 19 Ebola NO
+5748 aKbmQyGTYcOVLq ysv Gambia 106 Marburg YES 23-02-1996
+3418 ulnqiGEfkCYmzEy UNonal Bhutan 107 Ebola YES 28-09-1985
+2121 QXlu bKjuPZK Belgium 117 Marburg NO
+3254 JdcDTRgLXCkfDiQy DqmVakfv Belgium 20 Marburg NO
+3127 pEmettky Chsjg Eritrea 69 Smallpox NO
+7696 MIIUmKepRhKmdc cuznuOsPXbO Belarus 32 Marburg YES 15-08-1975
+8762 oMZushGttlFd yarulNy Azerbaijan 118 Sars-CoV NO
+1775 TQKrtUeC vCMAiTRfiLMB Chad 25 Marburg YES 18-10-2006
+8039 aDvFSUHQuKCABb ROiDftqgyNeqdj Albania 65 Dengue YES 30-07-2004
+5996 pVmRBJjDcvBkosG YlNsyxOI Belgium 43 Smallpox YES 30-07-1976
+6122 TCMlFjihCsHXzJFA YAqJdcnaGEpD Greece 30 Dengue NO
+4308 FVnAfHUbOSzF BYLLtrcFQCnqpuqb Andorra 44 Marburg YES 01-02-1981
+1985 MTcXPpTfv aFAojYuJGtRK India 41 Ebola NO
+8909 xobjeJ MCdyzVK Estonia 29 Ebola YES 26-09-1980
+2439 jpBiLUr gaYzVBjUujsno Greece 69 H1N1 YES 12-10-1979
+7008 ervpkJO abytbUUex India 35 Marburg YES 19-05-1970
+8002 QRh sOOLc Belarus 102 Ebola NO
+1578 gatKVmfGuidg yfQqIQjZTjjb Canada 86 H1N1 YES 02-01-2003
+0540 iytlirggmqg NJdKIAralOVHAT Belgium 64 Marburg NO
+3116 ETvfSkGcFvlsP FmincgmHyBp Greece 33 Smallpox YES 24-09-2012
+9189 ZEF zejDKipA Estonia 21 Sars-CoV2 NO
+0601 UVuvaz xZAPcddrjmL India 77 Smallpox NO
+2053 oQoAiGsLTQoAIMyq hjpPIt Albania 53 H1N1 NO
+0209 YycKYUoerRxBd ToKojFXV Bhutan 38 Smallpox NO
+8706 IvMJDHBa eARagi Chad 91 Marburg NO
+0455 kbNMX LiZqsa Andorra 74 Sars-CoV YES 28-06-1995
+2291 iRSKlOz mJHnAQNyouXuDfh Albania 15 Ebola NO
+0372 YBbXaFYvTQv eJjCSgMHvtQyceGh Algeria 102 Ebola YES 06-04-2012
+9631 iQeZyx MvsdGzxSImcu Azerbaijan 66 Dengue NO
+2035 ToMyLYQIQ vgF Chad 90 Smallpox YES 05-11-1979
+8956 LmfYcpEdKSDCsTef lTnDNdQuykRMjGzS Greece 61 H1N1 YES 08-02-1974
+7537 ehBt iQxGCEHI Estonia 116 Dengue NO
+0498 uYlgnLJPaV UeUeJst Gambia 97 H1N1 YES 04-12-2013
+1339 OBz eAuYvhjQYom Albania 60 Ebola YES 16-04-1972
+1860 lqCqPlxvVOoKsqL VRLLZOynrdkfA India 75 Marburg YES 07-11-2014
+2790 CNqhxrNaU lVoxCzPhx Belarus 82 Marburg NO
+5765 uHvTlVJdGGIcO DGQOiZDlnKKkuc Bhutan 50 Ebola YES 29-10-1977
+1899 ICMmF gaokUfjMx Andorra 14 Ebola NO
+4269 zvyIMBbDqCImi KSSDRHRezdD Belarus 47 Smallpox NO
+3586 TVgR nolprpavYJnG Bulgaria 25 Ebola NO
+4270 HzoC GETnlCKvycLYkO India 18 Sars-CoV2 NO
+4202 QRrzzglqDPRmG PdUaHG Estonia 54 Sars-CoV NO
+6946 Jss oqRvmlpOToieyvAc Bhutan 56 H1N1 YES 19-04-1985
+6958 rRFquxMv bisZ Belgium 104 Smallpox YES 16-11-1990
+2954 byGRiUhaHXjtMRoY qALlbiM Belarus 99 Sars-CoV NO
+1904 LlvGuOl mOSgde Bhutan 38 H1N1 NO
+2174 QlEtotaxErxCPVOp PMXhyquFRGoOZQc Greece 114 Dengue NO
+5747 iGadxZfurbaQ gSrgAQdnmJ Bulgaria 46 Ebola NO
+3454 RDkbiAUeYTN pXyHsHDeDeD Andorra 95 Marburg YES 18-10-1989
+1762 VRUPyzG uULTfXoflQVI Chad 83 Dengue NO
+2531 GFd aVrBPzjs Gambia 86 Smallpox YES 15-10-1969
+9536 zEZ XnkJSYcUP Eritrea 87 Marburg YES 17-09-1977
+1917 CHCgsC MMH Andorra 55 Sars-CoV2 YES 25-10-1973
+1648 ljC itngrqQZBm Gambia 79 Smallpox NO
+4812 DQG jgcZESQOUy Greece 112 H1N1 NO
+9960 HiqkkHHvuv PGRduMa Azerbaijan 58 H1N1 NO
+4882 vxfs lxYemlzStlPQv Eritrea 72 Smallpox YES 03-08-2009
+0330 NLPJlBus cHomOuDZKLeaxZ Belarus 116 Sars-CoV NO
+3486 gIpxtgMpRQPlUAzz PdpzrjkGLS Canada 78 Marburg YES 24-03-1978
+8228 SYXr ykfalugRZCJdr Gambia 64 H1N1 YES 07-04-1978
+4484 sBSRiDrT VXH Bhutan 23 Ebola YES 27-01-1996
+6951 kVDKe vIZ Belgium 11 Smallpox NO
+7663 PcsbUqLAPgmgH yBhXIZKzAvvA India 28 Sars-CoV2 NO
+6424 UMkLkPbxYZem Muq Eritrea 35 H1N1 NO
+2381 ormJIpCbfVGEjv dhnybISn Gambia 102 Marburg NO
+4519 ZIYU fFnRrpKbmzbjakh Bhutan 91 Ebola YES 09-03-1962
+9215 XUVJnURgiztf sNbucnSmZs Andorra 52 Sars-CoV NO
+8171 zOyj imLSSVofk Andorra 30 H1N1 YES 10-06-2013
+9504 IrmGSF zKXl Albania 92 H1N1 NO
+6547 dlTMq QZeiAHJaDgKYma India 102 Sars-CoV2 YES 18-05-1989
+7185 uROxLfIZeiGTI GmpNAo Bulgaria 92 Smallpox NO
+8762 oMZushGttlFd yarulNy Azerbaijan 118 Sars-CoV YES 04-01-1986
+8933 aZMYIvs cLmCenly Greece 14 Sars-CoV2 NO
+8676 itep OMaUFUyxfMLND Albania 79 Sars-CoV YES 10-08-1979
+7511 ipUijGOSz SOI Gambia 119 Dengue NO
+2389 lgzTVFnFxLrf HIudynXMEzDMQlH Estonia 111 Dengue NO
+2873 ECtpMvyEvHj BcuHhAJIKpzdeI Bhutan 110 Sars-CoV YES 17-10-1982
+7771 BJCXgeRBRjtgNny JlN Andorra 89 Sars-CoV NO
+7706 clBBPVBbk oOoBx Algeria 29 Sars-CoV2 YES 06-02-2018
+0018 EOBR fftdECZRHh Andorra 9 Dengue NO
+0077 fmpBZxOkfEQF ejqH Belgium 101 Sars-CoV2 NO
+0695 oBNUTvhMIHVntMYa qNGgvl Gambia 23 H1N1 NO
+6916 XkUABfLYKaH Aqup Bhutan 28 Sars-CoV2 NO
+4130 AkLvIdOvnvhr LUKiibmHJQhvqMin Chad 44 Sars-CoV2 NO
+5657 sFUhC HhNfE Bhutan 103 Sars-CoV2 YES 18-01-2005
+3163 KZBeoKEAvjX tyyfyGzglEv Eritrea 51 H1N1 YES 26-12-1969
+2439 jpBiLUr gaYzVBjUujsno Greece 69 Marburg YES 30-11-1966
+3567 hRi jTDFzgcUssOL Bulgaria 76 Smallpox NO
+3588 KystMqmBJvu tTCCHKnypTUDsjTF Estonia 78 Sars-CoV2 YES 04-02-1961
+2299 KSqoohtGDQOxgEa MXdVCb Belarus 25 H1N1 YES 15-11-1979
+2285 vtztN XLZjqbQi India 101 H1N1 NO
+3288 RKeERB mAeEn Bulgaria 104 Sars-CoV NO
+1873 sCBJgpElXE UTIHzg Chad 93 Sars-CoV2 YES 19-12-1972
+1656 MShNsA xRLGYMi Azerbaijan 14 Smallpox YES 10-03-1969
+1609 VzVJzQMflqImZID IvPXFHHqFsUA Eritrea 119 Ebola YES 03-03-1983
+6229 JTaSPtC VuQLpUeqfJgRbpY Eritrea 117 Sars-CoV YES 02-08-1964
+7460 arbspmfhpVdyhlD yyVkKM India 110 Sars-CoV2 NO
+5766 kxOR PSSysoxJouEg Albania 66 Sars-CoV YES 23-03-1966
+0867 NCRekzSHNOM EVE Andorra 27 Sars-CoV2 YES 14-11-1990
+7656 kPXDjpdULiFG HjpfbZhVT Eritrea 118 H1N1 NO
+6553 kSOQESEdmsqbQ TlQ Belgium 18 Marburg YES 25-11-1990
+9942 Eyv dNCrVrgfdB Bhutan 115 Ebola NO
+1891 PrfEEZcpP QMEkC Bulgaria 18 Dengue YES 28-03-1967
+8062 GfKOPliRpzYzKha zADt Bhutan 90 Sars-CoV NO
+8814 NkLLzMdHbb YsFjts Chad 47 H1N1 YES 29-02-1997
+1262 ZxLl FqesBXDI Algeria 82 Smallpox YES 29-12-2005
+9781 mIVE HHax Eritrea 11 Marburg NO
+2469 AbMsbplYdmhARtB JvhzcCeDu India 38 Smallpox YES 16-11-2013
+8723 eKqLxEYjH NQKvAUyGiEuVaCO Greece 60 Ebola NO
+7691 KDfscI PAIRxPcir Bhutan 99 H1N1 YES 21-08-1972
+2100 XqXCgbjH vMY Estonia 116 H1N1 NO
+3846 hgO ndoAIO Belgium 58 Sars-CoV NO
+2646 XPakStA mAL Belgium 30 Smallpox YES 24-03-2019
+0411 AUKIs cMZmTudMk Bulgaria 54 Smallpox NO
+4713 dggSI UYpNCXkxVXTI Bhutan 31 Ebola NO
+4525 EluiRYpguIVfPDEb FNgvRaSQJ Albania 92 Smallpox YES 26-09-1999
+6549 vKrXuOi iOXqpbPUHrYVONb Gambia 82 Smallpox NO
+5844 phS HkfpTBsskNBG Gambia 49 Ebola NO
+8439 PUYEQm JfxYrGZQgZmiFqT Algeria 22 Ebola NO
+8551 DxaAYUbvEdPHenM tkrfePByxD Bhutan 68 Marburg YES 15-11-1965
+4744 iTB frvrYKJa Greece 101 H1N1 NO
+1747 fHNunMQ UqfAPPMonHbGg Eritrea 13 Marburg YES 05-04-1994
+3402 tfDOdYJlRop BYlSOIpdLmiIeolC Albania 19 Sars-CoV NO
+7200 TPyFPvT AYAgHC Algeria 36 Smallpox NO
+4697 hTafRoMeeUMQ iOLm Albania 74 Sars-CoV NO
+9199 ssCSjcAt gokPHtHmcPaQFoXP Gambia 63 Smallpox YES 23-12-1986
+3158 XcgsQoEuJd oAqKufCmMmuKr Greece 32 Sars-CoV NO
+6275 sYQnKFAruMnzPF eBvTt Canada 20 H1N1 YES 26-06-2014
+2786 NxkaP OnQLtnmzSiyd Greece 30 Dengue NO
+5147 rZafgeHdhHvUdL yCYmKVuiJ Albania 57 Dengue YES 12-12-1967
+0913 BvVhyDsubPS JizYE Andorra 20 Dengue NO
+6978 mjQYt egVHqC Bhutan 10 H1N1 NO
+2577 NdV RBKhqESnxgH India 78 Smallpox NO
+4090 hXexRGygdDb BoDL Canada 8 Smallpox YES 30-09-2005
+0848 fobzJOHhyTINj AjdNGzocxmpyf Estonia 27 Marburg YES 07-07-1965
+2087 yHYjT gLkq Greece 110 Smallpox NO
+8036 CltXIiLxStVUO bhqESyh Algeria 86 Marburg NO
+5727 aydiritcoBpIF fvRkIOHQTrSvOEgT Eritrea 75 Smallpox YES 17-05-1983
+0406 UTVDUDVaaeyRRVGI aZjDuMsFyOtzqxEg Albania 105 Dengue YES 03-05-1978
+6424 UMkLkPbxYZem Muq Eritrea 35 Dengue NO
+2441 YxDStdAXCOxsjQ HxAS Gambia 100 Smallpox NO
+5349 CjkxLsauhAup mEi Belarus 83 Dengue YES 15-04-1966
+2049 ABmnrBrNVBEfDhkB HMBoSsxxUVUSclH India 104 Sars-CoV2 NO
+5032 FUgx QNtsEhn Bhutan 78 Marburg NO
+4452 IXiBmPbmXuAgGY LQQpYIr Azerbaijan 86 Sars-CoV2 NO
+4965 jLonrdCDxp XEUcyXEdFmkD Eritrea 70 H1N1 NO
+1196 PbEbZJboMEOyr pUYTPaAMK Estonia 101 Smallpox NO
+5873 iHlnmhuqq LqoNkHJnCduJE Eritrea 38 Smallpox YES 21-07-1962
+0460 xjEaPAg YxJmmxJKLroKFoL Albania 24 H1N1 NO
+2367 eRxUp aPHLnYsuGKmBNXsG Belarus 37 Smallpox YES 09-02-1971
+8839 mPTaLZcEpSzoa fMLbuxmhjlF Gambia 95 Smallpox YES 21-02-2001
+9436 oExQDEZdaYj BrIHnpMpnhVrzJ Belarus 90 Dengue NO
+4188 HTfcXorVvR DuEBX Belarus 73 Marburg YES 20-01-1961
+9584 KUuIbBkKlVbMHXL NtVEV Eritrea 21 Ebola NO
+7146 BVZakaCiTcmiMMRC UjlxFvoXPu Azerbaijan 66 Sars-CoV NO
+4964 SAtVvtPFF UnTeVlZZAIN Gambia 113 Marburg YES 19-03-2014
+6431 bUmLoyQzF hVNm Albania 87 Marburg NO
+6293 VoKbsDCJpZFpGt ORaltrSQlQoJIbh India 93 Ebola YES 03-02-1983
+1969 TpkzaCYnkGcgt GNyG Belarus 45 Ebola YES 01-04-1979
+0121 ERfA elBfMTt Albania 17 Ebola NO
+0402 JfGMMADuhrrtbu RutrHXoy Bhutan 28 Sars-CoV2 NO
+0610 DqlkHshBqLOQKr tlycBQKoEdRhOZYg Chad 94 Dengue NO
+6270 iZsfoqVuLdK PGGagdT Bhutan 2 Sars-CoV2 NO
+7572 gcvAiSkm EFb Andorra 68 Dengue NO
+0698 OrM MGAIDt Belgium 100 Sars-CoV2 YES 08-11-1976
+4304 GueJyOSvpl OoBFcJFnEZ Belgium 78 Marburg NO
+4244 csbnFLqqPhLJF XPPKlxZoFIQyhab Canada 69 Ebola NO
+5309 TONKnZACXXuNcDj RSceYhzlehoU Andorra 11 H1N1 YES 19-01-1971
+9661 jRAennUQ Mjy Azerbaijan 38 H1N1 YES 17-10-1964
+7095 hyh mCafNAiymqpaIrz Bulgaria 14 Dengue NO
+5734 oPaplHhnSZnT fcAToJLjzbYjUl Belgium 76 H1N1 YES 09-03-2005
+1142 bPbiAOPovfN UAvHxG India 20 Dengue YES 02-08-1969
+0822 IKirFTSrU aSsphFeDa Eritrea 67 H1N1 NO
+7707 bYfIa VdpXycDFyKhYlX Gambia 107 Sars-CoV NO
+3095 ErPdP LoF Bulgaria 20 H1N1 YES 23-03-1976
+8417 eYdSolvrpnXUHc mgCiLCeCCRS Gambia 112 Marburg NO
+1540 CEZlYYmSihtlnypm dmORkREPgoMiKm Estonia 19 Sars-CoV2 NO
+5342 FZLdQOAqmDEl LbPLncPFYpuGGzs Eritrea 90 Sars-CoV2 YES 17-09-2016
+3885 xcctGknnFvjEO vbmEYns Eritrea 17 Sars-CoV YES 19-10-1977
+7191 LysGyPyhqCruj vOsmoTFq Algeria 113 H1N1 YES 08-04-2007
+4063 BDjF TNaFjxo Greece 55 Sars-CoV NO
+2770 PblFDaYfhNtOplTF coGv Albania 86 Sars-CoV YES 03-04-1998
+2571 RdynjsLP pcGmCDIGgORbcucU Bhutan 68 Marburg NO
+7956 qFNKq NuLkBifetAeOO Bhutan 112 H1N1 NO
+9452 asCruQHVYM MXqbBjNFu Belarus 58 Sars-CoV2 YES 09-02-2005
+2735 pbmDOSZidCb tgIFTPprQmva Belarus 84 Smallpox YES 22-07-2017
+2384 dbgRBMe RMyuN Algeria 74 Smallpox YES 21-11-2002
+1507 sToSEKiPzXYNFZ qzbGE Bulgaria 49 Marburg YES 30-07-1989
+7866 sOMmEHrJPz XYPBFRvliO Estonia 110 Marburg NO
+2552 eSUxyTChqbr ANnxprg India 52 Marburg NO
+4295 MLl dCsyBIgvszuQrF Estonia 110 Sars-CoV YES 08-04-2004
+1804 slFqHXvumckiMf SLfK Eritrea 57 Marburg NO
+0101 guf pQUYAqg Estonia 97 Dengue YES 19-09-2001
+6569 existTIGUi JCpptTGfXz India 105 Smallpox NO
+5014 xRm zPOrHeibuHeXS Belarus 12 Sars-CoV NO
+8222 LXiUP udmKcDHQYzyzeJh Chad 85 Dengue NO
+6672 KgAjIevifzDD OlIDByUe Eritrea 87 H1N1 YES 07-09-1988
+6909 htIHjLe IcqcSnlG Bhutan 80 Smallpox NO
+1239 UElVQL KjlkfYDmSXpD Estonia 96 Sars-CoV2 YES 16-03-2007
+0231 ouoYkOCRDsCOE kxOcNdMM Belgium 114 Sars-CoV2 NO
+8781 bJojsPiaEYP xzzfXsOsXLOvTBn India 31 Marburg YES 25-10-1963
+5487 Yevcp OSyLfAyYsR Chad 116 Sars-CoV YES 26-04-1999
+8991 MzgUfcISmCe orctRf Algeria 31 H1N1 NO
+4856 NgFlQQ ArL Albania 13 Smallpox YES 06-02-1995
+7565 JQfBtzr nPHganGA Greece 18 Sars-CoV NO
+2894 dXT pZJmNiaqrTnJk India 116 Ebola NO
+8209 kVksnzg FKPTKLC Albania 71 Smallpox YES 21-05-1998
+1405 igMZRMDly SDEHgGohsCULTjmt Greece 97 Smallpox NO
+6153 vNrJyBjzYCrB cNFqjqftlPX India 80 Ebola YES 06-01-2012
+3666 vJUYqbgGTVT acSsvQEQyHuCX Albania 38 H1N1 YES 07-09-1961
+0667 iUTGbNNilzgLzYE rTuFEnAsSi Greece 92 Ebola NO
+8098 bikLtrQubCOc pUjF India 76 Smallpox YES 06-09-2012
+4720 EEOIEoHTbhJxtu EIYzZ Andorra 63 Smallpox YES 09-07-1971
+7615 JtUXO xrcMFHeJkVqDeDbB Algeria 114 Smallpox NO
+8823 BNyDE LEOJYziLygJiGJ Bulgaria 101 Ebola YES 27-12-1983
+3573 lHGiIcke MexmlHtPIR Chad 83 Sars-CoV NO
+9484 QyQxxNPVefpTzUO IbCNtACEm Belgium 6 Marburg YES 11-04-2011
+4574 nPSoBfomZiIglJPN xaIEmKgygZtcOCr Andorra 88 H1N1 NO
+7746 VDS evtivMsNMldNHI Estonia 13 H1N1 YES 06-05-2008
+6683 mZlGHRBlrHCFd NVvbMXJKUYLxCr Canada 111 Ebola YES 01-09-2014
+4832 aKQkcKjdZHn FYbTmAhHnNjDxCC Chad 113 Ebola NO
+1525 KaYlAtaRUUX KIQPErpO Bulgaria 44 Marburg NO
+0337 EzsEKRPODsG kegakb India 112 Dengue NO
+0773 HifrjjFDs teezxNdscB Greece 69 Ebola YES 27-04-2008
+6281 gaERvhkNuJmiVuX hLe Greece 12 Ebola NO
+0547 OsPbh rnzDYoX India 86 H1N1 NO
+0719 FJMksgeCHmc kxkm India 103 Smallpox NO
+4692 EsKCFlXsZGSd mqOcldxOyPZG Belarus 37 Sars-CoV NO
+9589 puDimMMCTvkGkbs oeASkKU Eritrea 58 Sars-CoV2 NO
+6022 neR coITItPpfGJM Gambia 62 Sars-CoV2 YES 22-07-1973
+3037 dpuojlZjA nOQpJjYvAkdTaPJE Andorra 2 H1N1 YES 12-07-1984
+9371 EoTjjvMVOxmtjC cStyYu Albania 11 Sars-CoV NO
+9986 JfgnXtMnsEsvUs XrDZgLrFNlvDEtnY India 42 Sars-CoV2 YES 09-08-1973
+2125 RKaFCx XXbnkDxCJTo Estonia 9 Sars-CoV YES 15-01-1991
+2422 azcEtEbuluBUSL rdK Gambia 116 Smallpox NO
+7039 NsMtbnG jmsIJtxaj Gambia 109 Dengue YES 06-11-2013
+1568 oTZO ZvhfY Greece 85 Sars-CoV YES 04-07-1970
+9836 acKbIidsy JzXCRPykevE Gambia 77 Sars-CoV2 YES 13-08-2007
+7396 iYICfpGHtGKE kEPlKNYmDYIQLeGI Belgium 76 Dengue NO
+5636 loyr kFOdSncO Eritrea 67 Marburg YES 04-01-1997
+1423 LfkOtLPo PggUdAaedQGt Azerbaijan 18 Sars-CoV NO
+2596 KiPmqelxGUBamk hXq Canada 18 Dengue YES 02-02-1965
+1996 rfALbA NFSCYPoyOTxh Belgium 15 Marburg YES 02-04-1992
+9265 beSdvidqVXTE unNudyGiel Belgium 81 Sars-CoV2 YES 22-12-2007
+7938 yITyy dZfNBZaBt Canada 45 Sars-CoV YES 26-11-1995
+3345 cXZNgXUmlHD FIt Albania 14 H1N1 NO
+1659 UkJQaTxUftZRIy LJlsDbx Greece 51 Marburg NO
+6359 OnrLQ NPpyUQPksTZqPMQ Eritrea 19 Marburg YES 13-11-2001
+1457 LtsqLOU RNQP Andorra 101 Sars-CoV NO
+4898 fXpExrxnptqD lkPlA Algeria 2 Ebola YES 17-04-1989
+2891 YXDN jlhKFIQRNIii Azerbaijan 87 Sars-CoV2 NO
+4670 sIrnPr GafGTFev Estonia 79 H1N1 NO
+4825 EKYOUeXMkdMY qcRZygNMRtF Azerbaijan 5 Smallpox NO
+5586 ogBaTAQkXba dFctvMUooRRhh Belarus 87 Marburg NO
+5732 BcCNBoF ZyycU Belgium 19 Smallpox NO
+7779 ChoqYvznp SCaZSafoUhzhbO Andorra 90 Ebola YES 22-06-1970
+8225 GfeLvFYJAIAQNTy EXqV Algeria 3 Ebola NO
+6803 URftbFnvoEuOcDBb plKZjcDzDCmHAPb Albania 4 H1N1 YES 15-12-1986
+1185 ePQOcbaNP diicITtKNBabXKjF Bhutan 13 Dengue NO
+2755 qkTGsMDaZmeSQFx xiXLXiSR Belarus 9 Sars-CoV2 YES 28-07-1984
+1240 JfsoAaZuZRoYgCNu NkZseLBTOOa Greece 71 Sars-CoV2 YES 30-12-2007
+6153 ZvIou GVZl India 62 Ebola NO
+1339 OBz eAuYvhjQYom Albania 60 Sars-CoV YES 20-04-2001
+0694 SMyfEeErCiJ OPeQX Belarus 20 Smallpox YES 07-05-1969
+1475 SOYyYg yNlEZGxN Belarus 107 Ebola NO
+0408 DSYN aJUFzbbvgPepzzzF Andorra 76 Smallpox NO
+0113 XYZzb OzNslrMIvC Gambia 118 Smallpox YES 22-04-1987
+6958 jNqhLnMcBLGERAE pVtTEAyuMYQ India 111 Dengue YES 20-11-2012
+0577 kkbaBHY tpaGaOroiEXIJH Estonia 73 H1N1 NO
+2367 PQQ pZDmO Greece 35 Dengue YES 27-12-1987
+9883 qLotSSC XynZpjJvElhIpo Belarus 10 Marburg NO
+0871 cSomKJRRPFNq rQHihZacNu Bhutan 113 H1N1 NO
+3660 ieeYD GfHT Belarus 57 Ebola YES 16-06-2012
+4943 ckLYqjHbV PLJQ Bulgaria 8 Marburg YES 21-04-2018
+0606 qihFSgkEzCrMsPhI bPekPjgG Gambia 40 Sars-CoV YES 29-10-1986
+9066 JypCjefuypQDLl NissBAUbrxd India 73 Smallpox YES 30-08-1962
+4253 RGMnRbjjYZcp hPJ Belgium 41 Dengue YES 18-05-1984
+9771 AOtgKhla fuEvIzd Algeria 39 Sars-CoV2 YES 13-05-1997
+8913 zhmruC GMokF Canada 67 Marburg NO
+4579 scRLVhF zMQHEdSnDZPQX Andorra 52 Dengue YES 24-08-2007
+0464 kSQMqoKhDbMpRIU HHEhlhgOGAgymKJa Gambia 36 Ebola YES 27-12-1976
+6693 pQTMXc gtQkmA Albania 77 Ebola YES 03-01-2015
+9336 sYFQXQT vuHbpMBAlEo Chad 49 Dengue YES 23-03-2016
+8001 ebrgRXPYo llojkeGEspKo Greece 40 Sars-CoV YES 19-02-2010
+8656 rLJ LBEftojUCiZK Bulgaria 34 H1N1 YES 17-10-1992
+5725 KnpAt erH Azerbaijan 35 Sars-CoV NO
+6320 HIVEbGKAM URas Estonia 88 Smallpox NO
+8008 QguQ edVlV Bhutan 98 Sars-CoV2 YES 13-06-1989
+6492 hoH YCoIzGqXBOB Algeria 36 Ebola NO
+9443 RhnVl iRYndzqdZHxr Eritrea 114 H1N1 NO
+8871 DDnfaavzPMn sXVo Bulgaria 25 Smallpox NO
+8319 mQQthI pDoknlsV India 79 Dengue NO
+8352 ACEtb sMyhf Belgium 18 Sars-CoV2 YES 02-07-1984
+1169 KsENPzUhfFZhjEvV GqHXzFblmTMu Chad 41 Smallpox YES 15-11-1999
+7294 cXDvmH aDEXGeaPL Andorra 44 Ebola NO
+4416 IRaedqfYEjbni ddCxiDM Canada 1 Sars-CoV2 NO
+2096 VXVbeqvSeX GgKJifEzVUZHtGzI Chad 49 Sars-CoV2 YES 09-03-2015
+5667 GjuMprcfvBZTU lYdsXrFnUVx Algeria 102 Dengue YES 02-03-1961
+4375 tCIAv nOD Estonia 14 Sars-CoV YES 03-10-2007
+3660 RNrjn POnQiOy Eritrea 33 Sars-CoV NO
+5350 rElEN rxMHbHvnG Algeria 33 H1N1 YES 25-05-1977
+6794 oBxlLmgzBve ZxiyGApSKszk Estonia 114 Sars-CoV2 NO
+8452 YUcdbqRMyrXC HosDGrTt Bulgaria 99 Ebola YES 18-07-2005
+9452 NGcd eIOJOlePlgeg Bulgaria 10 Marburg YES 25-08-1974
+9283 FCyCR PzKadC Greece 50 Dengue NO
+6835 LejrP mGJfOsKOLV Algeria 93 Smallpox NO
+1948 afqr LKSBA Albania 64 Sars-CoV2 NO
+7029 rpzguDAiQE MKtJRVGu Chad 105 Dengue NO
+6692 jbd CGMa Belarus 79 Sars-CoV NO
+4839 jUG DrGXo Eritrea 90 Marburg YES 25-09-1981
+0920 objfhLEchbJrgy ePvzfIVomfFZNRdK Estonia 89 Sars-CoV YES 04-12-1982
+4670 sIrnPr GafGTFev Estonia 79 H1N1 NO
+9206 rnGMKbRKgAAq xEACcqunn Greece 56 Dengue NO
+1764 pvul DlzCzsSgVHyRNy Chad 9 Sars-CoV YES 27-08-1975
+1731 SyvvPHZXxprLkSf qneXcXvGiyzHSOCO Andorra 110 Ebola YES 03-04-1985
+4181 vQcDZYP hFvjlVmYTAfG Gambia 73 H1N1 YES 22-07-2006
+8515 UzKuZKnThpGZgsHT vMcnPxCrRCtHM Belarus 90 Sars-CoV NO
+9884 ucYpJIrjU JNly Bhutan 28 Dengue NO
+5872 KTqPyfeMvrMhT KZrFvQFZOGoeV Belgium 32 Smallpox NO
+0475 kGE cTcFHDPdNF Belgium 103 Sars-CoV NO
+3628 eFohcZUfmUCb BMfcPbcBvgK Estonia 94 Marburg YES 04-01-1972
+3173 exjhv ZSdNOO Andorra 33 Sars-CoV2 YES 24-07-2004
+9588 xgOmI zXhNTMAmCETij Estonia 71 Ebola NO
+2354 PxDTk fHZfnBdzEIrZCNZ Chad 5 Smallpox YES 21-05-1980
+1594 zXmdkpXVngTLtaUQ kcSVajsyyjEkUCq Algeria 90 Dengue NO
+0807 GJahbLXVDfixLQ vbSzYDNadaVthZ Belarus 97 H1N1 NO
+7007 FXJCf rHZq Azerbaijan 6 Marburg YES 29-03-2012
+4916 OaaTuEFVrXY Aci Estonia 34 Marburg NO
+3245 pIaO ZemdhNlylN Algeria 87 Ebola YES 09-01-1967
+3688 mNKi dtUNTMbfqi Estonia 71 Smallpox YES 24-10-1971
+9560 VIgMcO AuGxxdVDu Gambia 22 Ebola NO
+9661 jRAennUQ Mjy Azerbaijan 38 Dengue NO
+3292 oFr uFcLohQKoMnE Chad 97 H1N1 YES 27-01-1986
+0362 iPaYDVsSdQYcx qUyKU India 117 Ebola NO
+2593 tFeQIdrmDn EVlVUhyPlaCVKJ Albania 78 Dengue NO
+4788 lNcvQEnaQmFO VZKscVHFSO Canada 44 Marburg YES 30-01-1989
+1130 AMlSvyazxPf HXddKtoSMXfu Chad 94 Smallpox YES 30-07-1992
+1711 bTjCjjUJkCN RQhJXGicm India 118 Marburg YES 09-01-2009
+1187 VSH BolPTE Chad 97 H1N1 YES 03-10-1985
+4271 xDUkzosyMsEI UauPleDieLcJRQj Andorra 50 Marburg YES 10-09-1981
+1512 ENdOJKupNa mbk Belgium 22 H1N1 NO
+8244 upjpCyUyy ySbTkD Greece 111 Dengue NO
+8275 NpcOyXqDCF TTdJhzgIoe Algeria 72 Sars-CoV2 NO
+6705 afBDBljhimQrfQq hznDyivyHDf Algeria 29 Marburg NO
+6054 ybe iKiAJRQY Azerbaijan 107 Dengue NO
+0943 KaAyIZ AcYNNIzeB Greece 76 H1N1 NO
+9044 bAmmQzqhULx QToF India 27 Marburg YES 08-07-2016
+7347 SyQeAxXJvASYLG DEyldjAAPHXrlSB Canada 72 Marburg YES 18-11-1968
+9516 MEBSRDLkOyPARFO orIaOnFtNE Belarus 38 Marburg YES 04-11-1963
+4435 JNSgNZEdpjDsk tbRFMrX Andorra 96 Marburg NO
+6239 oYo sJMMXKzDmQGcGHmh Bulgaria 19 Sars-CoV2 YES 13-05-1989
+2353 jKJnLF SztECieyG Canada 35 Sars-CoV NO
+8772 okPEo OuaZICMHbhGfLkA India 56 H1N1 YES 10-04-2007
+0275 CBUEyjhcfETAuyJ yVjCbaRG Andorra 94 H1N1 NO
+1153 GvazvXyhhJ RPTz Azerbaijan 7 Dengue NO
+5371 XHleAjhaZrbQP DTczyGldUtOvLeP India 27 Marburg YES 27-02-1972
+6327 aMxXLoOYHMQcQh OyAuccheQuC Estonia 81 Sars-CoV2 NO
+2132 sLr jLEivYB Algeria 68 Sars-CoV YES 21-09-1965
+0415 KVy FcgFQxc Canada 35 Sars-CoV YES 20-12-2021
+6801 aRcNoqN NxGSDix Eritrea 72 Ebola NO
+8238 yOyH HSyLQhdokbO Chad 97 Marburg NO
+1415 IYiTHidoffAC EIfhNp Gambia 66 Marburg NO
+3931 HbDsc hKLetlgosOngFQ India 37 H1N1 YES 11-02-1968
+5525 iLvO CxtksZBxiV Bulgaria 90 Ebola YES 25-06-1999
+0310 hbpku ysxDNgxZiXCVzPAX India 37 Smallpox YES 16-08-1990
+8433 jCeLTuzN UXtoVdYOhLDg Estonia 89 Marburg YES 04-09-1991
+2283 QsqXFr JLt Belarus 34 Sars-CoV2 YES 27-12-2002
+2281 ISudoC CjSjourGAvNCN Belgium 97 Smallpox YES 02-12-1998
+7512 xzRbxZIH vTZvkkoiD India 42 Smallpox YES 19-04-1974
+1623 jLyfZTXyqojIpqYq eFod Andorra 26 Marburg NO
+0541 BxYLQMguoSKTXs jdHucloueyMphe India 51 H1N1 NO
+1848 MtOQvYMTuYK KjBFKIvAIRSh Chad 67 Marburg NO
+5161 BpzeTzvieyovAXO tvNdrOLvPRSKGxR Algeria 82 Sars-CoV2 NO
+5738 TdVN QueUCGHcYRkXAeL Canada 77 Ebola YES 01-06-1971
+0828 ZMOVu nxmKSctc Azerbaijan 117 Ebola NO
+3998 CpMGGLI TXuHvZf Algeria 112 Ebola YES 26-05-1996
+1753 qnnNhjiIrdySHQlR IOJGM Bulgaria 38 Smallpox NO
+2736 SifUgUvOnQVvd ypFQpR Bulgaria 84 Sars-CoV NO
+0364 zOM sUIkKhhZPqpnjnu Andorra 47 Dengue YES 15-06-1977
+2742 dhUbVBvyYCPdUB OLAZ Azerbaijan 26 Ebola YES 11-05-1966
+7734 vcEF DIIsxA Greece 42 Ebola YES 23-05-1988
+4142 fXbkcqO tUEFnRMGxmsyL Bhutan 55 Ebola YES 11-09-2002
+6727 ulcYd kAtEIsmjQ Canada 25 Marburg YES 20-05-1966
+7399 EKPFHQKyVHV NbeS Azerbaijan 21 Dengue NO
+4029 zuBskRt hSImZtKEji Belarus 64 Smallpox YES 14-04-2012
+1682 vXPX CrxlQAbhpHX Algeria 7 Ebola YES 08-12-1996
+1141 Bqoy NacVuinfVUBlCth Belgium 72 Ebola NO
+2352 pqKsTjUG TnNEbyX Bhutan 45 H1N1 YES 09-01-1990
+7092 JodkPQzZdg zUzOzMZPjyG Bulgaria 56 Ebola NO
+2662 yOSH afpbaC Canada 15 Sars-CoV2 YES 22-03-1993
+3356 KppOol BRVSkoe Azerbaijan 42 Smallpox YES 16-12-1985
+1552 FyFigsTtkp uDvFNUJNHDnXCczD Bulgaria 14 Sars-CoV2 YES 20-02-1983
+8146 CdQXrdRGNIKXbu iIiMYFhsApKmMD Eritrea 79 Sars-CoV2 NO
+2620 lahABSHNjYAv ZOBYBnUK Bhutan 20 Dengue YES 09-10-1964
+2011 rjfdhIVLmIZbMte JzVBT Albania 89 Dengue YES 26-09-1963
+0826 yEOtAab vlndhVBaBVtzCVjk Algeria 29 Marburg NO
+3437 orKgPRgfIu jltSve Albania 46 Marburg YES 20-03-1990
+0924 macmPcKFDEyb EuCIYTmNTQFX Bulgaria 48 Dengue NO
+8471 UuBg xZMZ Eritrea 48 Smallpox NO
+0774 tAeDexbQtDmURBvZ truvykrJgvD Belarus 101 Ebola YES 02-03-1994
+9830 xKpu HGLL Chad 22 Ebola YES 24-02-2004
+4957 lnnqKLQafqVomVV yKuf Belgium 70 H1N1 NO
+7365 XoeUOKcfSQUSBz GQsFIXCHQU Azerbaijan 65 Marburg YES 24-02-2014
+5695 zBP PuGPc Belarus 89 Dengue YES 24-07-2006
+4859 pTRDlSTGjPsNVD TodsTIQdOnKCjTz Bhutan 63 Sars-CoV2 NO
+3475 JNY AANptk Estonia 77 H1N1 YES 13-07-1984
+3743 lLDeRPqpTCV bYirkaknHSIseAD Belarus 66 Smallpox YES 21-10-1967
+3725 cXiraQzsRbZ ucQgexle Canada 109 Sars-CoV YES 17-01-2010
+8842 TzQ DAaTigrtYr Chad 112 Sars-CoV NO
+1300 DuaIpxyfG rtXJGgPjaETMYRxq Belgium 86 Ebola YES 21-10-2001
+9899 lBkvjVlZaiBaYUeD aONgt Belarus 23 Dengue NO
+8991 MzgUfcISmCe orctRf Algeria 31 Sars-CoV YES 20-09-2020
+5964 SmllmIqPqUfiSp BXZPkpdyLNFh Bulgaria 75 Sars-CoV NO
+1523 qFHsgv XHsiiyfSmTGRCC Canada 110 H1N1 NO
+0784 Vpeb vZAVAYnKenKHaYa Greece 20 Smallpox NO
+4373 BsAUtONuaZfyeTIb mUiMcuapnvE Andorra 2 Ebola YES 08-10-1986
+3048 jVgbKDxi GLTDUC Bhutan 107 Ebola NO
+5689 boASeX jnxoaav Azerbaijan 76 H1N1 NO
+0086 SICN NHyJqFqfEvmAxk Estonia 104 Smallpox YES 20-07-2014
+9164 tSktki xzpLajfikHKCrCDF Estonia 17 H1N1 YES 15-11-2018
+3851 dFIXlvgGsNyk JxBrHBtOc Canada 21 Sars-CoV YES 16-05-1988
+8501 IfDkAj EQhCAlj Azerbaijan 12 Sars-CoV2 YES 14-04-2018
+7581 qlMdzQASiAUG jaDk Bulgaria 67 Marburg NO
+4908 mcjOykDtaU ySVB Andorra 56 Ebola NO
+8541 zGosGAcJt ZepYxONRMxuRKf Bhutan 53 Sars-CoV2 YES 12-06-2013
+6430 QKNOofhEgskY dGGJQtGaaxDiny Canada 38 Dengue NO
+3366 FbKdh eqeAigiz Chad 118 Sars-CoV2 YES 08-10-1991
+0981 eqRyXFakMXfe nJoxhbVmeOIOd Canada 5 Sars-CoV YES 15-03-2017
+0378 PJcFD uehJeCFamzS Chad 67 Dengue NO
+1346 DdlpbkLPPtYNb FTPLBNUldoaH Azerbaijan 8 H1N1 YES 29-10-1980
+4619 amBsUADIGXhVSiXt hRmfzEcXpunzkycy Belgium 102 Sars-CoV YES 27-10-1978
+7200 TPyFPvT AYAgHC Algeria 36 Ebola NO
+1685 fYekj FTI Belgium 119 Sars-CoV2 YES 22-02-1988
+6142 SzOlJFNXmOz JjdvcYJcIiJv Belarus 118 Sars-CoV2 NO
+2811 THiC Qrxm Albania 73 Ebola YES 15-04-2001
+8754 IGtAjDfiqULzggay nyERBqKtQMa Belarus 110 Sars-CoV2 NO
+0515 jLEtDGkutICcN oQFBxn Bhutan 16 H1N1 YES 09-02-2018
+9485 GTxfeLnUZ jsSRTx Bhutan 65 Sars-CoV NO
+0495 PaAaBposXPvP ZfZHlyc Bhutan 51 H1N1 YES 21-03-1977
+7806 tvSySbYrb kxpVg Gambia 103 Sars-CoV2 NO
+0811 npBMFUNu uLvyVSEQyhSjUECt Belarus 13 Sars-CoV2 YES 09-06-1986
+3708 FliJOTANZQX cKMTAd Azerbaijan 38 Dengue NO
+0308 BavXpUSN qYOGd Albania 21 Ebola NO
+0195 eQsVUsJMKiSKB QIOJSCuioTyLRa Azerbaijan 36 Dengue YES 27-11-1984
+1874 TVCCXSU bxECSogGLiB Chad 65 Sars-CoV YES 14-03-2021
+5605 MBJmmdoSoAM UpXe Canada 36 Ebola YES 26-10-1988
+1333 bxeEZmIRKJG FcUvnlqkp Andorra 112 Dengue NO
+0415 NSF NkGuOOcGqDtj Belarus 27 Dengue YES 10-02-2009
+9243 Lvgr jjM India 41 Sars-CoV NO
+3851 uIYlO tnLashu Canada 116 H1N1 YES 28-11-1964
+5712 GRG fJjncHB Bhutan 96 Sars-CoV2 YES 19-01-2007
+9641 toAURZ gjBEtcHSCh Chad 52 Marburg YES 01-10-1970
+4282 tfaiMsYR nGSDesMobRDav Azerbaijan 95 Ebola NO
+9249 rVk hqImMaPQUQITYCLy Eritrea 22 Marburg NO
+7112 bgKZIPtcfjog YuqABpzdzALnp Andorra 39 Sars-CoV2 YES 20-11-1972
+1816 VDN HfxPfXdxYM India 1 Marburg NO
+7687 bxyYtRm IooIbTHLdrqVkCE Albania 96 Sars-CoV NO
+2060 iCTyDG ycMmEOOHGlGZ Bulgaria 106 Sars-CoV2 NO
+3615 pIePVDLG QaBvTobEKTiBscS Andorra 42 Smallpox NO
+2689 aAqUeJVmvxhxR gjYdTJyn Greece 33 H1N1 YES 09-08-1967
+3797 ffSxAk asGb Chad 25 Sars-CoV2 NO
+9172 rRhfjMkjccHFIchv qCV Albania 115 Dengue YES 11-12-1992
+0554 jzuncOHtrHVvdGy ZzdbbHmJMSNLdXno Bhutan 93 Sars-CoV YES 01-10-2011
+4522 btZJoqbCRbkYvHy TDMl Bhutan 11 Sars-CoV NO
+1264 MYMhGLmTqiGEAm TixmUaGr Estonia 52 Sars-CoV2 YES 25-11-1987
+4329 XEq gPlsfAkCmEaeSZAH Bulgaria 27 Ebola YES 23-08-2019
+5538 AlMNAApd EISOQMgrYVSkPJek Algeria 55 Smallpox NO
+9619 YVDPycMcUDipSt YsTNijdCLhrhQCr Estonia 116 Smallpox NO
+6272 iJjTukvT KkekrPY Gambia 85 Ebola YES 10-07-1986
+4734 TDbxUgZxdDB pyEdNlBvxcDLe Estonia 62 Sars-CoV2 NO
+6194 EqHDDSBoszShJkXS pov Andorra 41 Ebola YES 05-05-1996
+5725 KnpAt erH Azerbaijan 35 Smallpox YES 21-07-1988
+0302 DljGkDz stcTPxvUi Belgium 57 Smallpox NO
+1879 tyYS pkpNgueLNdttg Greece 7 Smallpox YES 12-06-1990
+9983 TIIVOgkZbF DsiPANhXOdlzOof Azerbaijan 113 Sars-CoV2 NO
+0827 LboK NyRghUcZSrhpvOY Eritrea 33 Sars-CoV NO
+8619 PQJcDiuTUn CCaySL Belgium 107 H1N1 YES 28-08-1975
+5946 cYVbRtokdJGdgMS nTCqetALsBC Chad 79 Smallpox NO
+8410 ojG aptcLxl India 16 H1N1 NO
+3216 byAtOOTzERaX TGyIhhiIZ Belgium 88 Sars-CoV YES 02-06-1984
+1450 phcOPxzCJX XltTy Gambia 102 H1N1 YES 23-01-2019
+2405 RFmcpvHhcZAtC oXVZRAeaQNTD Andorra 31 Ebola NO
+5214 Coilj KOIIHuzq Bulgaria 59 Sars-CoV2 YES 16-04-2012
+5057 DLF CpDVNkAmfMEeQ Estonia 93 Dengue YES 16-07-2000
+8480 mAoobCzemBrHM dkkouy Andorra 72 Marburg NO
+7258 PNj QJTLARDeJ Azerbaijan 98 Smallpox NO
+0897 VHrfx UJjrHIqiRbrG Albania 102 Ebola YES 23-10-1990
+3573 ktRyjTCaOCGxyK cYeRdf Greece 85 Smallpox NO
+5010 tsKYsKPEFx EICoYxbPLkOodojI Belgium 48 H1N1 NO
+7545 LMQjfDE YMoFxCbRks Albania 35 Marburg YES 18-05-1994
+0515 ifzfzd dolxGbvjjGsLHFKz Algeria 3 Ebola NO
+3962 ondGZLtORRx mOmkC Estonia 76 Marburg NO
+1738 dTBvruMsX mtnmhSDML Bhutan 68 H1N1 NO
+0640 GzvTEOkTmrNnC SfjkSXBMVSh Algeria 14 Dengue NO
+5699 AisctagFAnBStizP mjsiIDj Chad 91 Dengue NO
+4099 CjxyeRaAgMmcQ xqDcpDQE Andorra 33 Sars-CoV YES 11-10-2008
+0667 iUTGbNNilzgLzYE rTuFEnAsSi Greece 92 Smallpox NO
+3286 ACMJAhBXNQhiuCh fKxnUNyXbvti Eritrea 25 Smallpox NO
+7453 fUVNmNhk MKgDaCxFCzCQTte Greece 31 Dengue NO
+8664 IEoO VsryJqVAGKtxVJmF Gambia 47 Dengue YES 24-08-1978
+4519 ZIYU fFnRrpKbmzbjakh Bhutan 91 Dengue YES 24-03-1965
+1925 ikpervgHnjGhmJj BzJh India 116 Dengue YES 28-12-2011
+1401 uVuXzT vOv Albania 22 Smallpox YES 15-02-2000
+8715 czTagYVyYZYa Fnl Eritrea 21 Ebola YES 22-09-2010
+0674 lkjDJCmGvQmiZgl AiqpFrfvBAvQ India 78 Sars-CoV YES 15-02-1967
+0347 pgdnOBItnxQtAM lXfgsakBFL Albania 105 H1N1 NO
+3790 eidqK mLmMIaRDaqtP Estonia 101 Marburg YES 27-07-2020
+9481 mBjTnrLFZvfCXHLF DDQPmnC Bhutan 78 H1N1 YES 27-09-1988
+6041 tFA HjgG Belgium 35 Ebola YES 09-09-1991
+1584 oAUMJEyVRJD TffS India 17 Smallpox NO
+9939 MCPJvsHsDCZfVD ARQvmgrIYIizjXhN Algeria 48 Dengue YES 13-02-1974
+3425 aEamzCDISCnanKrH UjvDQTkrdhs Albania 109 Dengue NO
+7072 ZESkP vzs Estonia 42 Sars-CoV NO
+1146 pIvDshMGsGV YtodjYJoXt Gambia 83 Dengue YES 16-03-2008
+7905 JOjfRCyv CaVULXEHhi Algeria 49 Sars-CoV2 YES 26-02-1977
+6103 bYebeVBuNoYqeDLb kQgLdr Eritrea 48 Dengue NO
+5276 rGbfZNuqaYnZiiTu NrjKYnNXeKj Bulgaria 98 Ebola YES 28-05-1999
+5057 EgGyZlQDDS eiPLjsNFH Greece 105 Dengue YES 20-07-2004
+8450 YTg sQMkMqnPTjM Chad 116 Sars-CoV YES 05-10-1990
+9136 uFjxKdjpjViApmth Dibv Belgium 113 Dengue YES 24-04-2013
+9148 oLrLUROFUQEtTxc meN Andorra 47 H1N1 YES 04-01-1985
+0016 qxMklbncRO MMnRvuazSGlapesV Canada 85 Marburg YES 29-11-1962
+7563 LPXdEXEikeBjVz eiGzQd Estonia 92 H1N1 NO
+3138 ZqPXaXLH OjZKYTqYhb Gambia 94 Smallpox YES 03-05-2002
+5593 JHS HKbEpxRLIk Algeria 111 Dengue NO
+2887 peOk rYVuvKv Albania 65 Sars-CoV NO
+2699 EsBHVAG TUEzmyRNuZi Bhutan 22 H1N1 NO
+5180 LcJJUvdagJyLgQ fjFRGTbyCMHt Gambia 40 Dengue YES 11-05-1979
+3269 ASAMK IvGTEFFMAj Algeria 59 H1N1 YES 30-04-2001
+1444 DkBELB HvVeqXUfPnvMehsD Bhutan 92 Marburg YES 22-10-2015
+7627 ZYMK eEJFKNaUbfvP Canada 46 Ebola YES 14-12-1984
+3268 bxSp PDCPCJ Gambia 26 Sars-CoV2 YES 12-09-1963
+4967 aiONQAxADiu vmDzmRbAkYaIx Belgium 91 Ebola NO
+9194 COV teZfOoQAYdnRnkf Belgium 67 Marburg YES 21-09-1983
+5250 jAlVQSDM BAxe Belgium 14 Dengue NO
+6450 jhCdUiTUX Nbz Bulgaria 4 H1N1 NO
+2544 rhGnqzAPBS qShoHVScA Eritrea 110 Sars-CoV YES 02-01-1971
+4726 FgHuGaL Mro Estonia 77 Ebola NO
+8777 IGXftI eSsDPP Andorra 25 Marburg NO
+7058 rZNI vZyqYkVqjbfvSIQp Estonia 109 Ebola NO
+0625 MLfqF GDRamCEVHtXhueou Bulgaria 25 Marburg YES 07-07-1977
+3453 mnjuuAqC TicnHHgdS Chad 50 Dengue NO
+6595 SbIHjR ggFykGhznD Belgium 15 Sars-CoV2 NO
+1125 KraCxDsQkebH XFHkUbZeCETiZ Belarus 46 H1N1 NO
+0839 dQecbS gxniBmLxZV Andorra 16 Dengue YES 01-07-2015
+4350 cpnCJEzxorR gTFrJHdaKNeVcLH Chad 40 Sars-CoV2 YES 29-02-1963
+7369 VZcSont gPsv Chad 67 Sars-CoV2 YES 19-05-1999
+4309 VOTRCrx jUSX Greece 79 Marburg YES 08-06-1986
+9828 txYICCBZ JKHouo Albania 16 Dengue NO
+9802 yYCAcNqHGNC kRAczozqSgT Bhutan 63 H1N1 NO
+6508 poqAIvnHCmN meRg Eritrea 93 Marburg YES 19-07-1984
+7761 RSZLMeLOMPtqyQZa KyHGTrTdQSHVAKQ Azerbaijan 61 H1N1 NO
+9427 LgLybyqNmzcGZT RpJoZPUPGjZRtx Chad 42 Dengue NO
+5548 UKVt efIr Eritrea 4 Sars-CoV2 YES 09-11-1982
+9031 HhGVKOHc xQROjsAghHre Andorra 7 Dengue YES 14-07-2010
+1067 vGvNyq JAaOyKXCLcUVAtza Eritrea 19 Ebola NO
+4291 ZoniyDxrATG jQbrbFficycHx Albania 114 Sars-CoV YES 27-04-1977
+6852 PXPXppCNUYstSXq qFbfKiVkncQOmUZ Canada 106 Dengue NO
+3684 COiGQEkCpFPrKM Xgxergcq Greece 6 Smallpox NO
+1285 ubnNGVVPBjbfNX VKOYiHUvXsx India 13 Marburg NO
+7400 guYoipCD xvdaZhGTNKkv Chad 84 H1N1 NO
+1081 niTP sxnNQuncTXHqAhLQ Estonia 75 Sars-CoV2 YES 17-10-1969
+4592 NUCqYYHnrf JIEVjhclLvkblI Belarus 31 Smallpox YES 16-01-1962
+6560 VNsFaq ctPJlZNSFQjUQyRC Bhutan 109 Smallpox YES 12-11-2002
+3592 VpZzmNe qeacUBLiUFgeh India 95 Sars-CoV YES 12-05-1966
+2411 YcpynsOKbOOKjrlb DpnLAZkBP Andorra 41 Smallpox YES 15-06-1990
+3470 Paf Fdt Belgium 111 Sars-CoV2 NO
+5950 sJLSu qOnx Belgium 102 Sars-CoV NO
+9698 kmIbqReTS GDtXKXHSjrkdkYF Estonia 72 H1N1 YES 18-11-1976
+5680 nlXHRs vUl Belarus 112 Ebola NO
+5446 VzylUtfnFjEiQ BxReXrA Andorra 114 Sars-CoV2 NO
+8832 eoCTDHSDXLvpjMmV HEYaZeIqBPt Eritrea 43 Smallpox NO
+5213 arZlA hLHT Belarus 70 Marburg NO
+2155 Yslljeg PKqHsYsCDqNtbOqo India 28 Marburg NO
+2397 IRIxyItAeF UoVrqxfzEjxQPYiz Belgium 46 H1N1 YES 02-09-1984
+1980 AqyKdGszofQZIgGE YnIDMxtRteDr Eritrea 16 Sars-CoV2 NO
+8812 VTxNsDEgK RccfmSgc Algeria 26 Sars-CoV2 NO
+0948 GjVpSYLJeHay gMYdkq Azerbaijan 94 Marburg NO
+9793 GSvivOsElte Ffvp Andorra 22 Dengue NO
+1649 iKEehYgQuppD cChPOFteq Belgium 53 Dengue NO
+4714 rtXndSVoaziPr VACJsrfD Belarus 17 H1N1 YES 21-01-2010
+1623 dRmti fBpOkXcNXV Albania 6 Sars-CoV NO
+2121 fmEe PknIQxYLb Chad 115 Sars-CoV YES 29-10-1978
+8184 pFB mVvE Belgium 73 Sars-CoV2 YES 24-10-1967
+4165 KxIu vNlNcnurZHD Estonia 84 Sars-CoV2 YES 23-10-1994
+6269 dTHcempKkYZnxJSc YKBxOjUoin Azerbaijan 46 Marburg NO
+2519 MJgmngBIYR ncAUZPRYi Gambia 84 Dengue YES 19-07-1972
+8842 nOe jZNQdlKm Azerbaijan 61 Dengue YES 30-09-1994
+8819 ZGtsrks repAAlD Andorra 79 Dengue YES 26-01-1988
+3737 DbjEuTMUvVskZpHY PSdoTrLRvNF Albania 66 Sars-CoV2 NO
+1064 hAagffNbjQ ZbXuCdXLLeOdr Azerbaijan 17 Sars-CoV NO
+3422 fzhUOd OlkqLqdPAFfactZJ Belgium 44 Marburg YES 11-08-1986
+9795 scMa lMfAg Estonia 48 H1N1 NO
+3909 UurhjJJznMAH zhRhYiDuO Belarus 114 Ebola NO
+3965 Nre yKspbVHYK Algeria 115 H1N1 NO
+3189 ebGgcyYp KYadTdGLIaF Chad 12 Dengue YES 09-04-1972
+7393 ppTAIS sglopTppxOXT Eritrea 113 Ebola YES 25-01-1994
+3914 hqzl FhbL Algeria 105 Ebola YES 14-05-2006
+3558 toRpFGFsNszLUnN QIn Estonia 10 H1N1 YES 11-03-1970
+0537 KqhoeStCCvIRbp rNKhhOUldFkT Canada 28 Sars-CoV2 NO
+3005 VmYmIXHUGzkzd gMBdnQKpQzh Gambia 85 Sars-CoV2 YES 23-12-1968
+7282 JasnoIAdCh iPed India 37 Smallpox NO
+0816 FvEYhIQuHqQVXIMy kRek Albania 21 H1N1 NO
+9527 MgXVdlhRlDga fnsfKbMFsTkJis Eritrea 65 Smallpox NO
+4123 NFVQLrSTPak ppZGPCjghAkZ Algeria 101 H1N1 NO
+6690 bjMBcJRCuBCsZRf bxt Bulgaria 13 Sars-CoV NO
+5039 EapRYRDPmjfhz lSRGBOLhuGPLako Gambia 71 Sars-CoV NO
+5926 TVOdTxf HncpdsJIrzklzXAn Canada 39 Sars-CoV2 NO
+7224 dYkYKkjeVk zeg Gambia 107 Sars-CoV YES 20-05-2008
+9771 bGulmBY dsKul Estonia 10 Ebola NO
+0625 ZVgT AUeRBo Greece 25 Sars-CoV YES 22-02-1961
+1259 BMpt BIVUCIpT Estonia 90 Ebola NO
+0217 jHqZpyRrRgbOK maOUZkIT Chad 47 Sars-CoV YES 26-09-1965
+6838 KlXOKhGhTlSHTfm LxBPHGNckOHTtQ Azerbaijan 7 Dengue NO
+6101 KYCFxCiqjYnbxK HdA Bulgaria 74 Smallpox YES 01-06-2009
+9284 uFi uMzyktsh Gambia 47 Ebola YES 21-05-1982
+7625 syLo vuJ Estonia 4 Marburg YES 03-10-1992
+2061 vjsJRGyOjJrM QjZInvDf Azerbaijan 78 Marburg NO
+3032 eOTfCRBYz PGN Andorra 42 Smallpox YES 15-07-1995
+3571 uGr JuFRL Andorra 24 Ebola YES 05-08-1983
+0477 pftzjeXLscNbga FGzHagMAP Chad 21 H1N1 NO
+1918 jZvKjC HJvQca Belgium 77 Sars-CoV NO
+4856 PldB BGakrKYsgfRh Eritrea 28 Smallpox NO
+1893 nEGc fSPiAQUoQZB Albania 46 Marburg YES 20-07-1988
+1359 cjdx eCbn Andorra 12 Sars-CoV NO
+7560 yPuZyjLnEhOFCls XPLyV Bhutan 107 Sars-CoV YES 25-06-1980
+8964 KBmPD TetDcG Albania 60 Ebola NO
+2477 bddEvCzLqmnu FkxYpbn Gambia 99 H1N1 NO
+1494 SCynmzuJb Ltcdt India 40 Sars-CoV NO
+1162 GPKxXOUC xTyXPiOElHa Greece 112 H1N1 YES 21-11-1977
+2003 ljvQkQdHmJzV YpXIqoifKGu Estonia 38 Sars-CoV YES 08-09-2005
+7460 arbspmfhpVdyhlD yyVkKM India 110 Sars-CoV YES 24-04-1962
+0576 ppdtbmfvPNpc jbGr Azerbaijan 72 Sars-CoV2 YES 01-07-2015
+4343 YEushJiKUtSVSm otgyOdKJTzY Belarus 67 Sars-CoV YES 04-02-1972
+1278 TpcrgpvKFAV XcBuNoPmYQMdcLY India 38 H1N1 YES 14-03-2019
+1574 rKuDFaaUOjAhh tRktGJguuyLI Albania 91 Sars-CoV2 YES 25-07-1986
+1969 qbZ iRgdqItXoOy Gambia 33 Dengue YES 12-07-1987
+3496 ezYYIpYtY EnD Belarus 39 Sars-CoV2 YES 03-07-1967
+0567 vKMtFbFGbxygHpoK xuobR Belgium 104 H1N1 NO
+6493 nKqnIubU pyyvEAvcBq Eritrea 9 Dengue YES 07-09-1965
+8106 LpQErQyfdJFvM MjzSyA Eritrea 105 Sars-CoV NO
+8170 SMViX VMubcrubN Bhutan 110 Ebola NO
+1379 xltrnRJ MIIUFNhfVCEAPN India 32 Ebola YES 05-07-1965
+6233 HfZ nASKjLnI Algeria 78 H1N1 NO
+7219 cOpbODqb NfOAjKTqOjrYgcm Azerbaijan 49 Sars-CoV2 NO
+5626 zVexETd sLKCZt Bulgaria 20 Marburg YES 23-03-1976
+2954 ura NVspEhxyiI Greece 28 Sars-CoV NO
+4366 ueR brZtNtQuDkYU Gambia 62 Dengue YES 20-08-1998
+6901 OlOhsmgKJphveeir clOrup Belarus 42 Sars-CoV2 NO
+9738 ACXoRRUpRQyJy kNzQzKD Bhutan 105 Dengue YES 01-08-1967
+2999 xqqOcMUuPvuvdqJ xbJkdKfVBmlMtec Azerbaijan 30 H1N1 NO
+6852 PXPXppCNUYstSXq qFbfKiVkncQOmUZ Canada 106 Sars-CoV YES 05-09-1995
+5973 seadQoyfP jGp Estonia 98 Dengue NO
+1286 PCZqUII fUm Bulgaria 69 H1N1 NO
+7719 buvpBkkVLkXfb YnMoQYynAcHbfkx Greece 71 Marburg NO
+1519 riTumfNaKXy Rhoulqa Canada 61 Ebola NO
+3494 ElcO gXisxChe Azerbaijan 47 Ebola YES 19-08-2000
+9596 ZvVprZFPOSF NUbOhdpkToVspS Albania 111 Sars-CoV2 YES 27-01-1978
+4244 KhFu YIZkxfTHcVIf Bulgaria 33 H1N1 YES 19-02-2008
+0292 rjtXLJxG GnbJJKbesav Eritrea 41 Sars-CoV NO
+6612 MPRaUhrLL znrjPCBuXeUgUK Albania 11 Sars-CoV NO
+0314 tDkoOy EIzDvYDlXeg Chad 67 Dengue NO
+0424 gaH bVQIblOpkKOsREo Andorra 63 Sars-CoV2 NO
+3464 rNmL mNUrMdpssP Bhutan 74 Sars-CoV YES 30-09-2015
+0734 TkApabXMBgrjjaU JLJGVJq Gambia 43 Sars-CoV2 NO
+9837 RpAxzEll DPVNgc India 4 Smallpox YES 15-04-2007
+7884 gruReNVquO ZGQQYkBF Bulgaria 24 Dengue NO
+5773 IGvQg MoqcVdANHmo Greece 105 Smallpox YES 01-02-1989
+2031 IuJSTpRMj gsVp India 77 Smallpox NO
+2726 hggkk ANsjGFrqP Andorra 115 H1N1 YES 08-01-2010
+2335 ddJN TfeSf Bulgaria 48 Ebola NO
+2796 zDrxZ ZeEfEGQ Bulgaria 100 Sars-CoV NO
+6432 pinud jOVJoAYSJKgv Estonia 80 H1N1 YES 16-04-2017
+6149 iNqYkcEpHUsEX azhOr Algeria 47 Sars-CoV2 NO
+8025 OuhHBr IplbBiplgJMsUK Belarus 41 Dengue NO
+1072 jiiyBMDuqTOjFnfj bBylEjC Bhutan 69 Sars-CoV YES 04-03-1976
+2481 Dtltszx cmEfOqTrdJKydTC Eritrea 19 Ebola NO
+3089 eCoPqfJAAZtjtM RmSoQMSTPYH Belgium 58 H1N1 YES 28-02-1986
+0439 kFEKUqEiejTO MLRoF Belarus 114 Dengue YES 23-10-2013
+3999 JiLLpcOIpyCsmpo AtXMdnrm Chad 5 Sars-CoV2 YES 02-01-1963
+4901 Vjlz zAD India 15 Marburg YES 11-06-1975
+0467 SBNv TyGy Bulgaria 59 Sars-CoV YES 05-08-1981
+4263 imtUIlyKTahjLHK mZkbqUiCAlFq Greece 2 Sars-CoV YES 16-07-2010
+0805 CeQgFldy BVh Chad 61 Marburg YES 05-11-1971
+3466 CJvSDSgIVfelTx imPIBLMqTuZYjtO Algeria 42 Smallpox YES 25-01-1968
+1930 YeOfj EQoTvMkoNEp Azerbaijan 78 Sars-CoV YES 09-09-1970
+1681 flIxCeMxrgd GPivVnk Belarus 52 Sars-CoV YES 03-07-2000
+6974 JSmevFBgvTF GHIXzHyuNJKgbMRA India 42 Marburg YES 30-05-1962
+4404 lcXd slSjqTNNL Belarus 108 H1N1 YES 28-08-1961
+3126 TkBL ySmQJBAvgLP Eritrea 64 H1N1 YES 22-12-1973
+6725 ZcQOp LSFEHDE Greece 9 Smallpox YES 09-05-2017
+3128 USUKXpkINTVkmJU npgYnCSz Andorra 48 Smallpox NO
+8524 uzF nybdKMpkaQ Bulgaria 119 H1N1 YES 17-12-1979
+0098 UCNAAbUEKrb fxOTjRx Belarus 14 Dengue YES 14-01-1996
+7125 APutNcY Amfop Gambia 21 H1N1 NO
+5726 jtn yfYkAjLzUbeSG Eritrea 57 Sars-CoV2 YES 02-05-1962
+9310 eFtGKKxmvGA GtbhgRcNd Canada 4 H1N1 NO
+4199 BYelXVsT xYgkaaCu Azerbaijan 17 H1N1 YES 07-12-2001
+9773 MHma ggZmOtpy Algeria 7 Ebola NO
+5254 JJs OnxzInPSCZIJU Estonia 90 Smallpox YES 16-11-1976
+7038 nInQSNtxj QupUcXEE Bulgaria 95 Marburg NO
+9006 XVXhmfiGCvrB GuKYuoqAxGr Canada 34 Dengue NO
+0067 KUF UrIzcIRKGZyRz Greece 71 Marburg YES 07-04-1970
+8606 LQlxl ldyOgBiy Albania 16 H1N1 YES 08-01-1982
+2473 NNmixLMrxG TeQfiNBMu Gambia 103 Dengue NO
+7368 EvVDoOFEPfFeKfUT jUcXBmAdF Belarus 95 Marburg YES 03-05-1997
+2511 jFXdEVByjJ LEnrHJk Azerbaijan 89 Smallpox NO
+1723 tgcFJHSoF FPsohgMIBGf Belarus 48 Sars-CoV NO
+1688 pbQoI ItVUklGAMnB Estonia 71 Marburg YES 10-01-2008
+2767 bci hrqFJDIEp Estonia 113 Sars-CoV NO
+9993 MnMUKqSknTg ZcQiUML Chad 74 Marburg NO
+8146 CdQXrdRGNIKXbu iIiMYFhsApKmMD Eritrea 79 Dengue YES 27-05-2021
+0214 YOHmUm QZcZmqEebVzC Bulgaria 23 Marburg NO
+5216 MtxX cbPSsUMvhQkru Albania 107 H1N1 YES 28-09-2003
+0834 fuFKeH zqAdHhRTE Canada 36 Sars-CoV NO
+0469 XuALuOnTxm jCYYNqZmyry Belgium 91 Sars-CoV NO
+5294 afgEmQO FSxnYM Bhutan 94 Sars-CoV2 NO
+5842 xNpVboUzBpzN QLhOTQbHhODR Gambia 93 Marburg NO
+2386 UIRKKNmoRC cqfmZkLVg India 40 Smallpox NO
+3042 BhtnEHCFnOdxdZ SmNqThNhhAr Gambia 64 H1N1 NO
+7451 XGGTFQKRFEytE vZtCxY India 116 Dengue NO
+9833 zKjDtkYyBaTrHjkg ZdqLMVKiRYlhzOj Algeria 73 Sars-CoV2 NO
+3231 xBkZQHjUoaqvRXe ksasitqp Algeria 54 H1N1 YES 15-07-2004
+6147 eLigdFoc oelmSppTf Gambia 55 Ebola NO
+0455 kbNMX LiZqsa Andorra 74 H1N1 YES 26-02-1980
+5466 tPZoRvLYg kTrbxrZSNAKmCSb India 57 Dengue YES 20-06-2010
+5134 qHulncsOVJU grsODsZyAucO Eritrea 41 Sars-CoV YES 01-06-1973
+2495 PQGDa UlMleSjUsyQcBGl Bulgaria 113 Sars-CoV YES 22-02-1964
+0102 OYHD Mpmxl Algeria 63 H1N1 YES 28-07-1992
+3914 NgkuQ fIpGLbPmAmJFaSzV Azerbaijan 56 Ebola YES 12-03-2017
+5689 boASeX jnxoaav Azerbaijan 76 Dengue YES 23-12-2012
+9934 diIOiDHfBFYeOm MVXMXtsvzaj Andorra 66 Dengue NO
+6374 SFxXUAIbLZBeOC xDvdIOCKdJZC Canada 91 Sars-CoV NO
+5304 EHqHqfGxbncdLx zGQmR Azerbaijan 100 H1N1 NO
+5990 nocSegfBSgh ydAp Estonia 16 Marburg YES 06-05-1997
+3056 znaJufIuIjozp EkNlAyXhZvzRl Albania 100 Sars-CoV2 YES 07-12-1985
+4698 ondFgcHRrVeGYQak pLOGevAmIiih Bulgaria 91 H1N1 NO
+6321 mcXZBeQsYvo eekdmGBIep Canada 68 Sars-CoV YES 25-03-1982
+8174 qRiC DsUZM Estonia 84 Marburg YES 05-09-2015
+1422 JXshtV UzyuBnZYqhOaB Albania 44 Smallpox NO
+0206 acAYjsUEgECif qiR Belgium 98 Smallpox NO
+7625 syLo vuJ Estonia 4 Sars-CoV NO
+3356 BGEx fofCxVhjAtcIUvMe Canada 108 Sars-CoV2 YES 10-10-1977
+1334 iahQqzIXgRohJhv VcrYMNor India 52 Sars-CoV2 YES 18-09-1984
+4413 aaYEpiXxFLTU OXAGXriCyv Andorra 24 Sars-CoV2 YES 08-05-2007
+0236 xqcbCtxONkhpvbvx cdlctql Andorra 70 Sars-CoV NO
+4956 lzUIH LnZuVMJlaOx Eritrea 30 Sars-CoV NO
+2174 QlEtotaxErxCPVOp PMXhyquFRGoOZQc Greece 114 Sars-CoV2 YES 14-07-2005
+0397 PiAelmjNEscU AzBSGJ Greece 40 Ebola YES 16-06-1998
+5261 YvzoNnAYNtrezx ScjdYixzMPqRGJ Canada 20 Smallpox NO
+7450 PILFg CNqgIvyevtbt Albania 43 H1N1 NO
+3489 eOIPFjzyoHL Yntk Greece 115 H1N1 YES 11-11-2019
+8781 ijeCJlJTj rBnZQ India 84 Marburg NO
+5167 qMJEHyrFFhDmpeb oivjk Estonia 44 Smallpox NO
+9681 iPLMggF zYQaS Gambia 3 Marburg YES 10-10-1994
+3554 XYR naSAXztvYH Albania 42 Marburg NO
+0882 piya SREQUYdB Bulgaria 35 Marburg NO
+1168 pIuQyqnARvEGHtXe KCdVyzJjssFdYjAq Albania 69 H1N1 NO
+6143 QBF OaQaxfGOFab Andorra 71 Marburg NO
+2591 IKGBT bUEvMzdmsI India 57 Smallpox NO
+0752 Nlaz HIGAFatOoc Albania 7 Ebola YES 30-03-1975
+1793 kcIG VeVaZyrGnMHvXNzG Belgium 1 Marburg NO
+3325 npRTueQJAfckX kEyIXPby Chad 94 Ebola YES 02-03-1992
+1967 NXRIp UOuoNQJMAQ Estonia 82 Dengue YES 27-09-1984
+6504 TeYEeGjAJ SgKAZfnuxJ Chad 90 H1N1 NO
+8447 glPqkBI DEdEXRLNvQ Bulgaria 21 Sars-CoV NO
+4362 RzvQkdSorknIInLL JFvaTlrMhi India 46 Ebola NO
+2112 QcjbOTxmES hDycHfTOYJohxJ India 8 H1N1 YES 05-08-1968
+2745 kXiVHsBDK xLXgcoDqSKARlhUK Belarus 42 Marburg NO
+7325 HqothGMu AhRvlHZfnLYxYK Albania 119 H1N1 YES 10-09-1987
+9728 chfRECtxs pxUTRlCGykN Belgium 119 H1N1 NO
+8715 czTagYVyYZYa Fnl Eritrea 21 Ebola YES 07-12-1970
+3195 UzTxzooUphnPvZr XzYKYFpPtRom Belgium 88 Dengue NO
+4524 sHH uiOdQUViQ Albania 27 H1N1 YES 26-08-1988
+1261 LAG yMnAHPfqxDJlEt Belarus 114 Dengue NO
+0583 fHc rGIhXgNBEdHQn Estonia 16 Sars-CoV NO
+9775 TQlyS Dekoc Andorra 11 Smallpox YES 19-12-2013
+0424 yScc XRqOpPBeIj Albania 31 Ebola YES 03-12-2012
+1954 oYQRc Qkbedj Greece 110 Ebola NO
+9737 vOVpnjGMUiMirOob zUVh Eritrea 60 H1N1 NO
+2420 nVOiBvsJqx mXfMjGbDdyfL Belarus 6 Sars-CoV2 NO
+9902 qZiiHJiYQRK UeUUSIHqU Albania 113 Marburg YES 07-03-1973
+3085 ZVd jxEby Algeria 109 H1N1 NO
+7267 RQZeO xIyn Belgium 43 Sars-CoV2 YES 21-01-1991
+3540 kcE sIStScLsqxqzXzH India 118 H1N1 YES 02-04-1999
+8838 DFGJGIh XBSOPufTk Andorra 14 Sars-CoV2 YES 20-03-1973
+8831 Zua UTmtlJ Belarus 42 Ebola NO
+0977 dHpUNtFAENxdG TNbkVjg Estonia 98 Marburg YES 17-11-1967
+4651 HDUHulnX fiYcRIZNCD Albania 54 H1N1 YES 20-11-1979
+0641 oEfkTvATxhhf tHzuCdaraFZx Chad 57 Smallpox YES 28-06-1991
+0950 repze EfNb Albania 59 Ebola NO
+8417 eYdSolvrpnXUHc mgCiLCeCCRS Gambia 112 Dengue NO
+1656 ENQQ FTkMuEqqvsrX Andorra 24 H1N1 YES 07-05-2013
+6329 RNynZ HnBmhqZcppjIFX Andorra 50 Ebola YES 14-07-1999
+0823 VkdiJJfo fsCS Gambia 106 Smallpox NO
+9629 pepvJAnfhUNcyYO JGiOz Estonia 44 Sars-CoV NO
+7195 fbx YBf Albania 25 Sars-CoV NO
+4893 ZLnrzgsUKT zEaFSxcbtgZ Albania 12 Sars-CoV YES 29-03-1982
+6009 MyV bOVXCi Chad 73 Ebola YES 28-07-2009
+3846 hgO ndoAIO Belgium 58 Sars-CoV2 YES 21-03-2002
+0815 xvMvzAAFiUMxmx SBI Estonia 42 Sars-CoV2 NO
+4693 HtUOjhFL mtrQxttJmro Eritrea 76 Dengue YES 13-06-2015
+0648 aflapVJJr TNYd Albania 64 Dengue NO
+8865 QeJyvMcS pnJ Andorra 68 Dengue YES 25-03-2010
+6579 danFIMBgYJ HpPyoPcgI Gambia 94 Marburg YES 02-06-1979
+1416 SXAenbEtI SRiM Canada 79 Dengue YES 14-08-1985
+5827 zMimTDkZjgSqPc OSPbR Bulgaria 40 Sars-CoV NO
+6515 fCaII TctGxUkzS Eritrea 69 Ebola YES 14-08-1984
+8963 dFf kMnnac Andorra 106 Sars-CoV2 YES 14-04-1971
+5370 OFEfaQyu QjNQ India 11 Smallpox YES 11-01-2004
+0403 BpmkcSK yznHG Estonia 12 Sars-CoV2 NO
+5228 GrQkrmGvJYh lgvOYoTGi Belgium 22 Sars-CoV2 NO
+2000 AbYX jignpsFzBaC Gambia 66 Smallpox NO
+4110 GNb GJFd Belarus 42 Sars-CoV2 NO
+4482 SPJujRZsugAGaMLA IGSFRFdOmg Greece 54 Ebola NO
+2760 CKUJElDshKpqTnI TBAfMEmsAFQk Bulgaria 12 Sars-CoV2 YES 25-05-2021
+3976 QTgaAvAL CyhqbMjkr Estonia 14 H1N1 YES 20-06-1995
+4863 UnMGCotVNsvkMObG gYnxSddIjPFkEYqO Eritrea 117 H1N1 NO
+7827 DkEdmbOPNtRzlQ VBRvFnJxgJQ Bulgaria 51 Dengue YES 29-11-1998
+6323 jlgzCTh jnBjFd Eritrea 92 H1N1 YES 30-05-1969
+1036 mHgbGkAzZUvatoSJ BDXnaqGOFNduX India 104 Marburg YES 15-02-2002
+5966 FoMvXlVQARLJ xNAXLytGRpRE India 20 H1N1 NO
+7530 IPSScmgxIVGRV fEsJbszmfi Azerbaijan 119 Sars-CoV2 YES 24-06-1970
+7990 YMsmKmFsbiBjf vIpZdKdm Greece 54 Marburg NO
+2479 nlIKSGLxXPjnMp UYpM Algeria 88 Sars-CoV YES 07-12-1970
+2923 YauDYprUO mxTetcjLAfB Azerbaijan 14 H1N1 NO
+2524 KRfpldaX tqiVgPxn Algeria 71 Sars-CoV2 NO
+8914 NXX NVmCykRxejnakL Chad 70 Sars-CoV2 YES 25-04-1981
+0596 ElJYdfuoPjSsMsE bqJrPUmoRnUa India 77 Ebola NO
+9588 GJgVoluXaHE tnjJ Bulgaria 79 Smallpox NO
+6446 BgXaeg OkyRJ Belgium 56 Ebola NO
+7512 xzRbxZIH vTZvkkoiD India 42 Marburg YES 16-08-2006
+1499 oFEjYrHx OKBPOK Chad 8 Dengue NO
+8069 YdmQe RrSHsGn Albania 40 H1N1 YES 27-11-1995
+7874 UOYzuxkuZE vkSF Eritrea 115 Smallpox YES 02-04-2012
+1522 UncHIjDfiB KqE Bulgaria 22 Ebola YES 10-08-1984
+2063 ZghYBuOQCt PjznlUA Canada 41 Ebola YES 27-06-1979
+5969 ksNEGPIulcTp RDFOirnSfLp Chad 119 Sars-CoV NO
+4916 AlMaIsIdNFPHAui rPUuxUT Estonia 65 Smallpox YES 16-09-1987
+9017 TIxVQ HCXtnMqtbukrQXS Belgium 39 Dengue NO
+4719 LxZPl vcnJSFQj Bulgaria 8 Sars-CoV NO
+3331 OXhxVpFVEzlZj ZGy India 83 Smallpox YES 10-03-2011
+0772 aOQOAEPcxTOVT thgSpPpc Belarus 106 H1N1 YES 07-09-1972
+5401 vVgE nUjuTFUFAq Gambia 54 Sars-CoV NO
+9016 DRmEJHbErhItNR kjCph Andorra 107 Sars-CoV NO
+5742 Pduochn LbuI Estonia 99 Ebola YES 04-02-1962
+1645 YnQhfMjXVjNzg VSUocAfLyVLOD Albania 104 Dengue NO
+7148 JUifvhCTrzVIjK rgieIkaktgnoORq Belgium 22 Dengue YES 02-05-2003
+9706 GfROLxi bmVxEXtlK Gambia 22 Dengue NO
+7455 XEgd KGEHVAxJkYiCIXOH Belarus 26 Sars-CoV2 NO
+8015 TABGoM kDaKZmOD India 78 Dengue YES 25-08-2021
+1296 OUfg OGGJXNapqPF Eritrea 43 Smallpox YES 18-12-1974
+2727 hVh ssredLJUdRY Algeria 60 H1N1 NO
+5921 yNFGUTReoJlLyPm HnKfpsYoNl Estonia 86 Ebola NO
+0172 jYZKtVoDHI bdG Albania 71 Dengue YES 12-10-1973
+1108 EkMrc NEMTsrjZ Albania 29 Sars-CoV2 YES 13-03-2000
+6718 GHr jPzCbLKAEPxJ Gambia 14 H1N1 YES 19-11-1990
+4227 kbgLSGrHUSp RykloPC Canada 21 Marburg YES 21-01-1984
+3978 oHRjdpyLNcCx maXUqX Belgium 40 Ebola YES 03-10-2014
+2675 FqiILkt udeHGN Algeria 61 Sars-CoV YES 17-01-2021
+6118 yUrAqSo hZcYSbgkU Gambia 3 Ebola YES 21-10-1985
+5737 OBKLcfRbkejDU ISXFQYFgvZTrrC India 80 Sars-CoV2 NO
+6442 rVRRxkb spSNHTvDla Belarus 41 Smallpox YES 22-01-2012
+5870 TBFOAx xobdNZFEJYsf Azerbaijan 8 Dengue YES 19-08-1973
+7911 PVueKpHgI aoXPatxomMzPMUY Gambia 51 Dengue NO
+3655 pzQAoycim UEIV Azerbaijan 86 H1N1 NO
+3788 opx Xuc Bulgaria 75 Smallpox NO
+4382 VIlgkaYFlpEl dsR Bhutan 42 H1N1 NO
+2902 AgHXPmAZfNo dzYShYnxzJbgg Bhutan 71 Marburg YES 02-04-1974
+3768 CCp IZh Canada 114 Sars-CoV NO
+6305 IAgVxbhC uacXZVS Chad 108 H1N1 YES 23-04-1972
+1004 BQLnHgKO cMOULgMgOe Bulgaria 12 Ebola NO
+6036 mMvMV YccJ Eritrea 95 Dengue NO
+2647 lYEYd cucuTojdTboDiaat Eritrea 48 Dengue YES 09-09-1970
+1799 TBqi bEiGOFRRLsEOixUj Belgium 78 H1N1 NO
+5182 LPQOzXGZbOxgAoU CDyqjD Eritrea 16 Marburg YES 17-06-2008
+0553 IxdUyJVaLjgeGi tAGRSdXYk Algeria 101 Smallpox YES 07-03-1988
+0751 XFKISKUEZRE fkClCrMJKrNQMebG Belgium 96 Smallpox NO
+2506 XlLgnXqVkOeN rsNzqkCjFdPH Andorra 92 H1N1 NO
+3087 XznvDbu lcuqfJnJL Estonia 13 Dengue YES 08-10-1992
+1534 njbrytLmr DqYv Canada 91 Ebola YES 08-04-1983
+8036 CltXIiLxStVUO bhqESyh Algeria 86 H1N1 YES 10-09-1978
+1089 MpOuvSTvSiK qOMsIMtiPe Azerbaijan 114 Marburg NO
+9074 cBdzHarsqxz ulizhnL Bhutan 95 Sars-CoV YES 03-03-1988
+5290 KFyCIZ gEuUAMFP Chad 33 Sars-CoV2 YES 02-05-1995
+2703 tZesTnEOOq kmEACvcOzo Chad 46 Smallpox YES 18-07-2007
+2332 FaesqLpt QHopzl Canada 73 Ebola YES 01-03-1972
+7992 EIx YuUChUpgfzKure Chad 108 Dengue YES 24-03-1983
+5736 FmyquXynd UYbNdMOjen Algeria 86 Sars-CoV2 YES 18-04-1976
+6635 ErbLeSIZnflyk cnPCfveQvoZ Eritrea 66 Sars-CoV NO
+5338 YTZNKj cVJVEzDIJS Azerbaijan 77 H1N1 YES 15-03-2010
+2796 zDrxZ ZeEfEGQ Bulgaria 100 Dengue NO
+4280 szYsDPABNmaRIbkH PvOtaecadtSr Belarus 49 Ebola YES 30-07-2013
+8607 DgAVfdg QRjf Canada 79 Sars-CoV2 YES 12-08-2008
+8189 NxTusvBrBlISjTCo OGZALdErs Bulgaria 70 Marburg NO
+9294 GgAoPknjl STY Belarus 80 Marburg YES 23-08-1975
+8542 cxBLeujBPLbPYu gDRbbkPTvfq Bhutan 65 Ebola NO
+7374 PUubhbmqLPVdak PKScZjeHFDZ Greece 88 Sars-CoV YES 13-10-2019
+7081 Dixo QHrrMZ Albania 67 Dengue YES 11-09-1983
+6131 tnuoJz BIaGSTKHaKuSS Greece 69 Sars-CoV NO
+8021 pfdBUXZZeUHgyI fyZCqS Bhutan 34 Smallpox NO
+7234 nbljv ltUm Belgium 74 Marburg YES 09-08-1996
+3557 lTqEXAUFR XqdfHs Gambia 74 Ebola YES 02-10-2007
+1722 uvrhXPQjMZPrhjVa lqJzHArFUeAOGR Gambia 13 Sars-CoV YES 18-06-1986
+8804 VVU gJvzKMmL Algeria 16 H1N1 YES 13-07-1982
+7630 dpRfteALIQRUs HHLUHVicrmc Andorra 18 Ebola YES 01-08-2020
+9083 hxFflJBxzpVEJB qAigOpD Belgium 25 Ebola NO
+8807 kntPYcmNeuUHAc VJEVAC Andorra 16 Marburg NO
+7348 VAbjMDntYPlyDl RYRTbhiXgmsKR Belarus 115 Smallpox YES 15-05-1998
+5247 lDtsLZQEQC tGdOuiVR Chad 82 Dengue YES 26-11-1987
+2259 DdE mJjjrLZAtfmC Eritrea 94 H1N1 YES 22-09-2002
+1945 GtFpmseXXI qmusLRgSj Greece 46 Sars-CoV2 NO
+1359 FDej OmiSQ Bulgaria 5 Sars-CoV YES 07-04-1999
+3701 xUbtOufRM dqTBDm Greece 57 Sars-CoV YES 06-06-1966
+1055 UOZc rhOFPKtOvrBFXE Chad 46 Marburg NO
+7802 OTJHuhzKeBIL jGebvVTRBaImTzg Algeria 70 Smallpox NO
+4855 iBZTNHIvmcL Lby Azerbaijan 87 Dengue YES 13-05-1968
+3580 YcAemapiPRgskqAf XKZBbvVsmCZTyOZA Bhutan 35 Sars-CoV YES 27-08-1977
+8352 IjMqa ZlMt Canada 69 H1N1 YES 22-07-1974
+2997 eHGT KRpyFDjRLehhz Bulgaria 105 Smallpox NO
+6905 Mpe sVDkfs Algeria 73 Ebola NO
+0628 stZvehMPtN dONCddLn India 77 Marburg YES 18-10-2001
+6270 dKrM ykNSy Azerbaijan 108 Smallpox NO
+1295 hgL AOoZiXGd Algeria 6 H1N1 NO
+9820 YyfEBiFPOtYbyG tcodMdzTjEgchFEo Bulgaria 28 Smallpox YES 27-09-2000
+6602 eItnkQtQkBBPN ltPOY Estonia 68 Dengue YES 17-04-1965
+0120 QRlUzn jYgEQo Belarus 34 Ebola NO
+3509 URvJEXei SEARbmIQ Belgium 51 Marburg YES 23-06-2012
+8868 bEbVcHneSkOst riuxVZMQlBSdxrB Algeria 74 Marburg NO
+3182 UCvkavrMQqjHLXq yXhFCDz Greece 44 Marburg YES 24-07-2008
+8060 KOTrhFb kuNBb Algeria 109 Dengue NO
+2325 lyNri XrBLghmlDPXnKN Greece 68 Dengue NO
+0207 mdf zOv India 42 Dengue NO
+5621 reeAySKQViUHKxnY poiQO Greece 104 Ebola NO
+9521 vRYyGi rVnNIaeVjZegBK Albania 9 Sars-CoV2 NO
+5729 ovkvTktLFrCIC iPyFyvRcQQAPGDv Albania 111 Dengue YES 29-12-1991
+3447 cpVeF givVZDCBKAjLJGF Bhutan 6 Dengue YES 30-05-2002
+2813 OhGEQkvFjlEdPh YOH Bhutan 30 Dengue YES 09-09-1994
+4702 vZDaC XmHJQvN Belarus 56 Dengue YES 25-10-1982
+0215 cblOcnjvdLHVYx BIKbccIOKikQL Chad 99 Sars-CoV YES 19-12-1977
+5246 uIjQqOIsbgdVhFs fEcC Greece 85 Sars-CoV2 NO
+6157 CyqpYnDmYkS CjQBKbnaofxXGf Bulgaria 96 Sars-CoV YES 20-10-1996
+0713 vzIcUlcAm extzVGVCbKsBpyA Estonia 95 Sars-CoV NO
+7319 iVbhIpeKCpsqO KDdOiILbpUzLna Andorra 103 H1N1 YES 10-11-2018
+2342 Nub kAYD Bhutan 28 Smallpox NO
+1496 FcTXOULGzKklTPmZ LkZhkzMX Canada 6 Ebola NO
+8400 tFMvJsD NuKPaPBrcMuubpU Bhutan 77 Marburg NO
+4418 zyQ DIxeXRtEldmLUMVN Azerbaijan 98 Sars-CoV2 NO
+9773 MHma ggZmOtpy Algeria 7 Sars-CoV YES 07-04-1981
+0258 vaTBPBV EFOhv Belarus 89 Dengue YES 30-03-1984
+5525 uUVH Gxmsym Bulgaria 89 Ebola YES 07-03-1987
+3304 EPF ToPsJOOdIntF Canada 4 Ebola NO
+6441 cqMclLt GtauBhXyy Azerbaijan 91 Sars-CoV YES 06-02-1962
+7851 zTeJFmiG SPbuOyFuiYrDufKg India 97 Smallpox YES 21-02-1968
+9051 iDdFonUsNxz zCZAvsccrB Azerbaijan 88 Ebola YES 30-12-1984
+0552 AZI bulOgqPajV Greece 68 Marburg NO
+3920 kgJ AzkVTJLrdDTmukY Gambia 50 Ebola YES 06-01-2005
+0151 pzdE kOiioBrZCtFkfXe Gambia 78 Smallpox NO
+5151 uFO RKLAcUHQD Chad 47 Marburg YES 19-04-1966
+9445 RjSjgTPVMYhoHNnL SxYChtokEGBzmTR Bulgaria 63 Sars-CoV2 NO
+8019 XuXP cOQSAjkmysHC Greece 46 Sars-CoV YES 26-07-2005
+8622 edgebDaf ofr Algeria 15 H1N1 YES 11-11-1976
+6914 GqYxPQEgRDIb bUuvbcNevInmQRz Andorra 32 Sars-CoV2 YES 27-01-1965
+8122 kFrEpTzXBy jmEFNOvh Canada 87 Dengue NO
+0339 vEEnNK MfavvXE Andorra 90 H1N1 YES 18-09-2006
+0989 JlhKsdfJpVma lHgjfYHzEiapq Bhutan 81 Ebola NO
+6396 ieSekLZVAAivy kqkzhXSVd Belarus 11 Sars-CoV2 NO
+9728 VAYpryoKQU OoECBusomlfsKU Greece 58 Ebola NO
+9477 NyYzoRuVbDIrjhoQ dYGEFLsJvIMSm Eritrea 26 Dengue NO
+7398 gAYMxXvC zhqdvueSNNCk Andorra 17 Smallpox NO
+0112 TUqdZ vFiSj Algeria 27 Sars-CoV YES 24-09-2006
+3776 XxxAKqjGAvrP vGl Gambia 11 Marburg NO
+3204 UojAEby ETqnCc Greece 9 Sars-CoV YES 15-02-1990
+5752 OUL kZXOJvciOxj Albania 86 Sars-CoV2 YES 25-02-2001
+5560 okNGsS bxksCUfKubUO Albania 5 Marburg YES 22-01-1999
+8372 jtbjlpHkCI GgfkPAiTtLXP Albania 10 Dengue YES 01-04-1974
+3719 VjDXlaohghHkXqSM Jyn Belgium 91 Sars-CoV NO
+8941 JIFVquK JmZrndurOGyv Belgium 106 Ebola NO
+1872 YaaiVuHUDOlK RtNubi Albania 107 Sars-CoV2 NO
+9205 slmrxdmk cJYlzrXqvpKjSBse India 38 Dengue NO
+2820 IxYNFqTNactpRvLx gjFYupsuUScRo Gambia 105 Marburg NO
+9230 RGTiURL DTUZOsT Eritrea 59 H1N1 NO
+0988 tsLvXbnl FKRzMbsBlsYKOfn Canada 53 Dengue YES 26-11-2002
+2470 HVKU KcLiYiOCMSJ Bhutan 27 Ebola NO
+9898 qPcqNHrvyeHApffx YeOoAECczqPf Albania 101 H1N1 NO
+0643 FZJ HQCKaPH Chad 4 Sars-CoV2 YES 25-08-1993
+8882 cuzt dPUJakEoqRtVAhFG Andorra 43 Dengue YES 08-03-1984
+2624 RvFQ lZDSikTsSFzdox Estonia 108 Sars-CoV NO
+6613 MKkZlCX MjN Bhutan 55 H1N1 NO
+0229 RQvyeuMobs znNnAgmuvJx Bhutan 118 Ebola YES 03-06-1996
+7896 ndTRefNh neM Canada 35 H1N1 NO
+9639 bHTIGFME fBipzbZYQuggX Estonia 58 Sars-CoV NO
+8120 zOJyXNcBDnfgG lDupvBkxRVs Bhutan 64 Dengue NO
+7854 dajDgiSGeCvFQhG PDSgFzPAqo Bhutan 41 Sars-CoV YES 29-11-1984
+9634 IPdGJV mRrxrncOatec Azerbaijan 4 Sars-CoV YES 11-12-1974
+9848 evGMiolbq ILhAFkeaYtXGpZ Algeria 84 Dengue YES 12-10-1979
+4848 OTDJejY XbdD Azerbaijan 79 Smallpox NO
+0931 FizvqTO bbEZCa Albania 12 H1N1 NO
+6021 qLMZgFmyPmJF fdPXrjF Bulgaria 36 Smallpox NO
+1357 SGMflSPNkBxV Hqrc Belgium 85 Marburg YES 09-05-1973
+1968 OTFpZgxPPTuJv OBxSqXKuGz India 51 Sars-CoV2 NO
+7249 DLFkqgmNhCMlmY VHnRL Algeria 9 Marburg YES 22-09-1967
+8461 lDy LJKVErQcnAh Albania 101 Marburg NO
+6649 JfdofVIdzNl JEkcSfepNYkFNOR Greece 20 Dengue NO
+5895 rFhktBcjKAzYaQq sShctZuVm India 20 Dengue YES 18-01-2004
+0968 DfLoAItuqLNHR GXIGxXggLcBXeQBb Bhutan 86 Sars-CoV NO
+3545 prsxvSSPNdUcNIF nYmDKfEXQQo Canada 93 Ebola YES 27-04-1963
+1610 BqJY FeBQQZKUJhbUyH Chad 26 Sars-CoV2 NO
+9101 VKauYAnLdssp jXybsyBgzmps Gambia 93 Sars-CoV2 NO
+8690 xtjsRB LvmsSd Chad 84 Sars-CoV2 NO
+6600 CVrOaQpT IfdOPngVOTo Albania 55 Smallpox NO
+6269 dTHcempKkYZnxJSc YKBxOjUoin Azerbaijan 46 Dengue YES 10-09-1989
+4298 oNJePhM KdjyrK Azerbaijan 29 H1N1 NO
+0912 PbuZ gUAnLOssxeXK Azerbaijan 90 Dengue YES 28-08-2006
+6605 OJpQKFSEQ GHpFDEoIQ Gambia 101 Ebola YES 27-11-1979
+8433 IstAdLAKk mzqXa Andorra 17 Ebola NO
+6052 hfbhvdHpUZ lBNpClMsOnPc Bulgaria 79 Sars-CoV NO
+0117 JlCiHBNFDCZAr roF Estonia 30 Sars-CoV YES 17-04-1995
+4193 LXRXvFHLgBUdTdR lzmnazY Andorra 82 Ebola YES 04-06-2001
+9885 BHD rLSBlRtig Gambia 57 Sars-CoV NO
+3893 ZquD Jds Andorra 70 Dengue NO
+0808 xoYO ZXpJaCdxmh Canada 113 Smallpox YES 20-08-1969
+4469 QubgzIhEUN zUrcBFemU Algeria 74 Dengue NO
+4086 EvsJZXO gjem Bulgaria 80 H1N1 YES 07-11-1982
+6351 Ijb VnJCq Eritrea 41 Ebola YES 25-08-1963
+9872 uVvYgdxDYvzz VvfqO Algeria 92 Smallpox NO
+6971 kYPGvfzNSPN TDzMisZTTsACdZGX Azerbaijan 39 Dengue NO
+7312 VFUhVYTzMvAZaf OoyEVmYPtKHhq Canada 49 Dengue YES 06-02-2019
+6854 SDyqkVzxYUbLNNS sguoshNthbbb Estonia 34 Sars-CoV2 NO
+2221 QVvfpLEGDMszp sLABU Estonia 14 Dengue YES 24-05-1970
+1833 RjvkO iSObUUtaUu Albania 18 Dengue NO
+8832 eoCTDHSDXLvpjMmV HEYaZeIqBPt Eritrea 43 Smallpox NO
+0397 kNnGKXMH bUtvrPvxXeeZL Eritrea 94 H1N1 NO
+2756 batDOJZApcYJyet UFUSPFXzApAnEh Albania 62 Smallpox YES 20-05-1999
+2100 xAbF DFoQygf Algeria 74 Sars-CoV2 YES 22-10-2017
+6290 Fys tAZAGnoEmdGRaEf Azerbaijan 31 Marburg NO
+8061 OmU KzI Bhutan 7 H1N1 YES 27-04-2020
+6102 ZqvVYjYMfnXhQ kqYM Bulgaria 8 Ebola YES 11-09-1996
+0939 BxTJS cvdUFEdQRAd Greece 82 Sars-CoV NO
+7613 CUgbUy KevUPhfDLkjLlH Andorra 36 H1N1 NO
+5873 sNbs PUTgvnGxpLigY Estonia 80 Ebola YES 03-08-1985
+2809 ajAv blGMyoJ Eritrea 117 Sars-CoV NO
+9134 pOPFEoJH jztKbfKR Azerbaijan 79 Smallpox NO
+9609 uIfK tqLy Andorra 39 Sars-CoV NO
+4378 SFbyMnzaPlOYA FcLBJfylLZsKP Canada 42 Ebola YES 21-04-2010
+9739 zyeNhjPc DfRhSxI Gambia 106 Sars-CoV2 NO
+2670 KCUYSq TfsSsGvXz Canada 65 Marburg NO
+2766 viviHBeDDr yzjJkPRVSqGDeYxQ Eritrea 38 Marburg NO
+7940 pQRm eiDsTCjXSLDmGa Belgium 55 Sars-CoV2 NO
+6999 aYFinnag vPyNe Belarus 39 Ebola YES 30-12-2015
+7035 ahDPsuPdZnpqr voXnruLbiKXNgSoj Bhutan 115 Sars-CoV2 YES 05-08-1965
+5228 GrQkrmGvJYh lgvOYoTGi Belgium 22 Marburg YES 07-10-1971
+8106 fuaCV OOVd Canada 89 Ebola NO
+3932 DXtJIh tOQAH Belgium 29 H1N1 YES 01-06-1967
+7822 boLuOxskNbCdT sjoVA Albania 59 Smallpox YES 09-01-1988
+8372 RqMmP ZsHNVtxnRdvIht Andorra 30 Sars-CoV YES 30-09-1996
+1814 InaQQyqnKSUtgKM xqKCGua Chad 26 Sars-CoV YES 17-12-1970
+5654 hHxxRbTLqAbPAE JmJJh Andorra 114 Marburg YES 08-10-1970
+2581 VgKvoVMamLTuU tueKuEbrU Andorra 54 H1N1 YES 17-10-2008
+9007 YfyOxetOxuxh ZnGPGU Eritrea 92 Marburg NO
+6954 fxItPZOppEipmc FTNLJoIXfTxLj Bhutan 75 H1N1 NO
+7529 qnKMoVaXf EvZtzdof Greece 7 Marburg NO
+5258 QoykRNsbgBaq PBt Azerbaijan 8 Dengue NO
+1841 shFsaUZagdS HXxXgguKOZClHMgK Belgium 14 Smallpox YES 06-02-2006
+1746 obosn eBHNtpmTmLAHv Canada 78 H1N1 NO
+8245 Evb FIamGMJ Gambia 13 Sars-CoV NO
+0978 YprEYjffvrNoD zUNAaigPCATDYNn Eritrea 81 Dengue YES 22-11-2005
+9509 kch KzOgHBErzZpAMLM Gambia 80 Sars-CoV2 YES 13-07-1970
+1859 KgDj AlmqAXK Estonia 104 Marburg YES 28-02-1993
+7798 mTozqDjzrOFEq mHKJAmNbmJoKz Azerbaijan 89 Ebola NO
+1502 uJpjOaVpYJB UpmvKaDbmELPMfgx Belgium 3 Sars-CoV2 YES 03-06-2019
+2384 dbgRBMe RMyuN Algeria 74 H1N1 YES 25-05-2019
+1291 jXdYlSxRf tnEEvfCYXhI Azerbaijan 46 H1N1 NO
+0255 nTOx mLEf Azerbaijan 95 Ebola YES 21-09-1972
+6805 GLkK HxHpGSxV Belarus 49 H1N1 NO
+5851 OxyYIP EGCcjulgZZUIdjP Greece 65 Sars-CoV2 NO
+7591 TBKQ qebYuzAUrsskrNEr Bulgaria 36 Sars-CoV NO
+0189 dTYEJxTLC HgbZyDLPnasjsk Gambia 72 Sars-CoV2 YES 22-07-2009
+2956 yuMytoZmrNYS elgqaYGmaELiM Gambia 1 Ebola YES 05-07-2020
+2251 odAbKsKNh TOgotDlpbSNZnsZ Greece 47 Marburg NO
+2929 Qycjnclbf JzGMZuLqGH Belgium 17 Sars-CoV2 NO
+4430 sVAXRsuJGhZR QSXgTJcXOLy Bulgaria 74 Smallpox YES 06-08-2004
+6273 rqCmbNHpxuIQh kSsjkDVXRtULf Belgium 80 Sars-CoV NO
+7238 ZnjKPKGtkpAm AaxbABjF Belarus 69 Marburg YES 17-03-1972
+8493 tnDZvxq GigglFP Eritrea 79 Dengue NO
+4970 gNhrB nbaBlkjjEJtgqGiB Belarus 82 Marburg NO
+3468 dNozrnJUOfrHjvAq vABKu Andorra 17 Sars-CoV2 NO
+5524 IlqOqqKUcqFSLs niVJPX Andorra 118 H1N1 NO
+6026 imph PcfbLggOaFEi India 35 Smallpox NO
+8822 FPQTxdhuyH ajVQOBbbBHZEx Canada 83 Sars-CoV2 YES 03-04-1989
+3149 BUj OsBup Canada 70 Marburg NO
+6017 huklqIYyVBeD sCDCUDaq India 97 Marburg NO
+4121 gSZeCtJvLak nIzDXbipPEgtr Belarus 101 Dengue YES 05-02-1996
+1467 aOdqtiikVBqm eaf Chad 10 Smallpox NO
+2386 bsRM RMnBgkgHGbSAO Chad 71 Smallpox YES 07-06-1985
+1652 CELq TPHHAijD Bhutan 86 Dengue NO
+6291 BfNbBshBET yFknhVPsey Eritrea 97 H1N1 YES 22-02-1979
+3370 slbUCJlMNrzAKzC mXAvEnYBocJk Algeria 16 Marburg YES 21-04-1987
+9871 NOkcMeYUGCqEtl RVUZuKHCHilkuCl Chad 23 Sars-CoV2 YES 22-06-1967
+4084 rdDjiBqN tNjKUBAmnDsQqJY Bhutan 25 H1N1 NO
+3331 geGcv QGnQILqZTIx Algeria 116 Sars-CoV YES 04-05-1992
+1568 FFg PaZ Bhutan 98 Ebola YES 04-10-1996
+2278 vvbYIvZjRrCr LbJDi Belarus 53 H1N1 NO
+4737 GOCXTIYtLu tRktccsXS Estonia 82 Ebola NO
+2519 BaIc aPYkhzOCKn Azerbaijan 37 Smallpox NO
+6192 ioGhmdkbjqPsV kAhIZoOP Estonia 39 Ebola NO
+9570 gYItTEqYOofByn GgbKDDLQOYQICv Estonia 62 Sars-CoV NO
+5434 zhXVFQqpiZrC ObrmDXMGg Greece 20 H1N1 YES 23-09-2007
+8350 xBLhDIkqQL DIsIkBpNeeQkEscd India 77 Sars-CoV2 YES 24-01-1971
+0625 bbQ dMp Eritrea 28 Sars-CoV2 NO
+7649 TDjuzJEntlpNnDD lsAZKvNFM Chad 36 Sars-CoV2 YES 01-07-1965
+4054 iNFnsHjXbzetE yBOyLdzIoSIjx Bhutan 95 Ebola NO
+9390 KrtmpkSS gsCXJ India 106 Sars-CoV2 NO
+1909 bkDMVQMYVGjQuKoy Jve Bulgaria 50 H1N1 NO
+6041 goaO QeHjmMQp Belgium 33 H1N1 NO
+1021 Pnxc YlKlvdLeeXMu Belgium 114 Sars-CoV YES 20-09-1968
+8080 KggzJAaPTyIV GxgyIFRebaoG Eritrea 28 Sars-CoV YES 30-02-2004
+8131 RJCOSJBaGnVfp TtfpFrKaISK Gambia 12 Sars-CoV2 NO
+0217 CrtG AaeavU Bhutan 105 Smallpox NO
+2838 VvT lCN Greece 67 Smallpox NO
+1592 ANHIaJbX IakMiB India 10 H1N1 NO
+0365 lvZo kghuNUXYSVogsTM Estonia 75 Sars-CoV2 NO
+4208 qaOaDvJVFis enhSXVNf Belarus 21 Sars-CoV YES 03-09-1999
+3999 JiLLpcOIpyCsmpo AtXMdnrm Chad 5 Dengue NO
+0719 assTu vTVaGUFRe Chad 79 Smallpox YES 25-12-2004
+5631 xjtSCySMgH lUDVVatt Belgium 103 Marburg YES 15-08-2003
+3825 cLNiXzptnkQViN mppLmBFxibTJG Albania 110 Sars-CoV2 NO
+6517 dckLocgrDkn GQkyxe Estonia 91 Ebola NO
+3440 AKu CMPQIruGkD India 14 Marburg YES 08-11-2012
+6437 Enbz XJcsvFkcSL Bulgaria 18 Smallpox YES 21-02-1991
+6600 XqeR eztdvAZOC Belarus 69 Ebola NO
+3808 pQjfCK nxklFslkMD Eritrea 51 Smallpox NO
+8063 tGyYpJfntzKgeIBc zmpxsgTFmSOOEL Canada 86 Smallpox NO
+1419 RGPd foUnzuXszMdcgj Gambia 9 Ebola YES 16-10-2006
+8412 HmvOsJcK cXgENCGauaH Bulgaria 49 Marburg NO
+1402 ccmgJvI CUyYJkTuJuAQC Andorra 51 Smallpox YES 27-02-1971
+8301 fVBR NsC Bhutan 29 Sars-CoV2 YES 11-03-2001
+8773 HLjOca lnIPMNUgQOiG Greece 99 Dengue YES 30-02-2011
+2352 eAXr VyRurQCZbgZha India 7 Marburg NO
+5929 ouvmHgFiL ZeJ Greece 39 Dengue NO
+6239 qSFzb fhlsrEAjNX Eritrea 114 Sars-CoV NO
+3421 EgXgFKxRakZyxYKe NTFgZhjTmsJCK Estonia 87 Marburg NO
+9086 vSpOBTZpluDnqzSQ YmsaHgePXhiL Algeria 24 Sars-CoV NO
+0607 zTHjUnZJ UxbNU Chad 21 Dengue NO
+8402 VSHgyfy QoHRd Bhutan 86 Smallpox YES 01-01-1997
+3894 NsThMHso arUHCaRkEfk Azerbaijan 61 Smallpox YES 18-03-1965
+4855 ruY poopUDJEmKC Albania 24 Marburg NO
+8655 nZSmhmoaDK JrPETglKk Greece 85 Marburg YES 04-04-2014
+3515 HKNXBf PeinyzbdJzxBY Greece 13 Smallpox NO
+5823 kjvSkK KCTohpFO Bhutan 58 Sars-CoV2 NO
+6441 Oscxq fRPLEzGNCGC Bulgaria 52 Dengue NO
+0734 TkApabXMBgrjjaU JLJGVJq Gambia 43 Sars-CoV NO
+3107 BxAmGVyHEpfgdftG QtPmlK Bhutan 99 Dengue NO
+5824 SuBR BqfgfMJsTiIsJF Canada 82 Dengue NO
+0967 voaY qyiuranLiclxv India 80 Smallpox YES 14-03-1989
+1264 zapv AZUKss Belarus 77 Dengue YES 12-10-2009
+8655 nZSmhmoaDK JrPETglKk Greece 85 H1N1 NO
+7021 KnjJjZScIQK UizzQ Andorra 40 Ebola YES 08-12-1978
+5040 UbCUvPSrLLoEm StKiPBaPfgyCGhJm Estonia 115 Dengue YES 27-09-1965
+3962 pdRFN fTGKkmRd Belgium 64 Dengue YES 03-03-1980
+7813 egnJsZlXDKsLtlLb LvgAZVlTsFK Bhutan 40 Ebola NO
+6902 jnJbsikKh fJrJeTGEriceM Chad 112 Sars-CoV2 YES 21-08-1978
+8487 ZrI KVziazi Bulgaria 28 Marburg YES 23-07-2014
+9865 iplUO LhalEpxgrAOY Belarus 8 Dengue YES 02-09-1980
+4503 pRLJMvpAghjTeikg sydnlnCf Estonia 10 Sars-CoV YES 17-08-1977
+8345 zMfXt iNzeeZdrdmM Bulgaria 37 Ebola NO
+1469 bHqNHosTbILoHl MUxiHPXlQHC Bulgaria 1 Smallpox YES 10-11-2006
+8092 eJovSvFIDaoKg saGPVPNPq Greece 63 Dengue NO
+5196 CaFKT fbtIgLVf Bhutan 18 Ebola YES 17-07-2006
+1060 TUpvHrpvgL rYv Algeria 35 Marburg YES 06-08-1966
+1189 XgPMIfu OMbeiatanLkgQ Belarus 49 Sars-CoV YES 01-06-2010
+0255 nTOx mLEf Azerbaijan 95 Smallpox NO
+4694 zCMyjDl STtSzNxrupll Bhutan 13 Marburg NO
+1528 mLitRgSdB UdRLK Canada 114 Sars-CoV NO
+2972 kSVtqlzb CuRt Bhutan 29 Ebola NO
+0444 Lqail kOAjZBQLNHijYM Chad 53 Sars-CoV2 NO
+4392 HzBOIvbeT nPMul Albania 62 Dengue YES 05-06-2000
+2944 FCMy bheIuidleyeQu Azerbaijan 21 H1N1 NO
+7558 ZkthtTZKIhvxXasO NRJIMUeFkypAE Canada 12 H1N1 NO
+9095 GdDxn RnqSoXAYtB Belarus 87 Dengue YES 23-03-1996
+1890 vBaAjICm RLCyskZCtE Greece 98 Dengue YES 18-08-1994
+0666 OCdtrlCKMp vJpIArcOI Algeria 4 Marburg NO
+7127 Cyrd sKjOpn Bhutan 28 Marburg NO
+2104 EBrYFSyhJPMgOHj YoBySf Canada 101 Dengue YES 27-02-2020
+1178 agkSLhnLBfCeb efObyRtKmgRk Algeria 8 H1N1 YES 08-10-2004
+6046 phFbMGXyNuHrxxkS EcxMXmTlqZpd Eritrea 108 Smallpox NO
+9228 rfbLEkTboIIMYDQ dlfsde Albania 98 Dengue NO
+5571 LxgrH zGNoIhUK India 17 H1N1 YES 08-03-2013
+3634 kigSEB uuTvtrJ Eritrea 75 Smallpox NO
+0191 lkjcl IAZKCjhovpZSoZtM India 22 Smallpox YES 26-05-1992
+9520 vKUKpNs lMN India 98 Dengue YES 26-02-1970
+8208 cukaCln myjybEmLlx Greece 32 Smallpox YES 22-03-1970
+6049 tkaKxP EQvVhKVbyYnHegCd Belgium 74 Sars-CoV2 YES 13-03-2001
+6252 rGqHyvSECaRM pFRim Albania 41 H1N1 NO
+0039 CjTQ zdDzpXQvvjGZb Canada 48 Smallpox NO
+9824 pVlZ JLaKrrkDcH Estonia 78 Smallpox YES 29-04-1989
+6457 QJO DGLsnX Algeria 22 Marburg NO
+1375 HLxDGMPpa Qtvb India 22 Smallpox NO
+0171 OXzhFkQDRIkGF TMG Belarus 4 Ebola YES 23-01-1970
+9586 DIcfedEib mzVVvlRrYUsJhr Albania 99 H1N1 YES 21-04-2013
+5105 orecFUCDxLui lPtbJLFqtpVCgTGl Algeria 3 Ebola YES 27-06-2005
+2024 qmVYK gtmmCfOvfoUFLyCG Belarus 113 Sars-CoV2 NO
+7338 QPgoLgJtciuf XbkGIX Albania 104 Ebola NO
+8849 qRFXXy izydgB Greece 21 Ebola NO
+6050 EpdhSgTuAjRrUPLz FoKaUscVZI Belarus 68 Ebola YES 24-02-1977
+5125 JHilHRzz QXLQC Algeria 111 Marburg NO
+8778 QmpBSBVUjUvzlbS uqlngN Estonia 64 Sars-CoV2 YES 29-08-2016
+8802 Nvao dsxvqDRlVO Albania 101 H1N1 YES 23-04-1987
+8040 NAtGnANFEhMld XyiqfGsbICslV Bulgaria 14 Sars-CoV NO
+2699 BJRQ uAUCRusy Bhutan 94 Smallpox YES 14-10-1989
+1720 hzBqTeBlfCFVAHtY UaQMhRrcT Gambia 76 Sars-CoV YES 15-11-1995
+7591 TBKQ qebYuzAUrsskrNEr Bulgaria 36 Ebola NO
+0157 KzfkCVJEoZcj ZSvnGs Albania 54 H1N1 YES 08-09-1967
+9793 GSvivOsElte Ffvp Andorra 22 Marburg NO
+8724 vLTm ibdueCxgEAiLRuP Bulgaria 44 Ebola NO
+3645 PFx ZVGaaKmTV Belarus 93 Marburg NO
+2295 cApUJUUNDdS LffGoUednLl Azerbaijan 31 H1N1 NO
+0571 kuPC akNn Canada 7 Ebola YES 16-07-1963
+6490 HEOXYOGnjlrGe kbjPBeGLID Gambia 113 Dengue NO
+2329 sREfVgZAH qHPK Andorra 96 Smallpox YES 16-09-1965
+3822 EaucXyVf qjbVTX Algeria 79 Dengue YES 07-09-1988
+1031 tvIGkcsJQkSodUdt PUPjdtjvFcxS Belarus 42 Ebola YES 11-08-1965
+1747 ErMP EpMOnZFUBK Bulgaria 90 H1N1 NO
+9348 mGDDDkD crc Bhutan 97 Sars-CoV2 NO
+3705 JgLfxujAypq yBrlMgoz Azerbaijan 80 Sars-CoV NO
+0448 VnDkCRSGlOBiK fQctJMVXFns Algeria 50 Dengue NO
+4887 quILLOD anmFZCKUdTbH Chad 53 H1N1 NO
+9088 ucVlAzSaFOoy Bnd Greece 66 Dengue YES 15-04-1997
+6429 lxRtDn GYJQSSSSfTSve Bhutan 16 Marburg YES 11-08-1999
+8768 cmtpfV UaFsBFDtcUvlGtj Belgium 1 H1N1 NO
+9930 NJNcYx TlpIoNtP India 36 Sars-CoV2 NO
+2425 eYJpomlTKbhNz PiGiOihbvm Greece 97 H1N1 NO
+4966 ugBb uEjovBeYLPmOdVfx Gambia 36 H1N1 YES 02-12-1979
+6347 HNcHoputZ RdI Canada 31 Sars-CoV2 YES 04-03-1978
+0350 JHIekfTOfoti ZkecfkQ Gambia 111 Sars-CoV2 YES 22-02-1968
+6038 qYqd lfCd Belgium 99 Dengue NO
+3536 YgSfYZLi tfFRJZm Azerbaijan 58 Ebola NO
+0104 LLGHJzXKmByxAq IjyRZVhKvhgfBxZ Azerbaijan 18 Dengue NO
+3864 ylvdB AddmrlfGNtKR Algeria 58 Ebola NO
+6078 heaajXpmNmV fxduNUJKROFeND Estonia 110 Marburg YES 14-05-1995
+8912 mJmTKkqbLRduoBd lIUFGrLXYbHDqM Greece 29 Marburg NO
+3660 SBpe xYIo India 75 Ebola NO
+2926 hdBT BMBGjkgUAaRsUeBi Chad 32 Dengue YES 14-10-1993
+4274 DhQXR xvkoLJ Belarus 53 Ebola NO
+3140 KSTR mqMEgoeBIAexi Azerbaijan 4 Smallpox YES 03-10-1993
+4850 ZkyoJ emlKLRB Chad 39 Dengue NO
+9401 OFpPXXUjSDIAICea kCxehNZgiGKPEB Eritrea 93 Smallpox YES 07-01-1988
+9421 oduOPiqJZhR igSNjOdqhA Chad 47 Dengue YES 16-01-1973
+8586 ZvqTl OdRznKCuFHYpjTQC Azerbaijan 5 Marburg YES 28-03-1974
+7071 eAl YkQKJAGJykp Gambia 91 Sars-CoV2 YES 30-09-2016
+2550 RvEPoO XgnqGrFfa Chad 91 Smallpox NO
+4271 xDUkzosyMsEI UauPleDieLcJRQj Andorra 50 Smallpox YES 13-07-1970
+7701 JxA IqPLM Belarus 7 Dengue NO
+1636 hfGeRmSj uAKUU Belgium 13 Sars-CoV2 YES 07-10-1962
+4852 FOq pAogSB Eritrea 31 Dengue YES 29-11-2014
+2831 fSnEdJfQ shF Gambia 19 Smallpox YES 17-09-2001
+2357 VghIL GjPNdgluoCPtaB Andorra 108 Sars-CoV YES 12-07-1986
+8097 YEEttzNshkLvBIML qloIhV Andorra 23 H1N1 YES 16-05-1972
+5109 YiOLDfqPoMQaebMX hDBgjIUGH Andorra 85 Sars-CoV NO
+6480 xIBoSnRe evFVMFdksk Belgium 98 Dengue NO
+1817 FEMgZmMyOnD OPzKMngYxk Azerbaijan 65 Smallpox YES 04-02-1991
+5001 jkOxueLs JYuNOfb Bulgaria 12 Sars-CoV NO
+3291 MaPxAuKoG ZkkPAunpSakkcsJ Azerbaijan 95 Dengue NO
+5132 HciOcc BpAg India 55 Dengue YES 01-12-2010
+5880 KlpFO QtcJRZljmtf Albania 33 Sars-CoV2 NO
+9208 RZgheRNL LvzaSVAF Belarus 6 H1N1 NO
+3709 vPPF KKffAeko Belgium 88 H1N1 NO
+7713 PKJgTm rAKYOlgBgCAE Andorra 8 Smallpox NO
+0961 VNdqIqXtmAcueu BJGvGlmpsuitIoZo Belarus 83 Marburg NO
+2163 BKgntsPPDmlD HsGckCQxIL Chad 112 Sars-CoV2 YES 29-10-1967
+0847 ZlCSASfoopULkpi DSOcL Albania 119 Dengue YES 08-01-1981
+1378 ZyRMnYsXCTYZIhiq KdfbMmCZPOS Eritrea 108 Ebola YES 03-03-2004
+5610 kbVusiDt OXrlMv Eritrea 81 H1N1 YES 30-08-1966
+7465 AVJtviTRLptRZfpT YRRzrODtPxE Belgium 22 Ebola YES 10-02-1965
+1734 ZniKcTok CkYlRaZMURqAAEAL Bulgaria 37 Marburg YES 30-07-1984
+0467 osTb XpCHioRSzvzNnnM Gambia 10 Smallpox YES 29-09-1965
+0032 HRi xtlZBLrkMq Chad 51 Sars-CoV2 YES 02-07-2012
+5193 JBOSoQfpBRZzZ XdVjBtNF Albania 67 H1N1 NO
+3492 QSFXc adilTEJUTrF Algeria 86 Sars-CoV YES 25-01-2004
+6036 aOs aAvucpLjjZopVnj Greece 20 H1N1 NO
+6291 BfNbBshBET yFknhVPsey Eritrea 97 H1N1 YES 17-08-2006
+4635 lpocXi ODIaneKDnxgoY India 64 H1N1 YES 14-02-1990
+4177 uKUHYchshpxdDMia asoCXE Gambia 61 Smallpox YES 24-02-1963
+3704 pAnvg gFNkffQtjpJISzye Greece 47 Smallpox NO
+9840 EiiuXSJhS xEbBEyMTQSsDaQB Albania 18 Dengue NO
+7602 HvNRbPLaGPAH ArZumtaSD Estonia 1 Marburg YES 26-10-1968
+1929 tUVY TPydpUbD Canada 39 Sars-CoV2 NO
+7945 CCOEUUn QTunfAnZBzzqaE Gambia 93 Ebola YES 11-02-2004
+8028 oXIAxvBBfphDCm IEnyvTrxP Eritrea 25 Marburg NO
+9077 jNXTgzlHq UjrS Canada 105 Smallpox YES 29-02-1980
+6618 nUMutyL muTZUrMSDT Bulgaria 7 Dengue NO
+4555 hzezGCsnH oXQQDkYbFELyKzIi Gambia 87 Ebola NO
+3343 zqyK OuuKEU Bulgaria 118 Marburg YES 15-03-1965
+1724 cvmXCcyoqoOyyLbL KcpTJ Estonia 31 Dengue YES 28-11-1968
+9291 DyUHT UlCajbyHLN Azerbaijan 112 Dengue YES 13-12-1969
+3223 MekpDkLaqEJYPn bkmPrRVNoipPAvk Greece 107 Sars-CoV NO
+8442 ulOjDFABuO UvQKueJs Azerbaijan 5 Marburg YES 29-02-2008
+2890 UGNFoIRIRuYxCLO ERiayqlrdsmHkZcR Belgium 86 Dengue YES 10-05-2016
+8747 PhjrjZiCfegt FeFOJoQj Gambia 117 Sars-CoV NO
+2218 GXcJ kQMyRrsGVjn Belgium 55 Ebola NO
+4994 FVNFPsVJGkHOSc YKivQVnSUYtxQE Estonia 62 Sars-CoV2 YES 06-02-1962
+5147 fGp kehIX Canada 118 Sars-CoV2 NO
+9241 PSeUsOUNAeMhFFgd XtXMAjoj Azerbaijan 112 Sars-CoV2 YES 09-04-1979
+1812 QIECpMb SYdEBClizNZT Chad 50 Ebola YES 13-05-2002
+9209 rqjp xnoIUyzoVf Gambia 19 Smallpox YES 02-05-1976
+5659 paumVadIuMFj fSummgnOlTGaE Estonia 4 Marburg NO
+1955 kQgNnZgGvarVOGdA kPsvChltQ Bulgaria 96 Dengue NO
+0448 VnDkCRSGlOBiK fQctJMVXFns Algeria 50 Smallpox YES 27-08-2017
+9862 eVf Cng Gambia 6 H1N1 YES 25-02-1981
+0235 nDKJSNFEIUJVRicv MyAMvhTKF Albania 85 Sars-CoV2 NO
+5838 tXvb HuriehCn Canada 65 Sars-CoV YES 23-10-1981
+1512 ENdOJKupNa mbk Belgium 22 Ebola NO
+1201 xltTvCYFCyNY mvgNL Albania 107 Sars-CoV2 YES 18-03-2000
+8652 XSkIhjzb MNPgCzkhTL Algeria 63 Dengue YES 29-02-1992
+3463 MTIJ FzcGKhUj Chad 107 Marburg NO
+1960 bcEYAEXrPzc GHtFVKQxtCXKRUdR Belgium 44 Ebola YES 06-02-2014
+8626 NkQLe nFTUXuueO Belgium 94 Dengue NO
+4132 RNpRMXmXADQmRt SQMrfKv Greece 110 Dengue YES 16-05-1997
+5437 JhnpLe oPzLqVJyNtCQNf Bhutan 86 H1N1 YES 22-10-1964
+5252 lIeMa VIUsDmP Canada 83 Sars-CoV2 YES 01-01-1992
+9539 vtuFQGniPFQncv ilSXLhJH Bulgaria 41 Sars-CoV2 YES 14-03-2005
+4028 zgkhGoNfZ pQSrXcPfoYrxe Bhutan 112 Smallpox YES 17-11-1966
+7613 SMNmB RuKVdM Azerbaijan 119 Marburg YES 17-06-1984
+7953 HCrPFppAuKaTQKqk bnGB Belarus 49 Ebola YES 20-01-1990
+7141 EfENh NqCTRmdvb Belgium 61 Smallpox NO
+3963 QHPGpCqRcF AmhKue Algeria 39 Sars-CoV2 YES 18-07-1967
+1689 FTRiUzH EAbaNs India 94 Ebola NO
+0925 dcSTg cMYknSp Belarus 88 Sars-CoV2 NO
+7241 IybBOyRVrps ETkAPLeApxtMaRL Greece 73 Marburg NO
+1765 rKU nziobSsAsiFdeo Estonia 15 Marburg YES 17-02-1976
+1019 brpgbEOJQg rChEgXchQ Eritrea 17 Smallpox NO
+9217 ePtzLjkNojCyhBf nKMrpMKgfgXidrK Chad 14 Dengue NO
+3693 LjOGmetx IlBKG Azerbaijan 35 H1N1 NO
+3588 XdkQihpdBHRmSs HSTSmLbNY Gambia 107 Ebola NO
+4732 xVAiydGEtZMKrxOv FstqDkCLVLsaQj Canada 60 Ebola YES 03-01-1973
+1912 iRgYa aFSpJxj Gambia 57 H1N1 NO
+3973 eSEhudvECgPTV DQdO Chad 118 Ebola NO
+0180 BIaeO SpPYh Belgium 116 Dengue NO
+0017 sxzMYYZynLD okORipUlb Andorra 20 Smallpox YES 30-01-2008
+2383 vfxaqxQGmDOrK ltoD Belgium 36 Marburg YES 16-09-1986
+0290 uypExztyMg XhXEVrVLJy Bulgaria 60 Sars-CoV YES 26-09-2018
+0223 RrBEFkG vvf Bulgaria 84 H1N1 NO
+0497 ztfYmzLFyiOB ULViOXoohUaSf Albania 4 Sars-CoV2 YES 23-07-2010
+2223 lVYODoEcQ MByCqsPBJ Bhutan 112 H1N1 NO
+5046 XfPQfgnXJOftV cIsjDkiMaBNXD Chad 17 Dengue NO
+9414 jyl QPmDcjYlJmtDF India 15 Ebola NO
+2421 xTAxyGdJmJQZHOa EQmNlubeC India 54 Marburg NO
+0069 MENNjyjezBEhD AumgySyEjR Bhutan 12 Marburg NO
+2199 kRYlOhOfXL QZqHnChH Gambia 39 Dengue YES 05-03-1968
+4937 uEjvtqKr EQK Greece 116 Dengue NO
+1687 hDFMmzvvQByPz AanOALzzBYVy Canada 76 Smallpox YES 29-03-1968
+5936 LDoVQdKypZz ueVqTxFH Albania 47 Sars-CoV YES 09-09-1984
+4049 DRtZUi UoqsAeIeRTdGuCo Bhutan 111 Dengue YES 16-12-1967
+0668 kRyIxrnvOqEZ nnKQ Eritrea 42 Sars-CoV2 NO
+8847 vyFrpXEt nRvStFhicG Belarus 51 Dengue NO
+4760 EpvZsTpfstppsi ErjjkzuYOsvCcER Chad 37 Sars-CoV YES 10-08-2000
+7440 kAVdnIPhJmmGx TpbaFFGTyVA Canada 116 Sars-CoV2 NO
+2666 YQiOvqVdgzEzix FUy Albania 37 Sars-CoV2 NO
+0703 XuEsZSxsstinRoj XqVrhGmcLmfQHXLi Bhutan 116 Sars-CoV NO
+6854 UyyUkL zbJzFyrZzKDXt Bulgaria 4 Sars-CoV2 YES 19-11-1993
+4472 fMPPrIZ QnjAfrrIGXVo Algeria 88 Dengue YES 09-08-1971
+8162 PJbAJPjLtSIpTjKZ fvCljejp Gambia 55 Ebola NO
+2571 RdynjsLP pcGmCDIGgORbcucU Bhutan 68 Sars-CoV2 YES 10-05-2018
+0669 yQLfnZD qoXcjYruuHLYb Belgium 95 H1N1 NO
+2931 mkbRvJtYsjXpn szOsXNGeqxzdk Andorra 103 H1N1 YES 17-05-2019
+1653 pzETBEN ZjL Chad 20 H1N1 NO
+2862 hALxKhEQE Uxqoto Belarus 42 Sars-CoV YES 20-04-2012
+1884 zlFsHzhs dySvivRAitNsPVi Bhutan 23 Ebola NO
+1456 rVgHCUgynQzREvC KHAtRtoPg Eritrea 24 Ebola YES 21-08-2017
+4239 jlRagrQSyvHBR rJXvlEoXe Bhutan 10 H1N1 YES 05-06-1986
+4700 mfx nlIsMaoUZAjVbY Gambia 115 H1N1 YES 28-11-1964
+2923 YauDYprUO mxTetcjLAfB Azerbaijan 14 Sars-CoV YES 27-05-2008
+7324 apOafITD DBUYfUTxTvgAQYkd Bhutan 48 Ebola YES 30-04-1999
+1101 CBQgtuHUL rVZtddMoLiOnO Chad 71 Dengue YES 03-07-1997
+1747 tkd FhGhJSH Bulgaria 115 Marburg YES 23-09-1996
+6014 SSRGGeXHuXcHb JMnKv Gambia 118 Ebola YES 15-06-2018
+4472 Fmm KtjKpqbG Bhutan 7 Dengue NO
+1742 yteTbJuDtvFkgOV srddigxrspknPN Chad 89 Ebola YES 14-02-2016
+6184 AgfQHIy AHSEvOIhftvzPRlY Azerbaijan 108 Marburg NO
+8546 goAQQYDdXbx xmAIaddoHxvxpyX Chad 19 Dengue YES 14-10-1995
+0850 BMlZrt NuQ Greece 47 Marburg YES 02-10-2001
+0048 QVyYY tnDcStfP Greece 54 H1N1 NO
+2586 cYfRcBQG KUB Bulgaria 87 Marburg NO
+6297 pComHRYoUM riaLVuKEejFAXlR Albania 1 Dengue NO
+3546 iCXn BXEZUnxUszLu Bulgaria 20 Sars-CoV YES 08-07-1983
+2592 eXiTYh zMHNNUNAJcInTHsB Belgium 97 Smallpox YES 24-07-1987
+4466 ZltsyAPrUujcmJmE lfBeGxflZpDIXOEn Azerbaijan 33 Marburg YES 27-08-2017
+9510 OPbrpXZk OLjUbkVKMQe Chad 35 Sars-CoV2 YES 14-04-2012
+4204 HgSbaCactIiju EoMPUKM Algeria 22 Dengue NO
+6585 dgdHVpAUxJ BvmQuNmP Belarus 62 Marburg YES 30-08-2019
+7511 DLfZJ Zssjgnk Canada 103 Ebola NO
+7290 zAsAMfylARAZEfLU mqMIMShQARxgg Estonia 109 Ebola YES 16-04-1962
+1202 uiTZabHVVIQtfIj QTdYtbTxgAMbGlx Gambia 118 Dengue YES 14-06-2017
+3966 qAZqPd nFBOdJjiDMNO Canada 113 Dengue NO
+4083 gXmYBFqSAUXvguMD rIyELkMFNp Canada 2 Ebola NO
+7076 GGeCYfIKGXkgGq tQjHjiZOZjq Belgium 3 Ebola YES 06-12-2001
+1737 tZtYTTALrLqXo oPMVJdMtf Chad 8 Sars-CoV NO
+9680 SLGLIUiBmgKos DlHIPcfdPGScZ Andorra 21 H1N1 YES 20-11-1988
+5290 RnHgeqXOkHynfRT lkESlNzdpLuIyA Andorra 92 Marburg NO
+6599 ZEOJcOicBAxppFg PAcAglYsdGN Greece 21 H1N1 YES 20-06-2001
+4222 KoOvS SluSjqAsVQmEqa Azerbaijan 99 Dengue YES 08-02-2012
+0763 KeUAUaiSo QHiGAYvLyvcJ Andorra 59 Sars-CoV YES 23-03-1967
+3900 QjUMzyZFgav DPrkj Estonia 28 Sars-CoV2 NO
+3306 FMEPZpJiIksuG BsGqeE Estonia 61 Ebola NO
+8470 jRGvYVgTXv vQzrLxpBoFfS Algeria 9 Sars-CoV2 YES 27-02-2020
+0140 jsDo VkJntMtiF Bhutan 106 Sars-CoV YES 12-11-2001
+0367 VAAJSzSSR eYGQdvBgcFIGbgdx Bulgaria 22 Smallpox NO
+8666 HhXcHC PaiysJdektS India 2 Ebola YES 13-03-1970
+2669 hMt gDHYZ Andorra 53 Sars-CoV YES 15-08-1989
+2288 RkCZUIifP cCDTPg Gambia 92 Dengue YES 04-06-1964
+9346 yinfR givOGOzr Bulgaria 80 Dengue YES 05-12-1989
+9452 asCruQHVYM MXqbBjNFu Belarus 58 Marburg YES 13-05-2017
+9150 caK AFuki Andorra 22 Ebola NO
+3226 YFomLGuJOgxrabL fafNpYozItQaOrdO Chad 48 H1N1 NO
+7058 JPR ZiQyNOERKUH Canada 31 Ebola YES 24-06-1967
+5968 dKQtgtGzPka HtoHD Chad 115 Dengue NO
+1916 pdaaFuG RPSmeeKqy Andorra 12 H1N1 NO
+1463 oOG gGCtqmL Azerbaijan 91 Dengue YES 30-09-2006
+3073 pcQaMNBRMV BYKIVRETpv Belgium 61 H1N1 YES 01-08-2004
+6786 iJlKAXFQTqsjmtq NIOL Algeria 35 H1N1 YES 20-12-2016
+1045 ImmbtVmrND OJFluORYnf Bhutan 49 Sars-CoV NO
+3006 qKMgSJ XuI Algeria 57 Sars-CoV NO
+4018 ELEXvK NqmgsLpJ Bulgaria 88 Dengue NO
+0462 ZIm YGj Algeria 24 Dengue NO
+7998 lDfxE bMCOGADFi Algeria 12 H1N1 YES 25-01-2009
+8446 OgLuQT sippYeQkZbLxDK Azerbaijan 21 Dengue YES 08-03-1968
+5587 QxfNoQJqhmko ShqZFCn Gambia 119 Dengue YES 26-01-1992
+4678 GtYygRnZhuEOf CdjvnpICO Bulgaria 57 Sars-CoV2 YES 11-03-1961
+4259 SdPYhUDZihn URfmmhoRjbZdyiop Gambia 22 Smallpox NO
+8267 MbalomlRZH ryNhfZpfsXsqBVr Algeria 65 Sars-CoV2 NO
+3916 mAvcJ vyHHEeeNlIfN Albania 11 Smallpox YES 28-10-1989
+5726 jtn yfYkAjLzUbeSG Eritrea 57 Sars-CoV2 YES 11-04-2001
+5676 XnLciTsrol XfNNoF Bhutan 45 Ebola YES 09-03-1980
+1412 AJmHVNdhbC DLBJXfSdkfo Greece 79 Dengue NO
+2012 fxFIEmJkJY SGeYVOuCGDrNbgU Canada 85 Marburg NO
+6863 TKZZuvCKJ yEDDQpCDzyADT Canada 36 Sars-CoV NO
+3672 ujHUniAHnDajL nYJsZDMHqiDqYdc Chad 71 Marburg NO
+6650 ZQiV xbsKDjIyn India 101 Ebola NO
+4396 vnMpYSaHbVTq QOGzliu Albania 4 Dengue YES 13-01-1967
+7715 IhY UCnB Azerbaijan 74 Sars-CoV NO
+1945 UYydHkrk xaZCEQmSbYfiTIb Chad 105 Dengue NO
+7693 LcHiTQ Vgc Bhutan 99 Sars-CoV YES 19-06-2019
+1154 nJnTR JXynJTLk Estonia 27 Ebola YES 30-07-2019
+2309 xmbhuoMsNlF rlmyDLJi Andorra 8 Sars-CoV YES 11-08-1983
+9433 KaRtGOhljEJUe onE Albania 42 H1N1 NO
+1518 CNNBKS RrCoRDRr Andorra 19 Smallpox YES 03-12-1961
+2757 BrVatpBggkkA kXkoIa Canada 40 Dengue NO
+2971 PiJiKker DHsnBVKAr Greece 31 Ebola YES 12-03-1988
+4798 uSs KooRuTpqnMi Belgium 110 Ebola YES 11-09-2004
+8196 DFKTvPFkK oHqrvVQYLHTlj Canada 46 Sars-CoV2 NO
+7481 bvLLQJ uJm Azerbaijan 22 H1N1 YES 21-10-1978
+9255 BYRAARLfPMKcsJ IVSgiKlTngnCu Eritrea 11 Dengue YES 28-03-1984
+4658 taqcP rRmqe Chad 89 H1N1 YES 04-12-2015
+3706 YjVvdgxBl XLxmFkSlDkhMev Albania 41 Marburg NO
+3288 gcU uzJPcxXED Albania 90 Sars-CoV2 NO
+1160 GlNJfJUhe DXn Belarus 18 Dengue NO
+0143 IIhKrRLSyzuqDE gIdmCRydkda Andorra 46 H1N1 NO
+6770 mbLlvrtgRBOFpjxZ ifVlBAsaR Azerbaijan 32 Dengue YES 09-11-1987
+3563 PlvmJsVXPx ZiBIAOYOlDXrrB Bulgaria 107 Ebola NO
+3280 AFMvshs SUJTrv Chad 35 H1N1 NO
+7507 mxCFqgSvEctSFA RYrtOdcEI Bulgaria 83 H1N1 YES 10-06-2017
+0080 aoxOnRMVQtgDxI KiSZXCKt Canada 45 Sars-CoV2 NO
+6581 hRopOfggROVbPK sOrzDgNgAefsI Andorra 51 Sars-CoV2 NO
+3530 lgsvhMCsoGnZXe urgaDevXXAH India 92 Marburg YES 07-02-1967
+3670 hIY HvylegECcN Algeria 29 Smallpox NO
+8995 MJMnj lPzoiybLQhTJpY Chad 24 Smallpox YES 17-05-2021
+3103 sPT vTRpyQoLPpCo Greece 91 Dengue YES 02-08-1982
+3525 ZBUNSuiCaACg LvCZmnALmdLRIskH Albania 78 Marburg NO
+4054 UFU uaTOHJ Canada 100 H1N1 NO
+0613 imFpbCAzXR nyH Estonia 58 Sars-CoV YES 25-07-2019
+3916 YAzy xqVNDo Belgium 40 Sars-CoV NO
+3808 pQjfCK nxklFslkMD Eritrea 51 H1N1 YES 28-07-2017
+1094 uOtFUqnLukxVsmbd xlPvQodQ Bulgaria 18 Sars-CoV YES 16-11-1996
+3253 sFrqt UiSuvZ Greece 69 Marburg NO
+2103 lSTYvrksRyPmtr hIa India 72 H1N1 YES 09-06-2018
+1664 MgxQ NrE Albania 78 Sars-CoV NO
+8619 UiGTarSofgqZTEm PjJzVJy Eritrea 36 Ebola YES 15-11-1995
+5348 uKYoQhFbXsSpYLE XfdGnyCEE Greece 83 Dengue YES 09-03-1977
+5350 Lle SaVzMRMyOTuJFx Estonia 116 Ebola NO
+4635 rTu nICZZoqCiVNzSAHy Estonia 28 Marburg YES 21-12-2002
+0061 rxlAVQpQ FsPTovGNcVzxQMO Bulgaria 83 Dengue NO
+5329 myAvaErrdK BekVAESgNbGXj Estonia 88 Smallpox YES 11-05-1993
+2509 iCeLfMnn vJHltyJzRV Gambia 91 Marburg NO
+8000 qIbn duyscrvQ Eritrea 119 Sars-CoV2 YES 15-01-2002
+3347 LDiautFQd AhFcDt India 59 Dengue NO
+6455 GFzXcKDjrepp eyNEgiYVulZQgT Azerbaijan 103 H1N1 YES 19-05-2017
+6655 mJzhN DYktbyeEuMBNr Greece 26 Ebola YES 06-05-1978
+6953 thmcgd xPNNLFAJjEDKDYf Canada 52 Ebola YES 22-07-2019
+2838 qbav QlAVVDkUh Andorra 102 Dengue NO
+3427 MdRYsDgLzFijaZq hNZDSBVXgZYid Azerbaijan 34 Sars-CoV2 NO
+7613 QJXj lYFkKPXfgnog Chad 66 Marburg NO
+8061 OmU KzI Bhutan 7 Dengue YES 28-04-2015
+7448 vdX hFzXakACoQPHeR Bhutan 14 Marburg NO
+6164 VCyq QuesL Estonia 48 Sars-CoV2 NO
+4520 zAXhhzTmuBM nQhVULfM Eritrea 58 H1N1 YES 21-03-2004
+7435 bAJhDBlsoVQfaUdD lPVVvqDrQubPDI Azerbaijan 17 Dengue NO
+2084 VMnVPd yUXsRqOgr Gambia 97 Marburg YES 21-06-1992
+1453 XUh oZlQQORDA Azerbaijan 46 Marburg NO
+2855 KVU MpuD Azerbaijan 40 H1N1 YES 06-11-1987
+9849 USyNi tEFUjg Estonia 83 Sars-CoV NO
+5756 iIZhD EuT Greece 115 Sars-CoV2 NO
+2358 xdQ xbIGf Chad 107 Ebola NO
+9684 YxFLOgDJQNjj veRNzzokvevnoLX Canada 14 Dengue YES 13-01-1999
+6860 ZrXBIybbxKM qianFzPmjoOMU Eritrea 37 Dengue YES 03-06-2015
+2456 tDKfuL EuuPa India 90 Dengue NO
+1935 GnaYpAQVp zvCUVM Azerbaijan 103 Sars-CoV NO
+8143 zmMAgxXuktG jKzIAEiIxVvHZHB Belarus 16 Sars-CoV NO
+1224 RkNYlombNfpTVbv LdyBZUrEkbZlb Estonia 29 Marburg YES 25-02-1969
+7542 CMqexCCQANgoL HpEINccEZ Andorra 95 Ebola YES 12-06-2018
+9544 qfOHv oOBsvMFLL Eritrea 104 Marburg NO
+4927 OIlFt JttuEOPCzk Bhutan 64 Sars-CoV2 YES 08-03-1980
+6126 zahLBrNTOdx kVNQs Gambia 52 H1N1 YES 02-02-1963
+4765 BFLo EQgkfrj Gambia 48 Dengue YES 08-05-2007
+3313 gKjMA cfChsHzSRgbz India 101 Marburg NO
+6510 PSsEJOAmeFPBmdYU ypT Chad 66 Dengue YES 22-04-2003
+8074 XNEN abOHIIjEgQUqQM Greece 24 Ebola YES 25-04-1978
+5231 dLdsxcIurSGtT HAYoFJRGIhBEZ Canada 116 Sars-CoV2 YES 10-12-1997
+9359 CGPmpcpvGQ spJmUeGa Chad 76 Dengue YES 11-09-2021
+8844 dSMnf YJgECjYQmmRLg Canada 91 Smallpox YES 12-07-1975
+0913 QEM NVUpZizvglalB Andorra 6 Sars-CoV YES 03-05-1994
+9588 xgOmI zXhNTMAmCETij Estonia 71 H1N1 NO
+0186 BdZoLvuTnu oVvYJFseu Bhutan 20 Sars-CoV YES 18-08-1963
+6316 GdzxRyht Oaza Andorra 8 Sars-CoV2 NO
+9665 NuRuaZtSPEe nuvy Algeria 60 Marburg YES 03-01-1998
+2670 mPy GElLEOZEJTD Albania 54 Sars-CoV2 NO
+8753 CGFX KPp Chad 113 Sars-CoV NO
+4789 soVHgUfAUcas EkJvmPEjus Algeria 72 Smallpox YES 01-08-1986
+5429 MXtrsuacL tvLxykttZaRLv Estonia 98 Smallpox YES 19-03-1990
+0881 tqPSCoAe XXpKFdG Andorra 20 H1N1 YES 18-09-1962
+8220 NpZzSajouaZ JxfVERbGnHs Estonia 6 Smallpox NO
+8945 GFEBCdgZbHsqHyT CjRhXXGv Belgium 90 Sars-CoV NO
+2736 SifUgUvOnQVvd ypFQpR Bulgaria 84 Marburg NO
+0401 zeDYVnSDh IVEjkEIVDods Algeria 25 Dengue NO
+4361 TkmGOstkF StTvaqYr Estonia 24 Dengue NO
+5034 UoMvNE gKnGV India 55 Smallpox NO
+6764 iPyBktSMQeh rQQk Bhutan 112 Sars-CoV2 YES 11-11-2002
+3759 ornzbpnaX raUiLfKPxReGkrg India 90 Marburg YES 02-07-1975
+1236 FlhtNyZJM eVZPtjD Albania 86 Marburg NO
+4026 MiI bhZQRCrNSV Estonia 55 Sars-CoV2 NO
+1887 jCj dOyincc India 35 Sars-CoV2 NO
+3394 qsC OBOpbetlC Bhutan 19 Sars-CoV YES 16-02-1986
+0237 BsPTZqAJYDqs kANF Greece 19 Dengue YES 09-04-2012
+5345 jdaSAlBsk RxfxIZalYIF Chad 79 Ebola NO
+8519 BiCGzjsNTvS Beu Belarus 52 Dengue YES 09-05-1988
+8245 XTB HIplB Albania 99 Smallpox NO
+4750 aTAZ vUDSQYLzhZX Belarus 70 Ebola NO
+3722 rIIxro QBcUOpCSYRh India 50 Sars-CoV2 NO
+0715 gKbZm VOYVDE Gambia 58 Smallpox NO
+6450 kFlx zfAou Belarus 107 Marburg YES 15-12-1971
+0323 vSMmreytpMlNrPH VuQcaZyZ Andorra 16 Ebola YES 29-07-1997
+1502 KHH rmehZVPnR Greece 118 Smallpox NO
+1236 FlhtNyZJM eVZPtjD Albania 86 H1N1 NO
+1568 zgOH rnIUpILBz Canada 11 Ebola YES 14-02-1984
+7964 HSyfUrICK CRyvMdbJA Eritrea 99 Dengue NO
+1404 eFeduVMFbXhgPdb GuLeBVKSjPgAb Chad 17 H1N1 YES 26-09-1967
+0465 fkKS HJgqxNoUU Bulgaria 97 Ebola YES 06-08-1972
+6165 iRIDd JBoBr Algeria 8 Sars-CoV2 YES 18-12-2001
+0020 hBuSyzcLA cZVT Belgium 90 Sars-CoV2 YES 26-06-1966
+9694 BbXIUPrloN aJlnAXzSHjAxiG Estonia 13 H1N1 YES 15-07-1985
+3770 Qdb mtTgZOzrvshCgI India 5 Dengue NO
+6277 fCiR vYpPSc Bulgaria 82 Marburg NO
+8820 uvvxoKJXHXh KpjmlVFVdx Chad 76 Dengue NO
+1735 SPCXPoOahnIJmFhx HaIPTbBfvecxV Azerbaijan 42 Ebola NO
+2743 nXnMFAqmXYYQaO eVIT Albania 111 Dengue NO
+2770 NGu HmHvkyftN Belgium 71 Marburg YES 08-12-2019
+9070 armnbcuB jFUSQcLQTEMzgXf Belgium 42 Sars-CoV2 YES 11-01-1988
+9966 asqTS BkqzykSNJ Belgium 103 Ebola YES 02-07-2007
+6767 KyJsDJ GXxoIPKXI Canada 69 Dengue YES 23-01-1971
+1939 KYBZXum nakcCdldVHHiplLe Chad 106 Marburg NO
+1296 OUfg OGGJXNapqPF Eritrea 43 Sars-CoV YES 24-02-1968
+2640 OMmMLMRnd okdc India 84 Sars-CoV NO
+3976 QTgaAvAL CyhqbMjkr Estonia 14 H1N1 YES 08-02-1987
+0379 seCjHe vrjggPOglScPcjIV Belgium 78 H1N1 YES 09-10-1977
+5635 qNbkvdiuOB rBmNslFjlBiCdp Bhutan 85 Marburg NO
+3913 IzzhyQ KSPzBPKqmx Chad 117 Smallpox NO
+1258 jNP ncJMAlnqLPCtHIkY Chad 33 H1N1 NO
+8475 mQnEHVcFqOXyHZ ujrxlp India 84 Sars-CoV2 NO
+9689 Xvi zbQiuXFlS Azerbaijan 19 Dengue YES 11-03-1984
+7366 KTrudKdCs ycJtsHeX Greece 35 Ebola YES 15-04-1989
+7705 MoHQYolLmKXGlVPC Nap India 38 Marburg NO
+1261 DlSMtK gydHjeZj Belgium 2 Sars-CoV2 NO
+4640 BiUCJnQnYbS ctPRHLeXFsKsn Eritrea 51 Dengue YES 12-12-2007
+9780 vATLdydbAR NvfSpAMhlfLiH Azerbaijan 60 Dengue YES 01-04-2010
+2821 UDAZpdJOIaNhyjA rlmITmR Bhutan 78 H1N1 NO
+9555 GIG Lyirl Gambia 78 Ebola NO
+6077 daiqjDasQasS iqZya Algeria 7 Ebola YES 14-12-1963
+3997 FdufCmcNdPht UzsNEY Andorra 104 Marburg YES 16-03-2019
+8860 bkZYYbLka aSLpZKVR Canada 32 H1N1 NO
+3819 EJrGYe KhudDkHNksp Andorra 43 Sars-CoV2 YES 07-02-1972
+1082 xnXqKVACdtaIVie ekfiRJFfEGp Eritrea 18 Dengue NO
+1595 RQlAgLeMXMcGKY BhIOINHkk Albania 21 Ebola YES 06-09-1971
+7615 ivQoKgU xVHAluIHVAZuvJ India 45 Sars-CoV2 YES 18-07-2009
+7464 vBjs DlFikhLTgzx Belgium 109 H1N1 NO
+1608 rlgYqldhVpinZIIk GGrJijUrTMloYdTD Belgium 31 H1N1 NO
+4893 zbKg DDIZuOgN Canada 72 H1N1 YES 05-05-1980
+4858 UCoJPgV VNByimSqLLyF Belarus 23 Marburg YES 05-08-1969
+9277 BUxTHdOm SCxN Albania 55 Smallpox NO
+1450 mZcb jRduFiDDJNxLqI Albania 17 Ebola NO
+8778 AEcM ZTdrrtusutlYEn Eritrea 28 Dengue YES 11-07-1996
+4932 pafCfonRa NiEYpspa Gambia 115 Smallpox YES 18-07-1989
+2990 gqAbEhMkrHd Uuy Algeria 27 Marburg YES 24-02-1984
+8565 VEBtehAFjfeeA DollbAOryXA Gambia 84 Marburg NO
+1796 qtJUmSoXK ENrkQNaxt Estonia 114 Sars-CoV2 YES 23-12-1975
+7563 gOZll xQqRRbjUf Eritrea 2 Dengue NO
+0141 ujHP smPmdeKDTLyRs Gambia 37 Dengue YES 05-10-1972
+9946 kiKiaTNTYv llG Belgium 87 Ebola YES 14-11-2001
+8024 cIcZbZcmjAgfT QtCeCj Albania 61 H1N1 YES 21-07-1992
+9304 ZAbBZaqZGulGr ScYvEsgzBe Bulgaria 47 Sars-CoV NO
+5311 hVeItUitCc LvGYLBpGcqAsEO Gambia 82 Smallpox YES 22-03-2007
+6141 nUyxvOks EEExqaSrApQsam Bhutan 35 Smallpox NO
+2210 RmOb PeIETXaqXusNlM Gambia 73 Smallpox NO
+4893 zbKg DDIZuOgN Canada 72 H1N1 NO
+0085 pHbKXJuJLMQKYlSo hCDmomf Gambia 95 H1N1 NO
+3807 ZCVKaSsNYB TAINsHD Chad 95 Ebola NO
+9792 ymZ DPcXt Algeria 64 Ebola NO
+5632 AQcYQsVUBhlp OPMUTbzSFMfU Chad 81 Sars-CoV YES 10-05-1985
+2231 NMxdlhNiKSptk NbVVECZnLSUCa Albania 75 Smallpox NO
+1868 FmQdgYFIvZurZlI FDuSseq Belarus 55 Sars-CoV YES 17-12-1971
+1038 GNuUuSCyhmZggE ABZyuHy Algeria 16 Sars-CoV NO
+5044 DZshomtGvUUP XlvTm Greece 114 Sars-CoV2 YES 25-11-1961
+3766 toiSM SvdfCHCmguEyZ Algeria 108 H1N1 NO
+2137 YGuKIdMlYpzKdKBT QYhsUvXmIji Estonia 102 Sars-CoV NO
+4119 yQjZ KfpXf Bulgaria 23 Marburg YES 27-06-1992
+0809 FhMyN eShmfCsALfoMVj Andorra 116 Sars-CoV NO
+3472 iQRoyQDnpJjZ lOSe Chad 33 Marburg YES 30-09-2013
+3939 rLCqtud CngP Chad 66 Smallpox YES 05-05-2004
+8985 OtszvT xHBz Albania 39 Sars-CoV2 YES 24-02-2011
+1804 slFqHXvumckiMf SLfK Eritrea 57 Sars-CoV2 NO
+3495 usAnMuxXZrQSiR aaYhLxaMM Gambia 23 H1N1 YES 11-04-2020
+4843 TCZXuKKYjMfl qGekZnYA Azerbaijan 117 Dengue NO
+4798 uSs KooRuTpqnMi Belgium 110 Sars-CoV2 NO
+0462 ZIm YGj Algeria 24 Marburg NO
+0981 GOaz JJjEHQXnD Bulgaria 41 Dengue YES 02-07-1993
+8197 ByUrZaEeZYGqIQnx hFufjZEDkoSjV Bulgaria 92 Dengue NO
+7781 DNmyHptoNcb vpQyMsRMn Belgium 7 Sars-CoV NO
+9226 SbClsIPlrXfbz MEYzCOxykN Azerbaijan 89 H1N1 YES 30-03-1993
+9107 Ghz bmOBnkCIl Eritrea 22 Smallpox YES 27-01-1966
+4592 lxhIO yBPUQaHmKxMQpokd Albania 10 Smallpox YES 18-07-2009
+5519 LCpVTz SVJ Bhutan 84 Sars-CoV NO
+9412 sgZMrvnAuMKmJFF VlVpsoLypMF Algeria 79 Ebola NO
+6717 TPAco nimBoRfcxtL Andorra 60 Dengue NO
+6903 fMsFsKXhNtUPae IeaNFXMncxPS Bhutan 28 Smallpox YES 24-06-2004
+0284 tsifijkU kObEiHQLKLQYbFIc Greece 41 H1N1 NO
+9303 nnzfDZMtOIuK gZsZMXqkfxf Gambia 21 Smallpox NO
+0730 lZnQIAtao frAycTmpPVfXx Belarus 90 Marburg YES 27-10-2000
+2490 pisPFGR lXRoejMNMVhJe Algeria 44 Ebola NO
+4709 DNpXVdLPJJXiel GXdOejgUPVLe Chad 90 Ebola NO
+7331 ayv HlxYEqyYNtK Canada 67 Smallpox YES 15-03-2013
+2948 TyvcbSQJnHgl OPBBjYL Eritrea 63 Smallpox YES 10-07-2021
+5790 ITkA lFIOcCrHVZuRxT Eritrea 23 Marburg NO
+4407 zsgjlHref HuChHEFb Albania 76 Dengue NO
+9986 JfgnXtMnsEsvUs XrDZgLrFNlvDEtnY India 42 Marburg YES 08-02-1993
+5884 dshsFpHJkTYh dCuifFfo Belarus 105 Marburg YES 07-07-1983
+5175 bsohoPy yvIzRSdbzcoMiA Belgium 17 H1N1 NO
+7523 sRPY tRZdC Azerbaijan 36 Sars-CoV2 YES 05-11-2007
+1074 RGAML dzr Estonia 32 H1N1 YES 28-05-1991
+9264 vgumnbIydREQsKMo dmlDTje Eritrea 23 Smallpox YES 01-04-1964
+2254 OCrohKbSeG MhcuHSCOOlcbK Azerbaijan 70 H1N1 YES 04-11-1974
+2586 DQUuZF mjhimF Chad 90 Sars-CoV2 YES 24-01-1962
+4615 IitpqAgbmR tuEldcPYVMviQOGM Algeria 60 H1N1 NO
+0195 uoxF fKESakZdrReiHGTj Azerbaijan 7 Marburg NO
+5143 JXeK UAJEbJeyUyfIcX Belgium 109 Marburg NO
+4670 imtm IyNdCbJNluoPBhkt Azerbaijan 29 Smallpox YES 21-09-1975
+2986 umDdEbXozjlux SaHgkQdnApeqGEoK Gambia 117 Marburg YES 20-06-1968
+0150 QPxfVSSvvqTBQ uakEef Bulgaria 64 Marburg YES 09-10-2011
+0231 FFmzv gal Algeria 81 Smallpox YES 13-09-1984
+0523 gAvcRDIkFJ YlpJ Greece 68 Sars-CoV2 NO
+3436 QhhXGE lxvPH Azerbaijan 113 Ebola YES 24-06-1965
+8031 bTQKNiPKIXueCEdX IEeqGgPgR Belarus 43 Sars-CoV NO
+7241 gbZ ZNIf Chad 33 Ebola NO
+2365 krnMHb NCp Greece 75 Sars-CoV YES 15-09-2001
+1202 uiTZabHVVIQtfIj QTdYtbTxgAMbGlx Gambia 118 Dengue NO
+4504 SLApuRqfbYa MefHHDPTRXFfGX Andorra 109 Sars-CoV YES 09-02-1984
+1093 OXN LJilyjk Andorra 78 Sars-CoV2 YES 01-11-1986
+5192 pDJxkTCkt dkRjfJokfGckeNL Andorra 79 Marburg NO
+5537 pnxcGRDZkmyScz UCGBVVJISdpZbQdV Canada 35 Marburg NO
+0988 lrfKV ZdZrDaP Estonia 41 Sars-CoV2 YES 01-05-1972
+0592 ToibjtdmOiHJO Rzvgn Greece 5 Sars-CoV2 YES 01-09-1978
+2489 PDVfGMzjrBqpDXjm DBjQZ Gambia 101 Marburg NO
+0714 pLKyxlc EyBSMddulmNULIm Algeria 8 H1N1 NO
+8617 bHhYtBvjDhlARtO uRzOMZkTs Canada 10 Dengue NO
+6590 VqFoiuZZegF Kbgjlne Gambia 23 Dengue NO
+7262 JyDZHcRs kxchGPO Gambia 39 Dengue NO
+6401 hxz qiYhzIRni Canada 43 Dengue YES 18-02-1987
+5114 nqsMEdLqH uAnsP Belgium 58 Dengue NO
+8668 KsbQI KqX Chad 60 Dengue YES 22-12-2009
+7482 VEQzAhvHYlFL mNHFJZsxEnE Bulgaria 77 Marburg YES 10-06-1998
+9276 zkqJMxktV GPeJgnpXRDkdT Andorra 1 Sars-CoV YES 30-10-1979
+0192 OXbcqoMVmLMZonB HthsIgfQOam Gambia 114 Smallpox YES 22-06-2017
+8465 kFzmrerxCZOb PtbPtcN Albania 60 Dengue YES 02-01-1983
+6016 eKVvYZ pVOEmiVFMfEShkOc Belgium 50 Ebola NO
+1739 occjkqSkIEmjBty Hkl Greece 85 Sars-CoV2 NO
+2066 UfOGjU QvrEtKQd Azerbaijan 64 Sars-CoV YES 20-07-2007
+4526 KDMaEfIVbjKmTlKb NMLhafLikkLUVd Albania 61 Dengue NO
+5676 uaKEtbCqBfa BAjHJkVyTfZTK Belarus 89 Dengue YES 14-08-2008
+4688 LuhkfVqNoNuT gOzEHcQR Bhutan 100 Ebola YES 17-04-1989
+0045 MSct jDsHztdu Greece 78 Sars-CoV NO
+4574 YZRLf opZyVBzhpjob India 58 Sars-CoV2 NO
+2769 aYaixTbJjO bcNP Gambia 61 Smallpox NO
+3585 Zjb xmFZuhNJue Greece 4 Sars-CoV NO
+8003 cBidIFdX PnyFZJDKLkxTplJz Greece 19 Smallpox NO
+2502 xPYTuiDqY ADkMFKzc Albania 23 Sars-CoV NO
+8482 lESXfJNxepLaoxTr PvCkzAHfLIVOYLkC Eritrea 76 H1N1 NO
+7617 FQnrZ YtAhjpFkqtltKJk Estonia 106 Sars-CoV2 NO
+3675 HikkyuCPhpFhQqB ZXL Azerbaijan 60 Smallpox NO
+1950 IPydzX orGUcbGqqRKnne Estonia 101 Ebola YES 27-08-2018
+7706 BOXMI UJnOtGjd Belgium 71 H1N1 YES 16-12-1979
+4070 oAQ nLryVgSUY Azerbaijan 61 Marburg NO
+6137 asPiEAvpXPhor IqNuBfJ Belarus 116 Sars-CoV NO
+1048 sJfGFXGSkKVpAS pUmGoZDDgRATB Belgium 104 Dengue NO
+2047 oLdtVtJNTqlhoX HuvAOfbUGdYN Bhutan 114 Dengue YES 27-09-2013
+6579 danFIMBgYJ HpPyoPcgI Gambia 94 Dengue YES 11-11-2005
+4739 GOT bMPxS Estonia 9 H1N1 NO
+2344 eGjI sBgoRZQvvUpuyMhk Azerbaijan 113 Dengue NO
+4167 ciStqLoDdQuSIRD nNnjt Estonia 17 Ebola NO
+8325 uQPOyLVqd TiSr Gambia 110 Smallpox YES 25-05-1982
+3274 uRyNgF yMk Bhutan 5 Sars-CoV2 NO
+7791 syeefkiiG AqvgjRQPDg Bulgaria 102 Smallpox YES 10-03-1964
+0761 LxhzkaRQJ LiglhXTEdUq Gambia 110 Ebola NO
+9443 qcjs QtobdBfR Albania 30 Ebola NO
+2632 LyXptoF oJXHJMsoHmeNB India 9 Ebola YES 09-07-2015
+6929 lYqoycRgOmcpKK DOduC Albania 25 Sars-CoV NO
+4676 ahzqUqoduJeBVlUa rcnpo Gambia 82 Smallpox YES 08-11-2008
+9921 IvBAXQdUYbcEOiJ cdvpEqCjmOZhe Belarus 105 Sars-CoV2 NO
+6749 mivkOJFJj BTIiQen Eritrea 87 Smallpox NO
+6793 YtMuI RlKLNtxHZZafmZZ Bhutan 94 Dengue NO
+7888 GxzFbADxgVLtEkl lJeT Eritrea 9 Ebola NO
+7834 Oseo EzJCrpLqdIY Canada 43 Sars-CoV NO
+0403 Nhz ZHuvmNcOnYci India 29 Sars-CoV NO
+0278 dyudij IlMADXghKYZ Greece 7 Sars-CoV2 NO
+3210 iBtoHv jFAPRHAktIgKjSjM Andorra 17 Marburg NO
+1089 MpOuvSTvSiK qOMsIMtiPe Azerbaijan 114 Marburg YES 02-05-2017
+6009 dZv NHtnXICgaEX Belarus 3 Smallpox NO
+5957 VRNp lFnsqjfQU Gambia 81 H1N1 YES 24-05-1976
+5164 kHGk MdaoflCndKkLEi Belgium 73 Dengue NO
+7362 qbt byVR Algeria 55 Marburg NO
+2151 emrATpeXsGlC QSBihAtyrziUftnV Belarus 65 Sars-CoV2 NO
+1165 aMrSAXHLuOacCCrC vBCU Belgium 50 Smallpox NO
+8013 aFkcxGggyznN IEdxnIqsGTalmzfY Estonia 21 H1N1 NO
+8856 TnQGKmgJjRJAmR OmfcM Gambia 34 H1N1 YES 01-10-1966
+5259 KBFYXqCzlYlgKOYV HNxTPaadRQ Chad 64 Sars-CoV NO
+0727 geeLKqUQSPNqibn UpFUMrZT Bulgaria 45 Ebola NO
+7160 QMjLUyrogoPD yiCEpFDTaV Eritrea 50 Smallpox YES 19-05-1966
+9311 HJPsbNNQp TxEef Albania 35 H1N1 YES 21-01-1963
+6491 PtGFKdtF BiOMQusQFbUDCXqs Albania 108 Dengue YES 16-10-2019
+7813 egnJsZlXDKsLtlLb LvgAZVlTsFK Bhutan 40 Ebola NO
+6448 FcQeimAzXSEkYQkX avYqjUI Canada 50 H1N1 NO
+0441 cGyXYetraYu RNRl Bulgaria 49 Dengue NO
+5391 SXIyzbDv MVFtsFCgLLPMz Gambia 53 Dengue YES 27-03-1987
+7822 MCdp ocVQddDunTs Albania 109 Sars-CoV NO
+8392 xGYhA FoBxCjCebhOFgbn Canada 59 Smallpox YES 05-09-1964
+5732 BcCNBoF ZyycU Belgium 19 Ebola YES 23-11-1991
+1163 btBfmjzeLY KMRNSjGlUr Bhutan 14 Ebola YES 24-07-2009
+0544 RogzAGfnU OTcTmGiRrJXE Azerbaijan 14 Sars-CoV2 YES 26-02-1968
+7459 Nplxaog lYiTIuI Canada 12 Sars-CoV2 NO
+2293 etz uSRHxLjnuq Bulgaria 37 Dengue YES 10-10-2021
+7438 VvVm QvXQBdlpHvZQy Greece 46 H1N1 YES 30-02-2009
+3348 xNzsBXKEJkiMO uoKKDlizbbrbg Bhutan 73 Ebola NO
+2697 qDdxGvNjkEfYnvnX EiQXuOxndXoZz Gambia 107 Sars-CoV2 YES 20-08-1989
+7509 PKRpOUpclXJpCu HfS Eritrea 87 Smallpox NO
+1396 ZbeQmkC dbngkYc Andorra 89 Marburg YES 29-05-2007
+5443 lKhdqcUpPpOTIzP JuaP Belgium 5 Smallpox NO
+2427 RXgGgqIUiS ZHVAuiBmYVUo Chad 12 Dengue NO
+0416 rfkgkndpCx OQhi Azerbaijan 47 H1N1 NO
+0800 zdo EFovonrdRxAlh Algeria 89 Dengue YES 15-01-1992
+8580 Yfyt iPS Andorra 72 Marburg YES 19-08-1968
+4189 RZOTzEUvLcCdC KOsYOrd Chad 20 Sars-CoV2 YES 25-12-1987
+2983 UGaallyzTsoJSODe sQu Bhutan 61 Ebola NO
+2389 GnCGvy hhanur Albania 94 Smallpox YES 17-09-1961
+1768 oabq tniYFXA Gambia 51 Sars-CoV NO
+8134 fMmcUUSpB GDrvOehnZoR Gambia 119 Marburg YES 08-01-1975
+1378 ZyRMnYsXCTYZIhiq KdfbMmCZPOS Eritrea 108 Marburg NO
+0708 nCxTr LaurJjeOKGTkr Belgium 18 Marburg NO
+6218 NrHYpjZAzizbFQ NrZqLAvbRESTH Belarus 39 H1N1 YES 27-07-1999
+4710 kTvSyGBTsdlr UZfgquVsDaHHI Albania 25 Ebola NO
+6871 VTICbyf ygcKave Greece 73 H1N1 YES 06-11-1976
+6287 ZcJiCnPIeyJYjxZ JEzNYDfM Belarus 69 Sars-CoV2 NO
+1381 gOHSVhYtNb cSMBA India 59 Dengue YES 29-09-1979
+6767 bSXV ZqSJZvzaG Canada 20 Sars-CoV NO
+6254 KKFavDZRJryDTix DEje India 119 Smallpox NO
+6714 AztCivPfXLTcSMPn EHFtGkqQDCDMrF Gambia 89 Sars-CoV YES 02-07-2014
+1550 BntdMXC fbmobFO Bulgaria 95 Dengue YES 19-08-2021
+8136 KDNormx PIgjVlXLpsrAijF Albania 11 H1N1 YES 13-02-1999
+2606 CjBRLTneXukMlBK avzOrDgUQhKjM Bulgaria 108 Ebola NO
+2708 fir GAQByKOi Azerbaijan 116 Marburg NO
+1656 RXkvmylroEcFxxT RAUjonm Bulgaria 62 Smallpox NO
+8286 PjFZRPCzZ tvYFurhkcLTyiVEb Azerbaijan 59 Dengue YES 26-04-1966
+0649 nUMtHsD qgSOvCpe Belgium 36 Sars-CoV NO
+4146 ZvlC YNEehQeyFo Belgium 9 Marburg NO
+9630 uCxpaTj zljrJI Algeria 6 Dengue NO
+0198 nJhESKBmlDBNDNnn vuZ Bhutan 66 H1N1 YES 23-09-2006
+2422 azcEtEbuluBUSL rdK Gambia 116 Ebola NO
+6201 JaXsFKzECP SDJOd Eritrea 12 Sars-CoV2 NO
+0792 miDrY cNj Eritrea 88 Smallpox YES 14-09-1962
+9810 tVOhkkjcVC cRzKNZ Belgium 18 Ebola NO
+5454 ysaeVCeYnzIEc DVG Gambia 77 Sars-CoV2 NO
+4119 nfQsn vxQskYPzY Estonia 37 Sars-CoV NO
+5688 aVXRnCZkZxF KnCPekPNfdOFGLSA Eritrea 49 Sars-CoV YES 06-12-2016
+1338 jVrhxOQTgjXULhbF PMqrAoxsshFN Azerbaijan 8 Sars-CoV2 NO
+6539 BIdQ pAqdj Gambia 110 Sars-CoV YES 22-11-1985
+8611 eFaJp YBvfEEE Azerbaijan 32 H1N1 YES 25-08-1996
+4612 uMcGjpim ifeEaiJzYnRYbXe Belarus 78 Sars-CoV YES 15-07-2008
+2064 JLlZLD Gnt Gambia 59 Sars-CoV2 NO
+8364 rLcbfv nCHsUjyp Estonia 14 Dengue NO
+7840 nisigpkS nqSVMsZaJ Belarus 80 Sars-CoV2 NO
+9387 lePcponmbtO QhfGefihBPeQrm Andorra 100 H1N1 NO
+0619 bASFNUqhTxD lieDIeByxPiUCAvn Azerbaijan 96 Sars-CoV YES 12-06-1990
+3110 qBLnsRj VLK Canada 97 Ebola NO
+5091 LEQCGH ZumbCuNT Algeria 119 H1N1 NO
+9572 MbaEgiiCXKnAl FBuQJJxpjKoz Estonia 7 H1N1 YES 19-12-2021
+5699 AisctagFAnBStizP mjsiIDj Chad 91 H1N1 NO
+7693 LcHiTQ Vgc Bhutan 99 H1N1 YES 09-05-1981
+9995 IZsdboLRXDJER bYqlcGKyBgLYrXgI Greece 34 Smallpox NO
+8800 lUIfAMfSEtV lcfHtCZAaFHjYvHG Canada 74 Ebola YES 11-04-2007
+2337 qioS yyqoIBkXZbbMOt Bulgaria 67 Marburg YES 07-04-1983
+4654 GybDRYzFU odLh Belarus 35 Dengue NO
+3629 DoMqU vfVNe Bulgaria 93 Sars-CoV NO
+8879 mRYtviDYO MbfMdHiFgyEqE Azerbaijan 38 H1N1 YES 14-08-2014
+6461 OykOCaxuOpu fzGbXtZ Belarus 29 Smallpox NO
+2778 imXgxsF TFjvbVEOxgD Bulgaria 34 Ebola YES 09-04-2001
+7933 JmBg cTSFfqQctca Greece 36 Smallpox NO
+8084 KFyNOZNrgjC PsLdQGhQ Algeria 69 Marburg YES 04-01-1985
+0900 TQvSUGqFdegkLt fLDeLqSQp Bhutan 11 Sars-CoV2 YES 01-09-2009
+2527 ukDcCeynCLPiZ ScJvmUMQMUoCle Chad 14 Dengue NO
+1979 QQTmNieH tTyXhaaeOp Gambia 90 Ebola YES 11-04-2009
+7808 YcgvzdqMqxYV evPhKeADVESt India 26 Marburg YES 26-05-2017
+0984 jxONHt KnEZjAehUrSqK Belgium 31 Sars-CoV2 YES 29-08-1971
+5792 nyueEVfCKvTX JGAmgrFIyk Gambia 104 Ebola NO
+4335 ivPANhNND uQIsGb Bhutan 100 Dengue YES 18-01-1962
+0506 QIKeoNzp OhezpAcgqeBu Eritrea 76 H1N1 YES 20-04-1988
+6055 noZe HVhIve Chad 105 Marburg NO
+8906 XtLYUpKNV oQcQgCVq Gambia 37 Smallpox YES 01-08-2012
+1167 sNhgPivxL MPTLJHNO Canada 96 Sars-CoV2 YES 26-01-1995
+2273 UIqfmsEcFxkfy uTjqnqtHKvcSdgSJ Bulgaria 109 Ebola NO
+2134 CCcArslibCeP oYAPPSvuKzX Albania 47 H1N1 YES 20-09-2016
+1721 UqOb EVBTxkjFfgcLZP Bhutan 113 Smallpox NO
+5444 IRLP cYGRyzrnU Estonia 54 Smallpox YES 11-10-1993
+8611 eFaJp YBvfEEE Azerbaijan 32 Dengue YES 23-01-2018
+0259 CSBqP FSCqT Greece 85 Ebola YES 16-07-1984
+2078 iIsRDmUu IkFZPD India 24 Sars-CoV2 YES 05-06-2012
+0058 rXEUCUQc pdtbAu Algeria 25 H1N1 YES 22-10-2010
+8982 yuRynkAtfAEQIaBd MJgvTnKPkEU Greece 40 Sars-CoV NO
+8013 aFkcxGggyznN IEdxnIqsGTalmzfY Estonia 21 Sars-CoV YES 02-01-1978
+1816 PLbJtiHmTCrkUiDG UBFGXEIgMjdk Bhutan 72 Dengue YES 30-01-2011
+3088 JfGKp cGAvRBPsoKQJ Chad 40 Smallpox YES 16-12-1986
+2415 UeaOTFK xzVhfLuRrzx India 92 Dengue NO
+4055 olhYgSiiIF ACjoQkEBuHpHGCLr Albania 76 H1N1 NO
+7498 eoS QLUekBZudAgsI Belgium 46 H1N1 NO
+0007 xPdGdTndRNM SnoMqecpJgbDKxPH Estonia 42 Sars-CoV NO
+9986 JfgnXtMnsEsvUs XrDZgLrFNlvDEtnY India 42 Sars-CoV YES 25-07-1984
+2407 qkAMMT zmtc Bhutan 117 Marburg NO
+6442 rVRRxkb spSNHTvDla Belarus 41 Sars-CoV NO
+3898 JBpAkQsi NMpFYuHcRaTf Bulgaria 80 Ebola YES 14-07-1998
+7372 JGjnHVj XttygPdNdaHlEE Canada 119 Sars-CoV2 YES 25-11-2011
+7163 ntdVphMpPIY hsLGy Belarus 76 Sars-CoV NO
+9720 HLjZjl McJugaeYClik Algeria 6 Sars-CoV2 YES 24-02-1976
+6487 dUDNMmsT iptr Algeria 66 H1N1 NO
+4553 DvNcSvdrGeAzpnd EsYimTXiGfIEbZum Gambia 33 Sars-CoV YES 14-12-1993
+8650 gbezjm ZOThqpQSYCF Eritrea 37 Ebola YES 19-09-1976
+7909 SnjVQkKovecQN aYB Chad 68 Ebola NO
+1824 FfbGba sSEUFriQ Albania 43 Sars-CoV2 YES 23-06-1997
+1851 SBSBbPeJzbXcbAlU HsdmYqSc Canada 25 Marburg NO
+8682 gmttmFNEDZgNpa tdyGphDmfDrlU Bulgaria 97 Marburg NO
+8048 JagidDRNAh RTGvhxJRShpCKt Andorra 108 Dengue NO
+9323 UbxBtlDhoAru eIgaQzBd India 65 H1N1 NO
+5222 ILDfSZAJyoKARSM uzeHpaCVCVtkBuy Eritrea 90 H1N1 YES 20-09-1987
+7130 JIb KdqIE Azerbaijan 40 Dengue YES 19-02-2006
+5672 FVxxNNybx URo Andorra 105 H1N1 NO
+6864 nhSbeT KoYiCHqGUG India 21 Marburg NO
+3715 LCbdcH nfeKb Belarus 50 Sars-CoV YES 19-11-1980
+3540 mXMkK iTPVxtYS Azerbaijan 20 H1N1 NO
+4553 DvNcSvdrGeAzpnd EsYimTXiGfIEbZum Gambia 33 Marburg YES 09-09-2017
+7211 ZFHBoflOFoJjmmrp RuIKKGCMMobQrfvF Canada 63 Marburg NO
+3829 Rkf QJBbteJeoIr Eritrea 32 Marburg NO
+8771 AoyRTbFlK kdPEkzejzXRHmCD Algeria 114 Marburg NO
+2913 GNfpOKS xfNTSxkZMfp Gambia 86 Sars-CoV NO
+8058 TsjDveZM pDThD Belgium 43 H1N1 NO
+7955 rlgpY fSLJMGmKmxFfEho Gambia 88 Sars-CoV YES 14-08-2003
+6658 ukFSIHljcU SFL Albania 21 Sars-CoV2 NO
+4169 VoKQ UmUNxB Canada 113 Ebola YES 13-09-2009
+3167 bLQVqePVRUb ToUyVan Gambia 44 Sars-CoV2 NO
+2269 GrjqJkYd aobIHhJsf Greece 58 Smallpox YES 05-05-2001
+7758 naNZHZKn ELDuKdXZTfIH Bhutan 108 Sars-CoV2 NO
+4652 NaateLvUHdo EBJFfpgVEXs Estonia 58 Ebola NO
+3210 iBtoHv jFAPRHAktIgKjSjM Andorra 17 Ebola YES 12-05-2017
+3061 mjtIBORSNFVz vPqBnAlM Estonia 77 Sars-CoV2 NO
+8460 rgVaxBZIbyoVC HuP Canada 54 H1N1 NO
+1070 VXYFIgb bRxeZzTlUVnRkch India 18 H1N1 YES 13-06-1993
+9781 jSaqs IUzXolNYkJpKl Estonia 89 Dengue NO
+2431 OouJrcNT ESTczzhOMHbLyv Belarus 89 Marburg YES 30-12-1992
+6502 kOKhQBqpTsg nxZtdasPsiiNSUI Algeria 2 Dengue YES 10-07-1994
+3509 URvJEXei SEARbmIQ Belgium 51 H1N1 YES 12-02-2015
+5349 CjkxLsauhAup mEi Belarus 83 Marburg YES 18-03-1988
+9823 NhqoFoRkKz pjMKneXJfcphOCmh Eritrea 42 Sars-CoV2 NO
+4131 Mod NRVEHCOTE Canada 85 Sars-CoV YES 19-01-1973
+2244 AnKr dgpTLHGNjMirooi Canada 34 Sars-CoV2 NO
+0287 JrKOcjp EYOZvtgcHShbpf Belarus 15 H1N1 YES 05-07-2000
+7916 meCYzJfi DtcxNNJjNuHDjoGF India 32 Dengue NO
+1398 VUtmibA FjfVEpYyt Algeria 98 H1N1 YES 14-12-1996
+3872 uLVsoNqn CbIodJL Greece 8 Sars-CoV2 NO
+0083 LNaECsbLdl dYTLkyeLqhADvy Eritrea 86 H1N1 YES 29-03-1974
+4124 rSMyffzebmRyL JRdprzPZu Azerbaijan 91 H1N1 NO
+2225 RfkHB phdSKzubDA Eritrea 107 Smallpox YES 07-08-1985
+8526 toAdU IorPQjLuDTX Estonia 66 Smallpox NO
+0386 Tal sOkHveYVLocLhkk Estonia 35 Sars-CoV YES 02-08-1980
+7523 tQTDkGUxxKqt pggOdlTZIktAt Bhutan 78 Ebola NO
+0956 YNKUe KSCAadvTFGHlu Belarus 70 Dengue NO
+8683 Vpm lAB Belgium 31 Sars-CoV NO
+8870 VInz uIhv Bulgaria 65 Sars-CoV2 NO
+6649 VNQj MMdoKvQyCmxh Algeria 68 Sars-CoV NO
+4927 OIlFt JttuEOPCzk Bhutan 64 Smallpox YES 12-09-1992
+4670 sIrnPr GafGTFev Estonia 79 H1N1 NO
+5224 KUxDsT tOMCGdGpAoiElY Albania 57 Dengue NO
+2560 EZLdAAJUYzykX xtu Bulgaria 58 Dengue YES 06-10-1962
+0123 fUVyMpBkJqNAnul YEbVjjjVll Bhutan 26 Sars-CoV2 NO
+7239 tyiIXiS tclT Belarus 112 Sars-CoV2 NO
+2874 YJmJtO DQjMvjI Algeria 3 Sars-CoV2 NO
+1570 cyJ dHZ Greece 3 Sars-CoV2 YES 14-09-1968
+2343 LDJTPc VSpyKquF Bulgaria 57 Sars-CoV YES 16-07-2017
+5842 xNpVboUzBpzN QLhOTQbHhODR Gambia 93 Ebola NO
+6004 GrTfDITquFdjK ZeOKBiLtZsbBLZ Greece 82 Sars-CoV NO
+9858 MuoyTJbBD YRLNRrUVRqhuYQ Albania 52 Sars-CoV YES 08-10-2011
+2707 nMcJ GQTveV Andorra 105 Sars-CoV NO
+3447 zyJo veZiGtLTSdREvVT Canada 5 Ebola NO
+3834 BlFSKVRsp qBRM Canada 7 Marburg YES 08-12-1989
+8932 camUu ZseJfpjvRDIZOe Canada 40 Dengue NO
+2430 INorPBFaF YvRsjuqIMauAM Belarus 52 Sars-CoV NO
+5773 PFJK hVJKj Canada 113 Sars-CoV2 NO
+1993 QvnCqHPRQurU gjpryFNuF Canada 104 Ebola YES 07-03-2005
+9157 gYYJpuPsNLolHo pheCtpNQy Albania 44 Marburg NO
+1279 rKqpfjOXIq zKs Estonia 81 H1N1 NO
+3846 hgO ndoAIO Belgium 58 Marburg NO
+2239 gzBZv gnohkf Belgium 105 Sars-CoV2 YES 29-10-2002
+4940 AltzoKgfMkZb suYXXVPBxqNr Belgium 92 Marburg YES 22-01-1983
+1370 VNpvSDbyVDavHHbx LYYcgZyKv Belarus 101 Dengue NO
+6967 hmhRlqktVLlgUY SMvXVYgfxEUkfBA Albania 69 Smallpox NO
+2328 BLffyhlvE RXTiYQIdtZSjtc Eritrea 33 Sars-CoV2 NO
+8309 ltOU ttSvfLyloFFElr Bulgaria 14 Marburg NO
+3594 YRdaAQCdVflOP gNvpZ Greece 61 H1N1 NO
+4010 XhdOFKTg zOJryNzuuuAA Bhutan 54 Smallpox YES 20-07-2011
+8709 AuPPJJBBloYPm YATyKdPNaKnpaQ Canada 51 Marburg YES 17-10-1981
+1857 CzNfGE TOgyuZ Bulgaria 94 H1N1 NO
+9947 qzTcNMumBdOH cKTTXlIFIsxzI Belarus 40 Smallpox YES 22-03-1991
+6445 sRcVruFpDaNEcPu HZGGvHoQIOumzX Azerbaijan 107 H1N1 YES 19-03-1996
+5826 skbUpbMSRsMtVp ASfbLqRsJ Albania 90 Dengue YES 27-06-2011
+2171 JHIjN Ulhdt India 52 Sars-CoV NO
+1696 HpztvIaJvBViyBpr Vftp Estonia 75 Dengue YES 04-01-1989
+0475 Kskq ifFlfsuShBmpQa Bulgaria 18 Marburg NO
+4143 NqX cOSphGGUKhttb Bulgaria 38 H1N1 NO
+2479 RupX IcaxAitA Algeria 29 Sars-CoV NO
+1592 yUO BUzFxpoUHh Bhutan 79 H1N1 YES 15-05-1974
+3140 KSTR mqMEgoeBIAexi Azerbaijan 4 Smallpox NO
+3260 DXQutqMr XMegGKP Albania 49 Marburg YES 27-03-2009
+4872 JaYlpJdSAfJDVsa FmH Bhutan 101 Sars-CoV YES 01-02-2012
+2500 ALXAKfTkpUERCE prnjLdhgIunSiPtB Eritrea 116 Marburg NO
+1185 lHaSm tZQ India 115 Ebola YES 20-04-1972
+1336 lCZEQEmbImgjcSp UNcHfheOjSkXNngP Bulgaria 30 H1N1 NO
+2228 ulBVC ZcdGQedMIQ Belarus 29 Ebola NO
+1113 VssSyqo fdDjaEb Eritrea 8 Sars-CoV2 NO
+7056 RKF UTOtUbdJiKfoXFz Azerbaijan 71 Sars-CoV YES 20-01-1980
+8496 RQjP BGxySLLb India 47 Dengue YES 15-07-2007
+1007 IHEitFzRj nHrZSdf Estonia 6 Ebola NO
+6504 EEiLndsIzlfvRnt AnYJFvHQV Gambia 52 Dengue NO
+6997 ZCIf vIBzpDsnrbQtaq Bulgaria 18 Marburg NO
+0237 Aoq mTuMUVKcIEryLso Azerbaijan 37 Ebola YES 29-07-2000
+9613 GFdPtffGtYIMtMqH dkcuBDcEh Bhutan 108 Smallpox YES 17-09-1978
+8554 nGUSlEGzsgUIIceU KyAaE Bulgaria 46 Ebola YES 07-12-1996
+4472 ErxJR HrztTQnJle Azerbaijan 61 Marburg YES 15-09-1986
+1371 ttz JrNIqY Bhutan 59 Smallpox YES 22-04-1980
+5912 lyPNPYptdZV usqdMdJDtPMqb Canada 67 Marburg YES 05-07-2003
+2619 RXEXqmumjk IaupvKepMzD Gambia 115 Marburg YES 21-06-1982
+4385 qgkTkNvyvJRC HjnJueqYqdj Bulgaria 111 Marburg NO
+3600 pTAYdk VIgbHRubqlHXixSG Bhutan 61 H1N1 NO
+4721 tryOT kLZkVrfSuSSjsTip Belgium 112 Sars-CoV2 NO
+4203 bfGUs KEEOPzt Algeria 8 H1N1 NO
+1769 zVoYKnYpuCQjt iKBIsxS Azerbaijan 81 Ebola NO
+5760 oOYUo HGJX Bhutan 108 Ebola NO
+6707 QVDpaGyazTl UshI Belarus 46 H1N1 YES 29-08-2018
+9736 ydT HYFUS Andorra 11 Ebola NO
+3542 lSGJ sAzzsYxCmsHFA Belgium 116 Sars-CoV NO
+3629 GpiGb XiivJSvpQLsBmOB Azerbaijan 56 Smallpox YES 10-03-2016
+3844 PxvtlsLyyelxh rpvrGZoCferqpc Belarus 38 Dengue YES 09-06-2013
+7003 PcUArkP BxYxqIFocpJlBb Bulgaria 20 Smallpox NO
+7602 XjDyg rKEimSjsnpfD Azerbaijan 116 Dengue YES 18-10-2001
+0337 TkNbV jiqMMIrP Albania 63 Dengue NO
+2607 dVN MCCDxaaUVEOy Albania 9 H1N1 NO
+5428 iIvHSIGuZblD AeAhZqdMLytygy Greece 15 Ebola NO
+7571 yVFhxqcA pmnjbpoNMul Greece 113 Marburg NO
+5131 OHhPc thVmsPxrXRRjA Canada 8 Dengue YES 27-10-1972
+9669 QXmUyilTl eSDGYAiKIz Eritrea 15 Marburg YES 23-12-2010
+1209 lXhaC gSyaf Andorra 15 Smallpox YES 12-04-1993
+9498 szRUJjDgttg lZlkDsDpDx Estonia 66 Marburg NO
+0267 uOKKVkzhGJ dPvauTpyFljfEb Gambia 105 Marburg YES 30-08-2018
+9349 PYFPD pYmetq Albania 84 Sars-CoV NO
+7216 aFPyaCuEuXmFcCSy ECSAVKjpUYdmbKd Bhutan 69 Sars-CoV2 YES 30-07-1983
+0192 CzXYqeflPTl zQorcfMrOKyIUc Albania 97 Smallpox NO
+2005 zlvyUHLQu oCJEJkOIXcInEBo Chad 65 Dengue NO
+2602 PZNTIxzMz cnIUboYEFgNdrKkS India 105 Dengue YES 26-10-2010
+9349 YZGxZ eYTvrkgQquGFcrXs Chad 29 Sars-CoV NO
+9441 hSjSGPq VPGDBdulSUXpUKpL Eritrea 73 Sars-CoV YES 07-03-1994
+6739 QjPDDO Etd India 96 Sars-CoV NO
+2477 rORP BMNZuG Algeria 13 Sars-CoV NO
+5441 cfzGBqor TfXJxh India 8 Marburg YES 16-01-2016
+9465 huaEALXXfZyDa UKDzArMJH Albania 107 Dengue NO
+9507 KBzQiIosjC cgEClTmHxTsOSsPC Belarus 87 H1N1 NO
+3706 tSVcVFkson UuFsl Algeria 87 Smallpox NO
+4404 AfD QqSPjJeG Greece 98 Smallpox YES 26-05-1993
+8147 vNHjrtKQzkOo UhL Canada 13 Sars-CoV2 YES 17-02-1980
+5467 vdGz kOKfms Azerbaijan 110 Marburg NO
+2110 ESkkXtssBgOa kMtoqNGAMQS India 39 Sars-CoV2 YES 30-02-1997
+2544 mifMq hkCSix Belarus 42 Dengue YES 18-10-2003
+0640 GzvTEOkTmrNnC SfjkSXBMVSh Algeria 14 Dengue YES 06-02-1990
+7624 xsLEctOigaXMTmJh kLUjKIruLTKx Azerbaijan 102 H1N1 NO
+5122 zcm bskmOKJBdrQxf Greece 34 Smallpox NO
+1866 MvroSY htxdomJfnyTil Eritrea 99 Ebola NO
+9136 uxgH ZajACc Bhutan 5 Smallpox NO
+1304 bfNzvbp Cxfs Belarus 10 Dengue YES 20-09-1981
+9556 cOpDu frBrV Chad 72 Marburg YES 17-08-1978
+7706 TbP FvRRRrpZlvqT Canada 81 H1N1 NO
+8520 aVVHC pHHLkOIVoq Estonia 114 Ebola NO
+2340 Xgjoi VNVUrt Eritrea 63 Sars-CoV YES 13-11-2013
+4785 BtXXDOMYqGynZHj NoiIPyptMSv Canada 11 Ebola NO
+8484 fLueTGSiOy PzhBu Bhutan 75 Sars-CoV2 NO
+0421 Yyp IbglNI Canada 111 Ebola YES 25-02-2017
+0129 qiRD UqMoXhYJi Albania 42 Marburg YES 21-02-1975
+5116 BAxAdMFiTLtvKvRD qCTvODoYZMNuIo Bhutan 44 Sars-CoV2 NO
+5523 xfdU mOvaHiTXpAlAJQ Estonia 36 Sars-CoV YES 02-09-1961
+5480 SjNTXbTDh PmaRFYtjTLug Gambia 82 Sars-CoV YES 13-08-1975
+6661 uNQkGE SuR Gambia 115 Ebola NO
+4051 COFDuTzazx vKC Eritrea 34 H1N1 YES 01-11-2009
+2426 INvD CiEYxppq Albania 48 Smallpox YES 19-08-1965
+9007 YfyOxetOxuxh ZnGPGU Eritrea 92 Marburg YES 03-12-2001
+0159 NvCjmPfJpNjTy tXEkJ Algeria 14 Dengue NO
+2536 tqJHqHbNTyRpkMVf QyVkxHgCZaDasa Andorra 29 Ebola YES 09-03-1999
+1448 ZQXNgA BsguvikIu Canada 119 Ebola YES 29-02-2005
+1675 isE HmmyFtTyXm Chad 66 H1N1 NO
+6621 QgNlQJFcHtbCA fKHfFXlGYUhBtEdb Gambia 54 Sars-CoV NO
+0165 UprSm FpziB Bhutan 23 Smallpox YES 22-10-1970
+3879 sIlUFzhIkLzctK UazBGJKG Canada 53 Marburg NO
+3199 ynYtq AnyxAiEAMuh Estonia 59 Ebola NO
+4034 cVux fEfeEmqdYzdQ Canada 27 Sars-CoV2 YES 29-04-2000
+0010 SNfLZmsKIEH nxUVrckKgKeAEpq Azerbaijan 5 Smallpox NO
+5619 ELXqmvaKJ OHVI Andorra 83 Sars-CoV2 YES 28-03-1986
+4332 JFNVFXXuiEPdBM OZbBnm Eritrea 115 Marburg YES 29-06-1971
+3330 aejefunbCRG potUmKmFLqjxgSFs Bulgaria 4 H1N1 YES 08-04-1996
+2816 KtzXACLKxkhoVy tHXymBzJpLxORQIK Algeria 31 H1N1 YES 05-09-2018
+8877 YhOj myZOQ Chad 90 Marburg YES 09-06-2016
+7844 QKCxCRvoLqtB ePYVdFiHlDcTipG Canada 8 Dengue NO
+6947 NPlnSToCiZrgY vcRjIZ Algeria 23 Ebola NO
+4193 luBBB hRYdHRqm Bulgaria 82 Marburg YES 13-10-2019
+9106 ADiEbkPm rBXpTScyz Azerbaijan 28 Ebola NO
+3158 XcgsQoEuJd oAqKufCmMmuKr Greece 32 Sars-CoV YES 05-12-1999
+2061 HCTr SFlnlbNvElQMZl Bulgaria 7 Marburg NO
+3872 XZLp qAUQJIVDRSYZ Belgium 8 Marburg YES 16-03-1985
+2500 hDEIe MQVBED Bulgaria 70 Ebola NO
+0455 qyhV KEkKF Estonia 77 Dengue NO
+3545 AgPx QrXKrGErozvsbqy Gambia 100 Sars-CoV NO
+2329 vazRJ eyuKYdsxxybqYJ Gambia 21 Smallpox NO
+9616 DZnPZENuUU QPKjcHFCIVUMF Bulgaria 89 Marburg NO
+7080 OmDHkhIGZGoxkmq CUqkxEeBib Bulgaria 106 Dengue NO
+8261 GMozxmGlZzgvCrq tIxZOLm Belgium 106 H1N1 YES 04-06-1962
+5978 BZzdSiDmLP QnpSaumDoe Bhutan 54 Smallpox YES 05-01-1968
+4222 KoOvS SluSjqAsVQmEqa Azerbaijan 99 H1N1 NO
+2503 BhcTYx gICSYU Chad 3 Ebola YES 13-08-1988
+9334 mgK ZDDYEM Eritrea 13 Dengue NO
+9358 xSZhBMlpU KzSYFNSK Greece 119 Smallpox NO
+8590 nRqPuyqpsHYdmK aqpanqmazxIiH Chad 105 H1N1 YES 11-01-2005
+6544 iuZKL KCuaxx Bhutan 18 Ebola YES 05-03-1985
+7992 TlUfmbbIijFqix iuYFaGIbzTaDOmvP Estonia 50 Sars-CoV YES 29-02-1983
+5637 GOsabtEK YUjsepNrk Belarus 54 Dengue NO
+2098 BdkhtONKzO ouldpccAvEySyd India 30 Sars-CoV2 YES 17-11-1966
+2722 aeAmp NZBAjjXO Gambia 28 Dengue NO
+7668 LJJtmRPryhF tSZGar Belgium 72 Dengue YES 06-12-2020
+4350 cpnCJEzxorR gTFrJHdaKNeVcLH Chad 40 Sars-CoV YES 18-11-1997
+8534 UkgOjraqY lpsnobl Bulgaria 90 Sars-CoV2 YES 13-07-1971
+4996 mUYOrNNxgnKGRUXa bAGDhrrGcEqGus Bhutan 35 Smallpox YES 20-06-1978
+6337 UUoQldxnceIIhAfY fHRXUfjddJ Eritrea 106 H1N1 NO
+3333 jZrDLCBoGhcPBU hOVQvVYHpTkK Belgium 26 Smallpox NO
+2377 JZl eejyRS Eritrea 118 Sars-CoV NO
+3093 CPgtQT BAaqzHF Algeria 69 Marburg NO
+1953 AbjSMKNLTVicbNtr VvdVBMacittQigy Azerbaijan 23 H1N1 YES 11-01-1967
+2283 Mlc CGHtdnXDmkaKhP Bulgaria 8 Marburg YES 25-11-2002
+1944 xbOHJfu ndHeEeB Albania 106 Sars-CoV YES 19-02-1986
+2658 afqqTxaSsL gTRubATLJuYlPF Gambia 93 Marburg YES 05-08-1978
+3497 YfVSR MhGifPCEuznaE Estonia 100 Ebola YES 15-06-1992
+3213 BNpiopqThEXASF eUrLfuoZR Estonia 94 Sars-CoV2 NO
+3744 tsadyOJGskjKAIXY HcStKEmQKpKufHMa Gambia 103 Sars-CoV2 YES 07-06-1986
+3365 UVn VHsvIl Estonia 68 Dengue YES 06-02-1989
+0737 ciqQ nyXhqJgcVuTdTxT Estonia 43 Marburg YES 03-08-1982
+4974 eGyyKdJqJk JVqYGpzfyIRqKp Azerbaijan 72 Smallpox NO
+3323 MOpSIQkUjhC MLPrvKilUxQ Estonia 119 Sars-CoV YES 09-03-1986
+5732 BcCNBoF ZyycU Belgium 19 Sars-CoV YES 09-09-1984
+3480 kXarBPyvDjfyJz mSdmOPCZoHTZ Bulgaria 1 Sars-CoV2 NO
+8124 qJpgCPqUHeTDZxiA NOz Chad 52 Smallpox YES 25-01-2015
+4646 bBeCVrOu INSllPMkPqJC Greece 22 Smallpox NO
+2311 lLmBvGrjxIKa vXpzvrFfcj Bhutan 102 Sars-CoV2 NO
+6404 EtXTmyzhyl gMBGmghuruQU Gambia 10 Dengue YES 14-07-1987
+5566 iEUvTQzZan NnzYJ Chad 114 Marburg YES 10-04-2015
+4442 mOiu ZXSpvHFtxJIynmXj Bulgaria 119 Dengue YES 14-10-1978
+5845 kqARoktHfPS iOATMvP Azerbaijan 92 Smallpox YES 09-05-2011
+0727 aFf qSnkE India 46 H1N1 NO
+6431 bUmLoyQzF hVNm Albania 87 Sars-CoV YES 28-10-1975
+7729 CtmBtRhCVNogHJUm PYmhQoFlnLIi Eritrea 91 Sars-CoV2 YES 12-05-2002
+1421 Mhm FYIlOuGuPogMunek Azerbaijan 8 Dengue YES 06-05-1974
+4283 DzDadaUzv aLpJLSiKfRMUo Azerbaijan 82 Sars-CoV YES 26-02-2001
+6279 pCkfLuJNDmSCZzK TSYqekFzhXSx Belgium 113 Smallpox NO
+0372 KydaE uZVovn Algeria 72 Sars-CoV2 YES 28-08-1961
+1530 RGq Fli Belgium 2 Marburg YES 07-11-1983
+9875 TdYjxM jskJfNHxVja Estonia 21 Sars-CoV2 NO
+2538 Ivc uzx Albania 75 Sars-CoV2 NO
+9364 XjflHClc Liqsr Greece 113 Marburg NO
+1357 SGMflSPNkBxV Hqrc Belgium 85 Dengue NO
+1148 YYxxt gsnQjDSQ Albania 42 Sars-CoV YES 02-05-2017
+2823 mhUkDeNMH dlnysguO Estonia 85 Ebola NO
+1685 dMG jGMdOC Belgium 27 Marburg YES 28-04-1980
+2275 qlIoJNnLZnBS PfymnPSjonnlVj Eritrea 52 Sars-CoV NO
+2130 Ihyo ZGYhppjQpyZ Canada 14 Smallpox NO
+1217 kDqKuBp nOMrDoomtuyFjmX Algeria 118 Dengue NO
+4016 ImocxbQI giAZxvNFKd Azerbaijan 55 H1N1 YES 07-08-1966
+2300 UZsvmJJ mHqVBJGExiyzVxrN Azerbaijan 73 Sars-CoV2 NO
+4041 jySxPxXHnOvpIa FzQlHFaBeYHbVqd Eritrea 50 Ebola NO
+0279 qdxY Rua Estonia 78 Sars-CoV YES 27-03-1966
+0847 VUFqXgHBx XMNKTYgnZAHKbo Azerbaijan 96 Marburg YES 01-04-2003
+9003 mZmEsqgE UalcxXtCAuqerD Belarus 70 Ebola YES 30-02-1962
+2217 rosymjpKJhc fmTRTFdZ Chad 26 H1N1 YES 13-06-1986
+8725 CljMOiFFJNJjN eCI Bulgaria 60 Marburg NO
+7937 BsZloN inhevgNqNeQoJdvc Belarus 30 Marburg YES 19-10-2016
+2479 ape oKh Estonia 48 Dengue YES 02-06-2005
+9680 dPN krsqZIIP Gambia 17 Dengue NO
+2320 UoyO edns Gambia 29 Dengue YES 20-10-1996
+3935 uRktlUpy sZHYIrzQmQ Algeria 1 Sars-CoV NO
+1291 jXdYlSxRf tnEEvfCYXhI Azerbaijan 46 Smallpox YES 17-10-1977
+4729 vdsKGuyQi dRrLDKzra Belarus 69 Marburg YES 21-06-1998
+3409 bQExUyjElpsHI RjVrJjMlNuOv Estonia 70 Marburg NO
+8626 ELl rVQDlLoVghaMzTM Greece 104 Ebola YES 26-09-1988
+8618 EUfCChFMcOJO vdguEzBPO Bulgaria 78 H1N1 YES 16-01-2008
+8384 lRUGAtVYKkaYSgn oSMAINU Azerbaijan 115 H1N1 NO
+1585 sLqaEIcZbjkm XdEmlsGJIaYOR Chad 92 Marburg YES 12-11-2003
+3241 cpoveRXXySheXMP rSmpcXfl Bhutan 28 Marburg YES 12-08-1984
+8283 rfRbYjRK hjNkTyAurjSFZN Azerbaijan 94 Sars-CoV YES 30-12-1987
+9205 ihdOcHi xfsBYDybgqDvCBb India 32 Sars-CoV YES 29-12-1969
+2329 TnBQ altcvht Algeria 6 Sars-CoV YES 16-10-2015
+4035 OHf DBocqJpNedlEU Azerbaijan 17 Ebola YES 17-08-1988
+1438 MeapSsfmTvH BAqgZIuH Belgium 8 H1N1 NO
+8757 rBNErLNM ffPglrDdoxHN Azerbaijan 29 Sars-CoV YES 11-09-1973
+1015 NgVU AQMDMokuvKN Estonia 22 Marburg YES 06-10-2006
+6276 kHEivBlfOEZoP gBnRDrEsYvAOdh Estonia 19 H1N1 NO
+7853 OjvXMgXzVCa zSVlmMpLSfD Bulgaria 28 Dengue YES 01-06-2005
+0532 LEbtbXrNh ptLeGjn Azerbaijan 77 Ebola YES 28-07-1974
+1334 yhEA obnAaYmjQGDRpET Bulgaria 34 Ebola NO
+6433 qTTJpeqOgbjYXpLt heD Estonia 1 Sars-CoV NO
+0217 jHqZpyRrRgbOK maOUZkIT Chad 47 H1N1 NO
+4934 NjP pJqeEoXfR Belgium 57 Ebola YES 22-03-1975
+7978 ciYtJLZO TvUHuTl Bhutan 43 Sars-CoV2 NO
+2085 LVHBzemjzG LHpIZaK India 21 Sars-CoV YES 09-04-2021
+3973 eSEhudvECgPTV DQdO Chad 118 Dengue NO
+1632 kiZCUIiNvc CXsghbCuNJSyvkNa Estonia 41 Marburg YES 07-09-2004
+8589 meFORfE TAOLeZeRcO Canada 26 Smallpox NO
+4051 taZNB zDbqxNzTGMTtEi Eritrea 46 Sars-CoV YES 19-11-1982
+9870 zReKgl PHXqRmZASMyECMdC Estonia 81 H1N1 YES 02-06-1978
+9261 GbhGaD zikvEfyPHIRvx Gambia 28 Sars-CoV YES 14-10-2006
+2623 gSEHlemJKUSN TCOvH Chad 39 Marburg YES 18-07-1962
+8593 xboa VDuMQ Andorra 96 H1N1 YES 22-07-1961
+4550 pcObKhoovLJOShQ pIgiDnNcJ Algeria 37 Sars-CoV YES 30-11-1971
+1109 diLQgHsYrRtyP rBqVUhJL Bhutan 79 Smallpox NO
+9567 RFsojleLTDlYITkT BfaN Canada 95 Ebola YES 20-04-1985
+3023 OyxjKNmNkzFra SvRN Bhutan 72 Sars-CoV YES 23-05-2001
+9581 qRPCjEo mEQJsz Greece 109 H1N1 NO
+3927 ypJTiZOXvijn ooTXehAqLv Bhutan 46 Sars-CoV2 NO
+1083 mAiFgUGTkzUVmS cSEDReRtKvYkx Chad 42 Sars-CoV2 NO
+9138 MIBIhpbpN jjPuDbKyrQ Bhutan 76 Dengue YES 30-04-1963
+8225 GfeLvFYJAIAQNTy EXqV Algeria 3 Ebola NO
+0803 PeiHCl LFeKatkZarglCsx Eritrea 37 H1N1 NO
+7360 RLKFYrplnrpF BpiEKjbBYdzxAz Estonia 88 Marburg YES 28-07-1971
+3547 vXZrpnJLheke oIqGnrgU Gambia 16 Smallpox YES 10-12-1987
+2772 lVqXTkY VjelHc Gambia 83 H1N1 YES 14-10-2018
+9753 rqj FpUUtqQJ Belgium 117 H1N1 YES 29-05-1982
+0772 UVnY PbPoRFIQZLN Belgium 119 Sars-CoV2 YES 29-01-1986
+2417 zvmuEOEsGYLTmPU FlYB Azerbaijan 79 Sars-CoV2 YES 27-02-1999
+3977 AIjC IzGOdqoiPtistQM Chad 99 Marburg YES 17-02-1993
+5510 zkkXoNSJBdb AeJBgiIXIYIuYlf Andorra 56 Smallpox YES 19-02-1972
+8044 ogqOsBsTvnOl IhAuDABoJK Belgium 90 Smallpox YES 12-09-1990
+2573 UDpfpu bKnqRGfFnfHCq Chad 20 Marburg NO
+6810 Neq NIVxYPkEGfqG Albania 1 Dengue NO
+7473 SZR bssIByETlcX Algeria 9 Ebola NO
+8459 JsujKaFEb obOcDdRtsT Estonia 41 H1N1 YES 20-11-1963
+2584 HvqXcPsJcaypo mBdtVXrI Eritrea 89 Sars-CoV2 YES 16-11-2015
+6186 CqvafPcMdmtyVG okcOh Eritrea 52 Marburg NO
+6123 nkCIYrUPqmmycPN HDroFTFzpFQd Andorra 104 Sars-CoV YES 30-04-1998
+6307 NucaMebl bYoavi Andorra 87 Dengue YES 19-01-2000
+0780 fhjr LkppOEcJ Andorra 90 Marburg YES 15-03-1988
+4083 gXmYBFqSAUXvguMD rIyELkMFNp Canada 2 Ebola YES 16-12-2016
+3510 JxRtcafMLqlBPok kMnI Greece 15 Sars-CoV NO
+8006 EkbXl NMFOOieCzIHGRg Canada 39 Sars-CoV NO
+9082 SABgSmsxTjcHM DIoFlFAREEO Belgium 66 Sars-CoV2 NO
+1589 rJn OtLgOen Greece 81 Ebola NO
+6640 KMB xLusDXZg Gambia 56 Marburg YES 12-12-2011
+3203 HMNskoPnOLPhgAO TmsulzCPGYYzRu Bulgaria 20 Sars-CoV NO
+5821 voRUNch ZLpkNNQdVg Estonia 87 Dengue YES 03-04-2009
+2030 TLlirxYdOIi uQesxP Albania 110 Dengue YES 24-07-1971
+3820 VKCDtZNANIbqn GtcJyDLLNoTQg Greece 100 H1N1 YES 28-04-1988
+8109 HFqyOnetLS nSNPosP Andorra 114 Ebola YES 03-02-2018
+7727 eKJSNnZu RBqTaVtHZUdzTC India 99 Sars-CoV NO
+9458 ufGrXukmXlc zgkBGzYdtMzGPZX Belgium 67 Sars-CoV NO
+5069 XuaOIyjBrESC RRmpbaqaCtrkdqhh Azerbaijan 96 Dengue NO
+1472 QTvSpyr JMIhIKhCrJCRo Algeria 41 Marburg NO
+2678 hzafRQzJe zGArnU Gambia 58 H1N1 YES 08-11-1997
+8508 gsm egNFEIOcANm Andorra 58 Dengue NO
+0262 NFkP mztxtJjVfTbhS Azerbaijan 1 Dengue NO
+5842 kjpfyP XYXBzSHqHEnKxr Bulgaria 38 H1N1 YES 11-07-1979
+3931 SaS bGTpmRVQNFyc Canada 49 Dengue NO
+8865 QeJyvMcS pnJ Andorra 68 H1N1 YES 09-08-1999
